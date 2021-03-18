@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
   <feed xmlns="http://www.w3.org/2005/Atom">
     <generator uri="https://github.com/maxvoltar/photo-stream">Photo Stream by @maxvoltar</generator>
-    <link href="http://photo.dnysgdnt.comfeed.xml" rel="self" type="application/atom+xml" />
-    <link href="http://photo.dnysgdnt.com" rel="alternate" type="text/html"/>
-    <updated>2021-03-18T19:21:22+00:00</updated>
-    <id>2021-03-18T19:21:22+00:00</id>
+    <link href="http://photo.dnysgdnt.com/feed.xml" rel="self" type="application/atom+xml" />
+    <link href="http://photo.dnysgdnt.com/" rel="alternate" type="text/html"/>
+    <updated>2021-03-18T19:37:24+00:00</updated>
+    <id>2021-03-18T19:37:24+00:00</id>
     <title type="html">photo.dnysgdnt.com</title>
     <subtitle>a minimalistic photo stream</subtitle>
     <author>
@@ -14,12 +14,12 @@
     </author>
     <entry>
       <title type="html">Stubborn</title>
-      <link href="http://photo.dnysgdnt.comstubborn/" rel="alternate" type="text/html" title="Stubborn" />
+      <link href="http://photo.dnysgdnt.com/stubborn/" rel="alternate" type="text/html" title="Stubborn" />
       <published>2020-03-12T22:06:58+00:00</published>
       <updated>2020-03-12T22:06:58+00:00</updated>
-      <id>http://photo.dnysgdnt.com/stubborn/</id>
+      <id>http://photo.dnysgdnt.com//stubborn/</id>
       <content type="html">
-        <![CDATA[<figure><a href="http://photo.dnysgdnt.comstubborn/"><img src="http://photo.dnysgdnt.com/photos/large/Stubborn-686656.jpg" alt="Stubborn" /></a></figure>
+        <![CDATA[<figure><a href="http://photo.dnysgdnt.com/stubborn/"><img src="http://photo.dnysgdnt.com//photos/large/Stubborn-686656.jpg" alt="Stubborn" /></a></figure>
       ]]>
     </content>
     <author>
@@ -27,17 +27,17 @@
       <email>dnnys@user.noreply.github.com</email>
       <uri>https://dnnys.github.io</uri>
     </author>
-    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com/photos/large/Stubborn-686656.jpg" />
-      <media:content medium="image" url="http://photo.dnysgdnt.com/photos/large/Stubborn-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Stubborn-686656.jpg" />
+      <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Stubborn-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
       </entry>
       <entry>
         <title type="html">Peak</title>
-        <link href="http://photo.dnysgdnt.compeak/" rel="alternate" type="text/html" title="Peak" />
+        <link href="http://photo.dnysgdnt.com/peak/" rel="alternate" type="text/html" title="Peak" />
         <published>2020-03-12T21:59:21+00:00</published>
         <updated>2020-03-12T21:59:21+00:00</updated>
-        <id>http://photo.dnysgdnt.com/peak/</id>
+        <id>http://photo.dnysgdnt.com//peak/</id>
         <content type="html">
-          <![CDATA[<figure><a href="http://photo.dnysgdnt.compeak/"><img src="http://photo.dnysgdnt.com/photos/large/Peak-686656.jpg" alt="Peak" /></a></figure>
+          <![CDATA[<figure><a href="http://photo.dnysgdnt.com/peak/"><img src="http://photo.dnysgdnt.com//photos/large/Peak-686656.jpg" alt="Peak" /></a></figure>
         ]]>
       </content>
       <author>
@@ -45,17 +45,17 @@
         <email>dnnys@user.noreply.github.com</email>
         <uri>https://dnnys.github.io</uri>
       </author>
-      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com/photos/large/Peak-686656.jpg" />
-        <media:content medium="image" url="http://photo.dnysgdnt.com/photos/large/Peak-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Peak-686656.jpg" />
+        <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Peak-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
         </entry>
         <entry>
           <title type="html">Escalators Behind Glass</title>
-          <link href="http://photo.dnysgdnt.comescalators-behind-glass/" rel="alternate" type="text/html" title="Escalators Behind Glass" />
+          <link href="http://photo.dnysgdnt.com/escalators-behind-glass/" rel="alternate" type="text/html" title="Escalators Behind Glass" />
           <published>2020-03-12T21:59:02+00:00</published>
           <updated>2020-03-12T21:59:02+00:00</updated>
-          <id>http://photo.dnysgdnt.com/escalators-behind-glass/</id>
+          <id>http://photo.dnysgdnt.com//escalators-behind-glass/</id>
           <content type="html">
-            <![CDATA[<figure><a href="http://photo.dnysgdnt.comescalators-behind-glass/"><img src="http://photo.dnysgdnt.com/photos/large/Escalators%20Behind%20Glass-686656.jpg" alt="Escalators Behind Glass" /></a></figure>
+            <![CDATA[<figure><a href="http://photo.dnysgdnt.com/escalators-behind-glass/"><img src="http://photo.dnysgdnt.com//photos/large/Escalators%20Behind%20Glass-686656.jpg" alt="Escalators Behind Glass" /></a></figure>
           ]]>
         </content>
         <author>
@@ -63,17 +63,17 @@
           <email>dnnys@user.noreply.github.com</email>
           <uri>https://dnnys.github.io</uri>
         </author>
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com/photos/large/Escalators%20Behind%20Glass-686656.jpg" />
-          <media:content medium="image" url="http://photo.dnysgdnt.com/photos/large/Escalators%20Behind%20Glass-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Escalators%20Behind%20Glass-686656.jpg" />
+          <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Escalators%20Behind%20Glass-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
           </entry>
           <entry>
             <title type="html">Found Colors</title>
-            <link href="http://photo.dnysgdnt.comfound-colors/" rel="alternate" type="text/html" title="Found Colors" />
+            <link href="http://photo.dnysgdnt.com/found-colors/" rel="alternate" type="text/html" title="Found Colors" />
             <published>2020-03-12T21:59:01+00:00</published>
             <updated>2020-03-12T21:59:01+00:00</updated>
-            <id>http://photo.dnysgdnt.com/found-colors/</id>
+            <id>http://photo.dnysgdnt.com//found-colors/</id>
             <content type="html">
-              <![CDATA[<figure><a href="http://photo.dnysgdnt.comfound-colors/"><img src="http://photo.dnysgdnt.com/photos/large/Found%20Colors-686656.jpg" alt="Found Colors" /></a></figure>
+              <![CDATA[<figure><a href="http://photo.dnysgdnt.com/found-colors/"><img src="http://photo.dnysgdnt.com//photos/large/Found%20Colors-686656.jpg" alt="Found Colors" /></a></figure>
             ]]>
           </content>
           <author>
@@ -81,17 +81,17 @@
             <email>dnnys@user.noreply.github.com</email>
             <uri>https://dnnys.github.io</uri>
           </author>
-          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com/photos/large/Found%20Colors-686656.jpg" />
-            <media:content medium="image" url="http://photo.dnysgdnt.com/photos/large/Found%20Colors-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Found%20Colors-686656.jpg" />
+            <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Found%20Colors-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
             </entry>
             <entry>
               <title type="html">Tiled</title>
-              <link href="http://photo.dnysgdnt.comtiled/" rel="alternate" type="text/html" title="Tiled" />
+              <link href="http://photo.dnysgdnt.com/tiled/" rel="alternate" type="text/html" title="Tiled" />
               <published>2020-03-12T21:59:00+00:00</published>
               <updated>2020-03-12T21:59:00+00:00</updated>
-              <id>http://photo.dnysgdnt.com/tiled/</id>
+              <id>http://photo.dnysgdnt.com//tiled/</id>
               <content type="html">
-                <![CDATA[<figure><a href="http://photo.dnysgdnt.comtiled/"><img src="http://photo.dnysgdnt.com/photos/large/Tiled-686656.jpg" alt="Tiled" /></a></figure>
+                <![CDATA[<figure><a href="http://photo.dnysgdnt.com/tiled/"><img src="http://photo.dnysgdnt.com//photos/large/Tiled-686656.jpg" alt="Tiled" /></a></figure>
               ]]>
             </content>
             <author>
@@ -99,17 +99,17 @@
               <email>dnnys@user.noreply.github.com</email>
               <uri>https://dnnys.github.io</uri>
             </author>
-            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com/photos/large/Tiled-686656.jpg" />
-              <media:content medium="image" url="http://photo.dnysgdnt.com/photos/large/Tiled-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Tiled-686656.jpg" />
+              <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Tiled-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
               </entry>
               <entry>
                 <title type="html">Up To Where The Trains Are</title>
-                <link href="http://photo.dnysgdnt.comup-to-where-the-trains-are/" rel="alternate" type="text/html" title="Up To Where The Trains Are" />
+                <link href="http://photo.dnysgdnt.com/up-to-where-the-trains-are/" rel="alternate" type="text/html" title="Up To Where The Trains Are" />
                 <published>2020-02-18T22:17:45+00:00</published>
                 <updated>2020-02-18T22:17:45+00:00</updated>
-                <id>http://photo.dnysgdnt.com/up-to-where-the-trains-are/</id>
+                <id>http://photo.dnysgdnt.com//up-to-where-the-trains-are/</id>
                 <content type="html">
-                  <![CDATA[<figure><a href="http://photo.dnysgdnt.comup-to-where-the-trains-are/"><img src="http://photo.dnysgdnt.com/photos/large/Up%20To%20Where%20The%20Trains%20Are-686656.jpg" alt="Up To Where The Trains Are" /></a></figure>
+                  <![CDATA[<figure><a href="http://photo.dnysgdnt.com/up-to-where-the-trains-are/"><img src="http://photo.dnysgdnt.com//photos/large/Up%20To%20Where%20The%20Trains%20Are-686656.jpg" alt="Up To Where The Trains Are" /></a></figure>
                 ]]>
               </content>
               <author>
@@ -117,17 +117,17 @@
                 <email>dnnys@user.noreply.github.com</email>
                 <uri>https://dnnys.github.io</uri>
               </author>
-              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com/photos/large/Up%20To%20Where%20The%20Trains%20Are-686656.jpg" />
-                <media:content medium="image" url="http://photo.dnysgdnt.com/photos/large/Up%20To%20Where%20The%20Trains%20Are-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Up%20To%20Where%20The%20Trains%20Are-686656.jpg" />
+                <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Up%20To%20Where%20The%20Trains%20Are-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                 </entry>
                 <entry>
                   <title type="html">Selfie</title>
-                  <link href="http://photo.dnysgdnt.comselfie/" rel="alternate" type="text/html" title="Selfie" />
+                  <link href="http://photo.dnysgdnt.com/selfie/" rel="alternate" type="text/html" title="Selfie" />
                   <published>2020-02-18T22:17:15+00:00</published>
                   <updated>2020-02-18T22:17:15+00:00</updated>
-                  <id>http://photo.dnysgdnt.com/selfie/</id>
+                  <id>http://photo.dnysgdnt.com//selfie/</id>
                   <content type="html">
-                    <![CDATA[<figure><a href="http://photo.dnysgdnt.comselfie/"><img src="http://photo.dnysgdnt.com/photos/large/Selfie-686656.jpg" alt="Selfie" /></a></figure>
+                    <![CDATA[<figure><a href="http://photo.dnysgdnt.com/selfie/"><img src="http://photo.dnysgdnt.com//photos/large/Selfie-686656.jpg" alt="Selfie" /></a></figure>
                   ]]>
                 </content>
                 <author>
@@ -135,17 +135,17 @@
                   <email>dnnys@user.noreply.github.com</email>
                   <uri>https://dnnys.github.io</uri>
                 </author>
-                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com/photos/large/Selfie-686656.jpg" />
-                  <media:content medium="image" url="http://photo.dnysgdnt.com/photos/large/Selfie-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Selfie-686656.jpg" />
+                  <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Selfie-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                   </entry>
                   <entry>
                     <title type="html">Last Christmas Location</title>
-                    <link href="http://photo.dnysgdnt.comlast-christmas-location/" rel="alternate" type="text/html" title="Last Christmas Location" />
+                    <link href="http://photo.dnysgdnt.com/last-christmas-location/" rel="alternate" type="text/html" title="Last Christmas Location" />
                     <published>2020-02-18T22:17:07+00:00</published>
                     <updated>2020-02-18T22:17:07+00:00</updated>
-                    <id>http://photo.dnysgdnt.com/last-christmas-location/</id>
+                    <id>http://photo.dnysgdnt.com//last-christmas-location/</id>
                     <content type="html">
-                      <![CDATA[<figure><a href="http://photo.dnysgdnt.comlast-christmas-location/"><img src="http://photo.dnysgdnt.com/photos/large/Last%20Christmas%20Location-686656.jpg" alt="Last Christmas Location" /></a></figure>
+                      <![CDATA[<figure><a href="http://photo.dnysgdnt.com/last-christmas-location/"><img src="http://photo.dnysgdnt.com//photos/large/Last%20Christmas%20Location-686656.jpg" alt="Last Christmas Location" /></a></figure>
                     ]]>
                   </content>
                   <author>
@@ -153,17 +153,17 @@
                     <email>dnnys@user.noreply.github.com</email>
                     <uri>https://dnnys.github.io</uri>
                   </author>
-                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com/photos/large/Last%20Christmas%20Location-686656.jpg" />
-                    <media:content medium="image" url="http://photo.dnysgdnt.com/photos/large/Last%20Christmas%20Location-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Last%20Christmas%20Location-686656.jpg" />
+                    <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Last%20Christmas%20Location-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                     </entry>
                     <entry>
                       <title type="html">Overlap & Connections</title>
-                      <link href="http://photo.dnysgdnt.comoverlap-connections/" rel="alternate" type="text/html" title="Overlap & Connections" />
+                      <link href="http://photo.dnysgdnt.com/overlap-connections/" rel="alternate" type="text/html" title="Overlap & Connections" />
                       <published>2020-02-18T22:16:13+00:00</published>
                       <updated>2020-02-18T22:16:13+00:00</updated>
-                      <id>http://photo.dnysgdnt.com/overlap-connections/</id>
+                      <id>http://photo.dnysgdnt.com//overlap-connections/</id>
                       <content type="html">
-                        <![CDATA[<figure><a href="http://photo.dnysgdnt.comoverlap-connections/"><img src="http://photo.dnysgdnt.com/photos/large/Overlap%20&%20Connections-686656.jpg" alt="Overlap & Connections" /></a></figure>
+                        <![CDATA[<figure><a href="http://photo.dnysgdnt.com/overlap-connections/"><img src="http://photo.dnysgdnt.com//photos/large/Overlap%20&%20Connections-686656.jpg" alt="Overlap & Connections" /></a></figure>
                       ]]>
                     </content>
                     <author>
@@ -171,17 +171,17 @@
                       <email>dnnys@user.noreply.github.com</email>
                       <uri>https://dnnys.github.io</uri>
                     </author>
-                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com/photos/large/Overlap%20&%20Connections-686656.jpg" />
-                      <media:content medium="image" url="http://photo.dnysgdnt.com/photos/large/Overlap%20&%20Connections-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Overlap%20&%20Connections-686656.jpg" />
+                      <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Overlap%20&%20Connections-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                       </entry>
                       <entry>
                         <title type="html">London Calling</title>
-                        <link href="http://photo.dnysgdnt.comlondon-calling/" rel="alternate" type="text/html" title="London Calling" />
+                        <link href="http://photo.dnysgdnt.com/london-calling/" rel="alternate" type="text/html" title="London Calling" />
                         <published>2020-02-18T22:16:12+00:00</published>
                         <updated>2020-02-18T22:16:12+00:00</updated>
-                        <id>http://photo.dnysgdnt.com/london-calling/</id>
+                        <id>http://photo.dnysgdnt.com//london-calling/</id>
                         <content type="html">
-                          <![CDATA[<figure><a href="http://photo.dnysgdnt.comlondon-calling/"><img src="http://photo.dnysgdnt.com/photos/large/London%20Calling-686656.jpg" alt="London Calling" /></a></figure>
+                          <![CDATA[<figure><a href="http://photo.dnysgdnt.com/london-calling/"><img src="http://photo.dnysgdnt.com//photos/large/London%20Calling-686656.jpg" alt="London Calling" /></a></figure>
                         ]]>
                       </content>
                       <author>
@@ -189,17 +189,17 @@
                         <email>dnnys@user.noreply.github.com</email>
                         <uri>https://dnnys.github.io</uri>
                       </author>
-                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com/photos/large/London%20Calling-686656.jpg" />
-                        <media:content medium="image" url="http://photo.dnysgdnt.com/photos/large/London%20Calling-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/London%20Calling-686656.jpg" />
+                        <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/London%20Calling-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                         </entry>
                         <entry>
                           <title type="html">Moody Skies</title>
-                          <link href="http://photo.dnysgdnt.commoody-skies/" rel="alternate" type="text/html" title="Moody Skies" />
+                          <link href="http://photo.dnysgdnt.com/moody-skies/" rel="alternate" type="text/html" title="Moody Skies" />
                           <published>2020-02-11T17:06:37+00:00</published>
                           <updated>2020-02-11T17:06:37+00:00</updated>
-                          <id>http://photo.dnysgdnt.com/moody-skies/</id>
+                          <id>http://photo.dnysgdnt.com//moody-skies/</id>
                           <content type="html">
-                            <![CDATA[<figure><a href="http://photo.dnysgdnt.commoody-skies/"><img src="http://photo.dnysgdnt.com/photos/large/Moody%20Skies-686656.jpeg" alt="Moody Skies" /></a></figure>
+                            <![CDATA[<figure><a href="http://photo.dnysgdnt.com/moody-skies/"><img src="http://photo.dnysgdnt.com//photos/large/Moody%20Skies-686656.jpeg" alt="Moody Skies" /></a></figure>
                           ]]>
                         </content>
                         <author>
@@ -207,17 +207,17 @@
                           <email>dnnys@user.noreply.github.com</email>
                           <uri>https://dnnys.github.io</uri>
                         </author>
-                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com/photos/large/Moody%20Skies-686656.jpeg" />
-                          <media:content medium="image" url="http://photo.dnysgdnt.com/photos/large/Moody%20Skies-686656.jpeg" xmlns:media="http://search.yahoo.com/mrss/" />
+                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Moody%20Skies-686656.jpeg" />
+                          <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Moody%20Skies-686656.jpeg" xmlns:media="http://search.yahoo.com/mrss/" />
                           </entry>
                           <entry>
                             <title type="html">Angled Landscape</title>
-                            <link href="http://photo.dnysgdnt.comangled-landscape/" rel="alternate" type="text/html" title="Angled Landscape" />
+                            <link href="http://photo.dnysgdnt.com/angled-landscape/" rel="alternate" type="text/html" title="Angled Landscape" />
                             <published>2020-02-03T13:30:09+00:00</published>
                             <updated>2020-02-03T13:30:09+00:00</updated>
-                            <id>http://photo.dnysgdnt.com/angled-landscape/</id>
+                            <id>http://photo.dnysgdnt.com//angled-landscape/</id>
                             <content type="html">
-                              <![CDATA[<figure><a href="http://photo.dnysgdnt.comangled-landscape/"><img src="http://photo.dnysgdnt.com/photos/large/Angled%20Landscape-686656.jpg" alt="Angled Landscape" /></a></figure>
+                              <![CDATA[<figure><a href="http://photo.dnysgdnt.com/angled-landscape/"><img src="http://photo.dnysgdnt.com//photos/large/Angled%20Landscape-686656.jpg" alt="Angled Landscape" /></a></figure>
                             ]]>
                           </content>
                           <author>
@@ -225,17 +225,17 @@
                             <email>dnnys@user.noreply.github.com</email>
                             <uri>https://dnnys.github.io</uri>
                           </author>
-                          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com/photos/large/Angled%20Landscape-686656.jpg" />
-                            <media:content medium="image" url="http://photo.dnysgdnt.com/photos/large/Angled%20Landscape-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Angled%20Landscape-686656.jpg" />
+                            <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Angled%20Landscape-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                             </entry>
                             <entry>
                               <title type="html">New Windmill</title>
-                              <link href="http://photo.dnysgdnt.comnew-windmill/" rel="alternate" type="text/html" title="New Windmill" />
+                              <link href="http://photo.dnysgdnt.com/new-windmill/" rel="alternate" type="text/html" title="New Windmill" />
                               <published>2020-02-03T13:30:00+00:00</published>
                               <updated>2020-02-03T13:30:00+00:00</updated>
-                              <id>http://photo.dnysgdnt.com/new-windmill/</id>
+                              <id>http://photo.dnysgdnt.com//new-windmill/</id>
                               <content type="html">
-                                <![CDATA[<figure><a href="http://photo.dnysgdnt.comnew-windmill/"><img src="http://photo.dnysgdnt.com/photos/large/New%20Windmill-686656.jpg" alt="New Windmill" /></a></figure>
+                                <![CDATA[<figure><a href="http://photo.dnysgdnt.com/new-windmill/"><img src="http://photo.dnysgdnt.com//photos/large/New%20Windmill-686656.jpg" alt="New Windmill" /></a></figure>
                               ]]>
                             </content>
                             <author>
@@ -243,17 +243,17 @@
                               <email>dnnys@user.noreply.github.com</email>
                               <uri>https://dnnys.github.io</uri>
                             </author>
-                            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com/photos/large/New%20Windmill-686656.jpg" />
-                              <media:content medium="image" url="http://photo.dnysgdnt.com/photos/large/New%20Windmill-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/New%20Windmill-686656.jpg" />
+                              <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/New%20Windmill-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                               </entry>
                               <entry>
                                 <title type="html">Old Windmill</title>
-                                <link href="http://photo.dnysgdnt.comold-windmill/" rel="alternate" type="text/html" title="Old Windmill" />
+                                <link href="http://photo.dnysgdnt.com/old-windmill/" rel="alternate" type="text/html" title="Old Windmill" />
                                 <published>2020-02-03T13:29:57+00:00</published>
                                 <updated>2020-02-03T13:29:57+00:00</updated>
-                                <id>http://photo.dnysgdnt.com/old-windmill/</id>
+                                <id>http://photo.dnysgdnt.com//old-windmill/</id>
                                 <content type="html">
-                                  <![CDATA[<figure><a href="http://photo.dnysgdnt.comold-windmill/"><img src="http://photo.dnysgdnt.com/photos/large/Old%20Windmill-686656.jpg" alt="Old Windmill" /></a></figure>
+                                  <![CDATA[<figure><a href="http://photo.dnysgdnt.com/old-windmill/"><img src="http://photo.dnysgdnt.com//photos/large/Old%20Windmill-686656.jpg" alt="Old Windmill" /></a></figure>
                                 ]]>
                               </content>
                               <author>
@@ -261,17 +261,17 @@
                                 <email>dnnys@user.noreply.github.com</email>
                                 <uri>https://dnnys.github.io</uri>
                               </author>
-                              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com/photos/large/Old%20Windmill-686656.jpg" />
-                                <media:content medium="image" url="http://photo.dnysgdnt.com/photos/large/Old%20Windmill-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Old%20Windmill-686656.jpg" />
+                                <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Old%20Windmill-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                                 </entry>
                                 <entry>
                                   <title type="html">Sheep</title>
-                                  <link href="http://photo.dnysgdnt.comsheep/" rel="alternate" type="text/html" title="Sheep" />
+                                  <link href="http://photo.dnysgdnt.com/sheep/" rel="alternate" type="text/html" title="Sheep" />
                                   <published>2020-02-03T13:29:37+00:00</published>
                                   <updated>2020-02-03T13:29:37+00:00</updated>
-                                  <id>http://photo.dnysgdnt.com/sheep/</id>
+                                  <id>http://photo.dnysgdnt.com//sheep/</id>
                                   <content type="html">
-                                    <![CDATA[<figure><a href="http://photo.dnysgdnt.comsheep/"><img src="http://photo.dnysgdnt.com/photos/large/Sheep-686656.jpg" alt="Sheep" /></a></figure>
+                                    <![CDATA[<figure><a href="http://photo.dnysgdnt.com/sheep/"><img src="http://photo.dnysgdnt.com//photos/large/Sheep-686656.jpg" alt="Sheep" /></a></figure>
                                   ]]>
                                 </content>
                                 <author>
@@ -279,17 +279,17 @@
                                   <email>dnnys@user.noreply.github.com</email>
                                   <uri>https://dnnys.github.io</uri>
                                 </author>
-                                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com/photos/large/Sheep-686656.jpg" />
-                                  <media:content medium="image" url="http://photo.dnysgdnt.com/photos/large/Sheep-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Sheep-686656.jpg" />
+                                  <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Sheep-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                                   </entry>
                                   <entry>
                                     <title type="html">Hidden Lighthouse</title>
-                                    <link href="http://photo.dnysgdnt.comhidden-lighthouse/" rel="alternate" type="text/html" title="Hidden Lighthouse" />
+                                    <link href="http://photo.dnysgdnt.com/hidden-lighthouse/" rel="alternate" type="text/html" title="Hidden Lighthouse" />
                                     <published>2020-02-03T13:29:34+00:00</published>
                                     <updated>2020-02-03T13:29:34+00:00</updated>
-                                    <id>http://photo.dnysgdnt.com/hidden-lighthouse/</id>
+                                    <id>http://photo.dnysgdnt.com//hidden-lighthouse/</id>
                                     <content type="html">
-                                      <![CDATA[<figure><a href="http://photo.dnysgdnt.comhidden-lighthouse/"><img src="http://photo.dnysgdnt.com/photos/large/Hidden%20Lighthouse-686656.jpg" alt="Hidden Lighthouse" /></a></figure>
+                                      <![CDATA[<figure><a href="http://photo.dnysgdnt.com/hidden-lighthouse/"><img src="http://photo.dnysgdnt.com//photos/large/Hidden%20Lighthouse-686656.jpg" alt="Hidden Lighthouse" /></a></figure>
                                     ]]>
                                   </content>
                                   <author>
@@ -297,17 +297,17 @@
                                     <email>dnnys@user.noreply.github.com</email>
                                     <uri>https://dnnys.github.io</uri>
                                   </author>
-                                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com/photos/large/Hidden%20Lighthouse-686656.jpg" />
-                                    <media:content medium="image" url="http://photo.dnysgdnt.com/photos/large/Hidden%20Lighthouse-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Hidden%20Lighthouse-686656.jpg" />
+                                    <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Hidden%20Lighthouse-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                                     </entry>
                                     <entry>
                                       <title type="html">Development</title>
-                                      <link href="http://photo.dnysgdnt.comdevelopment/" rel="alternate" type="text/html" title="Development" />
+                                      <link href="http://photo.dnysgdnt.com/development/" rel="alternate" type="text/html" title="Development" />
                                       <published>2020-01-06T13:12:42+00:00</published>
                                       <updated>2020-01-06T13:12:42+00:00</updated>
-                                      <id>http://photo.dnysgdnt.com/development/</id>
+                                      <id>http://photo.dnysgdnt.com//development/</id>
                                       <content type="html">
-                                        <![CDATA[<figure><a href="http://photo.dnysgdnt.comdevelopment/"><img src="http://photo.dnysgdnt.com/photos/large/Development-686656.jpg" alt="Development" /></a></figure>
+                                        <![CDATA[<figure><a href="http://photo.dnysgdnt.com/development/"><img src="http://photo.dnysgdnt.com//photos/large/Development-686656.jpg" alt="Development" /></a></figure>
                                       ]]>
                                     </content>
                                     <author>
@@ -315,17 +315,17 @@
                                       <email>dnnys@user.noreply.github.com</email>
                                       <uri>https://dnnys.github.io</uri>
                                     </author>
-                                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com/photos/large/Development-686656.jpg" />
-                                      <media:content medium="image" url="http://photo.dnysgdnt.com/photos/large/Development-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Development-686656.jpg" />
+                                      <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Development-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                                       </entry>
                                       <entry>
                                         <title type="html">Way Out</title>
-                                        <link href="http://photo.dnysgdnt.comway-out/" rel="alternate" type="text/html" title="Way Out" />
+                                        <link href="http://photo.dnysgdnt.com/way-out/" rel="alternate" type="text/html" title="Way Out" />
                                         <published>2020-01-06T13:11:31+00:00</published>
                                         <updated>2020-01-06T13:11:31+00:00</updated>
-                                        <id>http://photo.dnysgdnt.com/way-out/</id>
+                                        <id>http://photo.dnysgdnt.com//way-out/</id>
                                         <content type="html">
-                                          <![CDATA[<figure><a href="http://photo.dnysgdnt.comway-out/"><img src="http://photo.dnysgdnt.com/photos/large/Way%20Out-686656.jpg" alt="Way Out" /></a></figure>
+                                          <![CDATA[<figure><a href="http://photo.dnysgdnt.com/way-out/"><img src="http://photo.dnysgdnt.com//photos/large/Way%20Out-686656.jpg" alt="Way Out" /></a></figure>
                                         ]]>
                                       </content>
                                       <author>
@@ -333,17 +333,17 @@
                                         <email>dnnys@user.noreply.github.com</email>
                                         <uri>https://dnnys.github.io</uri>
                                       </author>
-                                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com/photos/large/Way%20Out-686656.jpg" />
-                                        <media:content medium="image" url="http://photo.dnysgdnt.com/photos/large/Way%20Out-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Way%20Out-686656.jpg" />
+                                        <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Way%20Out-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                                         </entry>
                                         <entry>
                                           <title type="html">Descending Into Austin</title>
-                                          <link href="http://photo.dnysgdnt.comdescending-into-austin/" rel="alternate" type="text/html" title="Descending Into Austin" />
+                                          <link href="http://photo.dnysgdnt.com/descending-into-austin/" rel="alternate" type="text/html" title="Descending Into Austin" />
                                           <published>2019-12-30T17:23:22+00:00</published>
                                           <updated>2019-12-30T17:23:22+00:00</updated>
-                                          <id>http://photo.dnysgdnt.com/descending-into-austin/</id>
+                                          <id>http://photo.dnysgdnt.com//descending-into-austin/</id>
                                           <content type="html">
-                                            <![CDATA[<figure><a href="http://photo.dnysgdnt.comdescending-into-austin/"><img src="http://photo.dnysgdnt.com/photos/large/Descending%20Into%20Austin-686656.jpg" alt="Descending Into Austin" /></a></figure>
+                                            <![CDATA[<figure><a href="http://photo.dnysgdnt.com/descending-into-austin/"><img src="http://photo.dnysgdnt.com//photos/large/Descending%20Into%20Austin-686656.jpg" alt="Descending Into Austin" /></a></figure>
                                           ]]>
                                         </content>
                                         <author>
@@ -351,17 +351,17 @@
                                           <email>dnnys@user.noreply.github.com</email>
                                           <uri>https://dnnys.github.io</uri>
                                         </author>
-                                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com/photos/large/Descending%20Into%20Austin-686656.jpg" />
-                                          <media:content medium="image" url="http://photo.dnysgdnt.com/photos/large/Descending%20Into%20Austin-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Descending%20Into%20Austin-686656.jpg" />
+                                          <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Descending%20Into%20Austin-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                                           </entry>
                                           <entry>
                                             <title type="html">Fly Delta Jets</title>
-                                            <link href="http://photo.dnysgdnt.comfly-delta-jets/" rel="alternate" type="text/html" title="Fly Delta Jets" />
+                                            <link href="http://photo.dnysgdnt.com/fly-delta-jets/" rel="alternate" type="text/html" title="Fly Delta Jets" />
                                             <published>2019-12-30T17:05:20+00:00</published>
                                             <updated>2019-12-30T17:05:20+00:00</updated>
-                                            <id>http://photo.dnysgdnt.com/fly-delta-jets/</id>
+                                            <id>http://photo.dnysgdnt.com//fly-delta-jets/</id>
                                             <content type="html">
-                                              <![CDATA[<figure><a href="http://photo.dnysgdnt.comfly-delta-jets/"><img src="http://photo.dnysgdnt.com/photos/large/Fly%20Delta%20Jets-686656.jpg" alt="Fly Delta Jets" /></a></figure>
+                                              <![CDATA[<figure><a href="http://photo.dnysgdnt.com/fly-delta-jets/"><img src="http://photo.dnysgdnt.com//photos/large/Fly%20Delta%20Jets-686656.jpg" alt="Fly Delta Jets" /></a></figure>
                                             ]]>
                                           </content>
                                           <author>
@@ -369,7 +369,7 @@
                                             <email>dnnys@user.noreply.github.com</email>
                                             <uri>https://dnnys.github.io</uri>
                                           </author>
-                                          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com/photos/large/Fly%20Delta%20Jets-686656.jpg" />
-                                            <media:content medium="image" url="http://photo.dnysgdnt.com/photos/large/Fly%20Delta%20Jets-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Fly%20Delta%20Jets-686656.jpg" />
+                                            <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Fly%20Delta%20Jets-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                                             </entry>
                                           </feed>
