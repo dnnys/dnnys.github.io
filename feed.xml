@@ -3,8 +3,8 @@
     <generator uri="https://github.com/maxvoltar/photo-stream">Photo Stream by @maxvoltar</generator>
     <link href="http://photo.dnysgdnt.com/feed.xml" rel="self" type="application/atom+xml" />
     <link href="http://photo.dnysgdnt.com/" rel="alternate" type="text/html"/>
-    <updated>2021-03-19T10:05:11+00:00</updated>
-    <id>2021-03-19T10:05:11+00:00</id>
+    <updated>2021-03-23T17:38:50+00:00</updated>
+    <id>2021-03-23T17:38:50+00:00</id>
     <title type="html">photo.dnysgdnt.com</title>
     <subtitle>a minimalistic photo stream</subtitle>
     <author>
@@ -13,13 +13,13 @@
       <uri>https://dnnys.github.io</uri>
     </author>
     <entry>
-      <title type="html">20161120-_MG_4255</title>
-      <link href="http://photo.dnysgdnt.com/20161120-mg-4255/" rel="alternate" type="text/html" title="20161120-_MG_4255" />
-      <published>2021-03-18T21:32:44+00:00</published>
-      <updated>2021-03-18T21:32:44+00:00</updated>
-      <id>http://photo.dnysgdnt.com//20161120-mg-4255/</id>
+      <title type="html">2016 Abandoned Sovjet Stuff VIII</title>
+      <link href="http://photo.dnysgdnt.com/2016-abandoned-sovjet-stuff-viii/" rel="alternate" type="text/html" title="2016 Abandoned Sovjet Stuff VIII" />
+      <published>2021-03-23T18:07:20+00:00</published>
+      <updated>2021-03-23T18:07:20+00:00</updated>
+      <id>http://photo.dnysgdnt.com//2016-abandoned-sovjet-stuff-viii/</id>
       <content type="html">
-        <![CDATA[<figure><a href="http://photo.dnysgdnt.com/20161120-mg-4255/"><img src="http://photo.dnysgdnt.com//photos/large/20161120-_MG_4255-686656.jpg" alt="20161120-_MG_4255" /></a></figure>
+        <![CDATA[<figure><a href="http://photo.dnysgdnt.com/2016-abandoned-sovjet-stuff-viii/"><img src="http://photo.dnysgdnt.com//photos/large/2016%20Abandoned%20Sovjet%20Stuff%20VIII-686656.jpg" alt="2016 Abandoned Sovjet Stuff VIII" /></a></figure>
       ]]>
     </content>
     <author>
@@ -27,17 +27,17 @@
       <email>dnnys@user.noreply.github.com</email>
       <uri>https://dnnys.github.io</uri>
     </author>
-    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/20161120-_MG_4255-686656.jpg" />
-      <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/20161120-_MG_4255-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/2016%20Abandoned%20Sovjet%20Stuff%20VIII-686656.jpg" />
+      <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/2016%20Abandoned%20Sovjet%20Stuff%20VIII-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
       </entry>
       <entry>
-        <title type="html">20161120-_MG_4254</title>
-        <link href="http://photo.dnysgdnt.com/20161120-mg-4254/" rel="alternate" type="text/html" title="20161120-_MG_4254" />
-        <published>2021-03-18T21:32:40+00:00</published>
-        <updated>2021-03-18T21:32:40+00:00</updated>
-        <id>http://photo.dnysgdnt.com//20161120-mg-4254/</id>
+        <title type="html">2016 Abandoned Sovjet Stuff VII</title>
+        <link href="http://photo.dnysgdnt.com/2016-abandoned-sovjet-stuff-vii/" rel="alternate" type="text/html" title="2016 Abandoned Sovjet Stuff VII" />
+        <published>2021-03-23T18:07:16+00:00</published>
+        <updated>2021-03-23T18:07:16+00:00</updated>
+        <id>http://photo.dnysgdnt.com//2016-abandoned-sovjet-stuff-vii/</id>
         <content type="html">
-          <![CDATA[<figure><a href="http://photo.dnysgdnt.com/20161120-mg-4254/"><img src="http://photo.dnysgdnt.com//photos/large/20161120-_MG_4254-686656.jpg" alt="20161120-_MG_4254" /></a></figure>
+          <![CDATA[<figure><a href="http://photo.dnysgdnt.com/2016-abandoned-sovjet-stuff-vii/"><img src="http://photo.dnysgdnt.com//photos/large/2016%20Abandoned%20Sovjet%20Stuff%20VII-686656.jpg" alt="2016 Abandoned Sovjet Stuff VII" /></a></figure>
         ]]>
       </content>
       <author>
@@ -45,17 +45,17 @@
         <email>dnnys@user.noreply.github.com</email>
         <uri>https://dnnys.github.io</uri>
       </author>
-      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/20161120-_MG_4254-686656.jpg" />
-        <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/20161120-_MG_4254-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/2016%20Abandoned%20Sovjet%20Stuff%20VII-686656.jpg" />
+        <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/2016%20Abandoned%20Sovjet%20Stuff%20VII-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
         </entry>
         <entry>
-          <title type="html">20161120-_MG_4240</title>
-          <link href="http://photo.dnysgdnt.com/20161120-mg-4240/" rel="alternate" type="text/html" title="20161120-_MG_4240" />
-          <published>2021-03-18T21:32:36+00:00</published>
-          <updated>2021-03-18T21:32:36+00:00</updated>
-          <id>http://photo.dnysgdnt.com//20161120-mg-4240/</id>
+          <title type="html">2016 Abandoned Sovjet Stuff VI</title>
+          <link href="http://photo.dnysgdnt.com/2016-abandoned-sovjet-stuff-vi/" rel="alternate" type="text/html" title="2016 Abandoned Sovjet Stuff VI" />
+          <published>2021-03-23T18:07:14+00:00</published>
+          <updated>2021-03-23T18:07:14+00:00</updated>
+          <id>http://photo.dnysgdnt.com//2016-abandoned-sovjet-stuff-vi/</id>
           <content type="html">
-            <![CDATA[<figure><a href="http://photo.dnysgdnt.com/20161120-mg-4240/"><img src="http://photo.dnysgdnt.com//photos/large/20161120-_MG_4240-686656.jpg" alt="20161120-_MG_4240" /></a></figure>
+            <![CDATA[<figure><a href="http://photo.dnysgdnt.com/2016-abandoned-sovjet-stuff-vi/"><img src="http://photo.dnysgdnt.com//photos/large/2016%20Abandoned%20Sovjet%20Stuff%20VI-686656.jpg" alt="2016 Abandoned Sovjet Stuff VI" /></a></figure>
           ]]>
         </content>
         <author>
@@ -63,17 +63,17 @@
           <email>dnnys@user.noreply.github.com</email>
           <uri>https://dnnys.github.io</uri>
         </author>
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/20161120-_MG_4240-686656.jpg" />
-          <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/20161120-_MG_4240-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/2016%20Abandoned%20Sovjet%20Stuff%20VI-686656.jpg" />
+          <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/2016%20Abandoned%20Sovjet%20Stuff%20VI-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
           </entry>
           <entry>
-            <title type="html">20161120-_MG_4239</title>
-            <link href="http://photo.dnysgdnt.com/20161120-mg-4239/" rel="alternate" type="text/html" title="20161120-_MG_4239" />
-            <published>2021-03-18T21:32:33+00:00</published>
-            <updated>2021-03-18T21:32:33+00:00</updated>
-            <id>http://photo.dnysgdnt.com//20161120-mg-4239/</id>
+            <title type="html">2016 Abandoned Sovjet Stuff V</title>
+            <link href="http://photo.dnysgdnt.com/2016-abandoned-sovjet-stuff-v/" rel="alternate" type="text/html" title="2016 Abandoned Sovjet Stuff V" />
+            <published>2021-03-23T18:07:12+00:00</published>
+            <updated>2021-03-23T18:07:12+00:00</updated>
+            <id>http://photo.dnysgdnt.com//2016-abandoned-sovjet-stuff-v/</id>
             <content type="html">
-              <![CDATA[<figure><a href="http://photo.dnysgdnt.com/20161120-mg-4239/"><img src="http://photo.dnysgdnt.com//photos/large/20161120-_MG_4239-686656.jpg" alt="20161120-_MG_4239" /></a></figure>
+              <![CDATA[<figure><a href="http://photo.dnysgdnt.com/2016-abandoned-sovjet-stuff-v/"><img src="http://photo.dnysgdnt.com//photos/large/2016%20Abandoned%20Sovjet%20Stuff%20V-686656.jpg" alt="2016 Abandoned Sovjet Stuff V" /></a></figure>
             ]]>
           </content>
           <author>
@@ -81,17 +81,17 @@
             <email>dnnys@user.noreply.github.com</email>
             <uri>https://dnnys.github.io</uri>
           </author>
-          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/20161120-_MG_4239-686656.jpg" />
-            <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/20161120-_MG_4239-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/2016%20Abandoned%20Sovjet%20Stuff%20V-686656.jpg" />
+            <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/2016%20Abandoned%20Sovjet%20Stuff%20V-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
             </entry>
             <entry>
-              <title type="html">20161120-_MG_4238</title>
-              <link href="http://photo.dnysgdnt.com/20161120-mg-4238/" rel="alternate" type="text/html" title="20161120-_MG_4238" />
-              <published>2021-03-18T21:32:29+00:00</published>
-              <updated>2021-03-18T21:32:29+00:00</updated>
-              <id>http://photo.dnysgdnt.com//20161120-mg-4238/</id>
+              <title type="html">2016 Abandoned Sovjet Stuff IV</title>
+              <link href="http://photo.dnysgdnt.com/2016-abandoned-sovjet-stuff-iv/" rel="alternate" type="text/html" title="2016 Abandoned Sovjet Stuff IV" />
+              <published>2021-03-23T18:07:10+00:00</published>
+              <updated>2021-03-23T18:07:10+00:00</updated>
+              <id>http://photo.dnysgdnt.com//2016-abandoned-sovjet-stuff-iv/</id>
               <content type="html">
-                <![CDATA[<figure><a href="http://photo.dnysgdnt.com/20161120-mg-4238/"><img src="http://photo.dnysgdnt.com//photos/large/20161120-_MG_4238-686656.jpg" alt="20161120-_MG_4238" /></a></figure>
+                <![CDATA[<figure><a href="http://photo.dnysgdnt.com/2016-abandoned-sovjet-stuff-iv/"><img src="http://photo.dnysgdnt.com//photos/large/2016%20Abandoned%20Sovjet%20Stuff%20IV-686656.jpg" alt="2016 Abandoned Sovjet Stuff IV" /></a></figure>
               ]]>
             </content>
             <author>
@@ -99,17 +99,17 @@
               <email>dnnys@user.noreply.github.com</email>
               <uri>https://dnnys.github.io</uri>
             </author>
-            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/20161120-_MG_4238-686656.jpg" />
-              <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/20161120-_MG_4238-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/2016%20Abandoned%20Sovjet%20Stuff%20IV-686656.jpg" />
+              <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/2016%20Abandoned%20Sovjet%20Stuff%20IV-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
               </entry>
               <entry>
-                <title type="html">20161120-_MG_4237</title>
-                <link href="http://photo.dnysgdnt.com/20161120-mg-4237/" rel="alternate" type="text/html" title="20161120-_MG_4237" />
-                <published>2021-03-18T21:32:26+00:00</published>
-                <updated>2021-03-18T21:32:26+00:00</updated>
-                <id>http://photo.dnysgdnt.com//20161120-mg-4237/</id>
+                <title type="html">2016 Abandoned Sovjet Stuff III</title>
+                <link href="http://photo.dnysgdnt.com/2016-abandoned-sovjet-stuff-iii/" rel="alternate" type="text/html" title="2016 Abandoned Sovjet Stuff III" />
+                <published>2021-03-23T18:07:07+00:00</published>
+                <updated>2021-03-23T18:07:07+00:00</updated>
+                <id>http://photo.dnysgdnt.com//2016-abandoned-sovjet-stuff-iii/</id>
                 <content type="html">
-                  <![CDATA[<figure><a href="http://photo.dnysgdnt.com/20161120-mg-4237/"><img src="http://photo.dnysgdnt.com//photos/large/20161120-_MG_4237-686656.jpg" alt="20161120-_MG_4237" /></a></figure>
+                  <![CDATA[<figure><a href="http://photo.dnysgdnt.com/2016-abandoned-sovjet-stuff-iii/"><img src="http://photo.dnysgdnt.com//photos/large/2016%20Abandoned%20Sovjet%20Stuff%20III-686656.jpg" alt="2016 Abandoned Sovjet Stuff III" /></a></figure>
                 ]]>
               </content>
               <author>
@@ -117,17 +117,17 @@
                 <email>dnnys@user.noreply.github.com</email>
                 <uri>https://dnnys.github.io</uri>
               </author>
-              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/20161120-_MG_4237-686656.jpg" />
-                <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/20161120-_MG_4237-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/2016%20Abandoned%20Sovjet%20Stuff%20III-686656.jpg" />
+                <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/2016%20Abandoned%20Sovjet%20Stuff%20III-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                 </entry>
                 <entry>
-                  <title type="html">20161206-_DSC0278</title>
-                  <link href="http://photo.dnysgdnt.com/20161206-dsc0278/" rel="alternate" type="text/html" title="20161206-_DSC0278" />
-                  <published>2021-03-18T21:07:06+00:00</published>
-                  <updated>2021-03-18T21:07:06+00:00</updated>
-                  <id>http://photo.dnysgdnt.com//20161206-dsc0278/</id>
+                  <title type="html">2016 Abandoned Sovjet Stuff I</title>
+                  <link href="http://photo.dnysgdnt.com/2016-abandoned-sovjet-stuff-i/" rel="alternate" type="text/html" title="2016 Abandoned Sovjet Stuff I" />
+                  <published>2021-03-23T18:07:03+00:00</published>
+                  <updated>2021-03-23T18:07:03+00:00</updated>
+                  <id>http://photo.dnysgdnt.com//2016-abandoned-sovjet-stuff-i/</id>
                   <content type="html">
-                    <![CDATA[<figure><a href="http://photo.dnysgdnt.com/20161206-dsc0278/"><img src="http://photo.dnysgdnt.com//photos/large/20161206-_DSC0278-686656.jpg" alt="20161206-_DSC0278" /></a></figure>
+                    <![CDATA[<figure><a href="http://photo.dnysgdnt.com/2016-abandoned-sovjet-stuff-i/"><img src="http://photo.dnysgdnt.com//photos/large/2016%20Abandoned%20Sovjet%20Stuff%20I-686656.jpg" alt="2016 Abandoned Sovjet Stuff I" /></a></figure>
                   ]]>
                 </content>
                 <author>
@@ -135,17 +135,17 @@
                   <email>dnnys@user.noreply.github.com</email>
                   <uri>https://dnnys.github.io</uri>
                 </author>
-                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/20161206-_DSC0278-686656.jpg" />
-                  <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/20161206-_DSC0278-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/2016%20Abandoned%20Sovjet%20Stuff%20I-686656.jpg" />
+                  <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/2016%20Abandoned%20Sovjet%20Stuff%20I-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                   </entry>
                   <entry>
-                    <title type="html">20161206-_DSC0274</title>
-                    <link href="http://photo.dnysgdnt.com/20161206-dsc0274/" rel="alternate" type="text/html" title="20161206-_DSC0274" />
-                    <published>2021-03-18T21:07:04+00:00</published>
-                    <updated>2021-03-18T21:07:04+00:00</updated>
-                    <id>http://photo.dnysgdnt.com//20161206-dsc0274/</id>
+                    <title type="html">2016 Exploring Annecy II</title>
+                    <link href="http://photo.dnysgdnt.com/2016-exploring-annecy-ii/" rel="alternate" type="text/html" title="2016 Exploring Annecy II" />
+                    <published>2021-03-18T21:32:44+00:00</published>
+                    <updated>2021-03-18T21:32:44+00:00</updated>
+                    <id>http://photo.dnysgdnt.com//2016-exploring-annecy-ii/</id>
                     <content type="html">
-                      <![CDATA[<figure><a href="http://photo.dnysgdnt.com/20161206-dsc0274/"><img src="http://photo.dnysgdnt.com//photos/large/20161206-_DSC0274-686656.jpg" alt="20161206-_DSC0274" /></a></figure>
+                      <![CDATA[<figure><a href="http://photo.dnysgdnt.com/2016-exploring-annecy-ii/"><img src="http://photo.dnysgdnt.com//photos/large/2016%20Exploring%20Annecy%20II-686656.jpg" alt="2016 Exploring Annecy II" /></a></figure>
                     ]]>
                   </content>
                   <author>
@@ -153,17 +153,17 @@
                     <email>dnnys@user.noreply.github.com</email>
                     <uri>https://dnnys.github.io</uri>
                   </author>
-                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/20161206-_DSC0274-686656.jpg" />
-                    <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/20161206-_DSC0274-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/2016%20Exploring%20Annecy%20II-686656.jpg" />
+                    <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/2016%20Exploring%20Annecy%20II-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                     </entry>
                     <entry>
-                      <title type="html">20161206-_DSC0269</title>
-                      <link href="http://photo.dnysgdnt.com/20161206-dsc0269/" rel="alternate" type="text/html" title="20161206-_DSC0269" />
-                      <published>2021-03-18T21:07:02+00:00</published>
-                      <updated>2021-03-18T21:07:02+00:00</updated>
-                      <id>http://photo.dnysgdnt.com//20161206-dsc0269/</id>
+                      <title type="html">2016 Epic Flare</title>
+                      <link href="http://photo.dnysgdnt.com/2016-epic-flare/" rel="alternate" type="text/html" title="2016 Epic Flare" />
+                      <published>2021-03-18T21:32:40+00:00</published>
+                      <updated>2021-03-18T21:32:40+00:00</updated>
+                      <id>http://photo.dnysgdnt.com//2016-epic-flare/</id>
                       <content type="html">
-                        <![CDATA[<figure><a href="http://photo.dnysgdnt.com/20161206-dsc0269/"><img src="http://photo.dnysgdnt.com//photos/large/20161206-_DSC0269-686656.jpg" alt="20161206-_DSC0269" /></a></figure>
+                        <![CDATA[<figure><a href="http://photo.dnysgdnt.com/2016-epic-flare/"><img src="http://photo.dnysgdnt.com//photos/large/2016%20Epic%20Flare-686656.jpg" alt="2016 Epic Flare" /></a></figure>
                       ]]>
                     </content>
                     <author>
@@ -171,17 +171,17 @@
                       <email>dnnys@user.noreply.github.com</email>
                       <uri>https://dnnys.github.io</uri>
                     </author>
-                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/20161206-_DSC0269-686656.jpg" />
-                      <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/20161206-_DSC0269-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/2016%20Epic%20Flare-686656.jpg" />
+                      <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/2016%20Epic%20Flare-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                       </entry>
                       <entry>
-                        <title type="html">20161206-_DSC0264</title>
-                        <link href="http://photo.dnysgdnt.com/20161206-dsc0264/" rel="alternate" type="text/html" title="20161206-_DSC0264" />
-                        <published>2021-03-18T21:07:00+00:00</published>
-                        <updated>2021-03-18T21:07:00+00:00</updated>
-                        <id>http://photo.dnysgdnt.com//20161206-dsc0264/</id>
+                        <title type="html">2016 Annecy Light</title>
+                        <link href="http://photo.dnysgdnt.com/2016-annecy-light/" rel="alternate" type="text/html" title="2016 Annecy Light" />
+                        <published>2021-03-18T21:32:33+00:00</published>
+                        <updated>2021-03-18T21:32:33+00:00</updated>
+                        <id>http://photo.dnysgdnt.com//2016-annecy-light/</id>
                         <content type="html">
-                          <![CDATA[<figure><a href="http://photo.dnysgdnt.com/20161206-dsc0264/"><img src="http://photo.dnysgdnt.com//photos/large/20161206-_DSC0264-686656.jpg" alt="20161206-_DSC0264" /></a></figure>
+                          <![CDATA[<figure><a href="http://photo.dnysgdnt.com/2016-annecy-light/"><img src="http://photo.dnysgdnt.com//photos/large/2016%20Annecy%20Light-686656.jpg" alt="2016 Annecy Light" /></a></figure>
                         ]]>
                       </content>
                       <author>
@@ -189,17 +189,17 @@
                         <email>dnnys@user.noreply.github.com</email>
                         <uri>https://dnnys.github.io</uri>
                       </author>
-                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/20161206-_DSC0264-686656.jpg" />
-                        <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/20161206-_DSC0264-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/2016%20Annecy%20Light-686656.jpg" />
+                        <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/2016%20Annecy%20Light-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                         </entry>
                         <entry>
-                          <title type="html">20161206-_DSC0255</title>
-                          <link href="http://photo.dnysgdnt.com/20161206-dsc0255/" rel="alternate" type="text/html" title="20161206-_DSC0255" />
-                          <published>2021-03-18T21:06:58+00:00</published>
-                          <updated>2021-03-18T21:06:58+00:00</updated>
-                          <id>http://photo.dnysgdnt.com//20161206-dsc0255/</id>
+                          <title type="html">2016 Annecy and Mountains</title>
+                          <link href="http://photo.dnysgdnt.com/2016-annecy-and-mountains/" rel="alternate" type="text/html" title="2016 Annecy and Mountains" />
+                          <published>2021-03-18T21:32:29+00:00</published>
+                          <updated>2021-03-18T21:32:29+00:00</updated>
+                          <id>http://photo.dnysgdnt.com//2016-annecy-and-mountains/</id>
                           <content type="html">
-                            <![CDATA[<figure><a href="http://photo.dnysgdnt.com/20161206-dsc0255/"><img src="http://photo.dnysgdnt.com//photos/large/20161206-_DSC0255-686656.jpg" alt="20161206-_DSC0255" /></a></figure>
+                            <![CDATA[<figure><a href="http://photo.dnysgdnt.com/2016-annecy-and-mountains/"><img src="http://photo.dnysgdnt.com//photos/large/2016%20Annecy%20and%20Mountains-686656.jpg" alt="2016 Annecy and Mountains" /></a></figure>
                           ]]>
                         </content>
                         <author>
@@ -207,17 +207,17 @@
                           <email>dnnys@user.noreply.github.com</email>
                           <uri>https://dnnys.github.io</uri>
                         </author>
-                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/20161206-_DSC0255-686656.jpg" />
-                          <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/20161206-_DSC0255-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/2016%20Annecy%20and%20Mountains-686656.jpg" />
+                          <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/2016%20Annecy%20and%20Mountains-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                           </entry>
                           <entry>
-                            <title type="html">20161206-_DSC0251</title>
-                            <link href="http://photo.dnysgdnt.com/20161206-dsc0251/" rel="alternate" type="text/html" title="20161206-_DSC0251" />
-                            <published>2021-03-18T21:06:56+00:00</published>
-                            <updated>2021-03-18T21:06:56+00:00</updated>
-                            <id>http://photo.dnysgdnt.com//20161206-dsc0251/</id>
+                            <title type="html">2016 Exploring Annecy</title>
+                            <link href="http://photo.dnysgdnt.com/2016-exploring-annecy/" rel="alternate" type="text/html" title="2016 Exploring Annecy" />
+                            <published>2021-03-18T21:32:26+00:00</published>
+                            <updated>2021-03-18T21:32:26+00:00</updated>
+                            <id>http://photo.dnysgdnt.com//2016-exploring-annecy/</id>
                             <content type="html">
-                              <![CDATA[<figure><a href="http://photo.dnysgdnt.com/20161206-dsc0251/"><img src="http://photo.dnysgdnt.com//photos/large/20161206-_DSC0251-686656.jpg" alt="20161206-_DSC0251" /></a></figure>
+                              <![CDATA[<figure><a href="http://photo.dnysgdnt.com/2016-exploring-annecy/"><img src="http://photo.dnysgdnt.com//photos/large/2016%20Exploring%20Annecy-686656.jpg" alt="2016 Exploring Annecy" /></a></figure>
                             ]]>
                           </content>
                           <author>
@@ -225,17 +225,17 @@
                             <email>dnnys@user.noreply.github.com</email>
                             <uri>https://dnnys.github.io</uri>
                           </author>
-                          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/20161206-_DSC0251-686656.jpg" />
-                            <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/20161206-_DSC0251-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/2016%20Exploring%20Annecy-686656.jpg" />
+                            <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/2016%20Exploring%20Annecy-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                             </entry>
                             <entry>
-                              <title type="html">20161206-_DSC0216</title>
-                              <link href="http://photo.dnysgdnt.com/20161206-dsc0216/" rel="alternate" type="text/html" title="20161206-_DSC0216" />
+                              <title type="html">2016 Abandoned Sovjet Stuff II</title>
+                              <link href="http://photo.dnysgdnt.com/2016-abandoned-sovjet-stuff-ii/" rel="alternate" type="text/html" title="2016 Abandoned Sovjet Stuff II" />
                               <published>2021-03-18T21:06:53+00:00</published>
                               <updated>2021-03-18T21:06:53+00:00</updated>
-                              <id>http://photo.dnysgdnt.com//20161206-dsc0216/</id>
+                              <id>http://photo.dnysgdnt.com//2016-abandoned-sovjet-stuff-ii/</id>
                               <content type="html">
-                                <![CDATA[<figure><a href="http://photo.dnysgdnt.com/20161206-dsc0216/"><img src="http://photo.dnysgdnt.com//photos/large/20161206-_DSC0216-686656.jpg" alt="20161206-_DSC0216" /></a></figure>
+                                <![CDATA[<figure><a href="http://photo.dnysgdnt.com/2016-abandoned-sovjet-stuff-ii/"><img src="http://photo.dnysgdnt.com//photos/large/2016%20Abandoned%20Sovjet%20Stuff%20II-686656.jpg" alt="2016 Abandoned Sovjet Stuff II" /></a></figure>
                               ]]>
                             </content>
                             <author>
@@ -243,25 +243,7 @@
                               <email>dnnys@user.noreply.github.com</email>
                               <uri>https://dnnys.github.io</uri>
                             </author>
-                            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/20161206-_DSC0216-686656.jpg" />
-                              <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/20161206-_DSC0216-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/2016%20Abandoned%20Sovjet%20Stuff%20II-686656.jpg" />
+                              <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/2016%20Abandoned%20Sovjet%20Stuff%20II-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                               </entry>
-                              <entry>
-                                <title type="html">20161206-_DSC0192</title>
-                                <link href="http://photo.dnysgdnt.com/20161206-dsc0192/" rel="alternate" type="text/html" title="20161206-_DSC0192" />
-                                <published>2021-03-18T21:06:51+00:00</published>
-                                <updated>2021-03-18T21:06:51+00:00</updated>
-                                <id>http://photo.dnysgdnt.com//20161206-dsc0192/</id>
-                                <content type="html">
-                                  <![CDATA[<figure><a href="http://photo.dnysgdnt.com/20161206-dsc0192/"><img src="http://photo.dnysgdnt.com//photos/large/20161206-_DSC0192-686656.jpg" alt="20161206-_DSC0192" /></a></figure>
-                                ]]>
-                              </content>
-                              <author>
-                                <name>dnnys</name>
-                                <email>dnnys@user.noreply.github.com</email>
-                                <uri>https://dnnys.github.io</uri>
-                              </author>
-                              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/20161206-_DSC0192-686656.jpg" />
-                                <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/20161206-_DSC0192-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
-                                </entry>
-                              </feed>
+                            </feed>
