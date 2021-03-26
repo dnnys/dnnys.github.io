@@ -18,7 +18,7 @@ lazyload();
     <span>Next</span>
   </a>
   <ul class="meta">
-    <li>NIKON D5300</li>
+    <li>NIKON</li>
     <li>2021</li>
     <!-- <li>1/100</li>
     <li><span class="aperture"><em>f</em>/</span>5.6</li> -->
@@ -38,7 +38,7 @@ lazyload();
     <span>Next</span>
   </a>
   <ul class="meta">
-    <li>NIKON D5300</li>
+    <li>NIKON</li>
     <li>2021</li>
     <!-- <li>1/100</li>
     <li><span class="aperture"><em>f</em>/</span>5.6</li> -->
@@ -58,7 +58,7 @@ lazyload();
     <span>Next</span>
   </a>
   <ul class="meta">
-    <li>NIKON D5300</li>
+    <li>NIKON</li>
     <li>2021</li>
     <!-- <li>1/100</li>
     <li><span class="aperture"><em>f</em>/</span>9.0</li> -->
@@ -78,7 +78,7 @@ lazyload();
     <span>Next</span>
   </a>
   <ul class="meta">
-    <li>NIKON D5300</li>
+    <li>NIKON</li>
     <li>2021</li>
     <!-- <li>1/100</li>
     <li><span class="aperture"><em>f</em>/</span>8.0</li> -->
@@ -98,7 +98,7 @@ lazyload();
     <span>Next</span>
   </a>
   <ul class="meta">
-    <li>NIKON D5300</li>
+    <li>NIKON</li>
     <li>2021</li>
     <!-- <li>1/100</li>
     <li><span class="aperture"><em>f</em>/</span>3.5</li> -->
@@ -118,7 +118,7 @@ lazyload();
     <span>Next</span>
   </a>
   <ul class="meta">
-    <li>NIKON D5300</li>
+    <li>NIKON</li>
     <li>2021</li>
     <!-- <li>1/100</li>
     <li><span class="aperture"><em>f</em>/</span>3.5</li> -->
@@ -138,7 +138,7 @@ lazyload();
     <span>Next</span>
   </a>
   <ul class="meta">
-    <li>NIKON D5300</li>
+    <li>NIKON</li>
     <li>2021</li>
     <!-- <li>1/100</li>
     <li><span class="aperture"><em>f</em>/</span>4.5</li> -->
@@ -158,7 +158,7 @@ lazyload();
     <span>Next</span>
   </a>
   <ul class="meta">
-    <li>Canon EOS 6D</li>
+    <li>Canon</li>
     <li>2021</li>
     <!-- <li>1/200</li>
     <li><span class="aperture"><em>f</em>/</span>8.0</li> -->
@@ -178,7 +178,7 @@ lazyload();
     <span>Next</span>
   </a>
   <ul class="meta">
-    <li>Canon EOS 6D</li>
+    <li>Canon</li>
     <li>2021</li>
     <!-- <li>1/800</li>
     <li><span class="aperture"><em>f</em>/</span>8.0</li> -->
@@ -198,7 +198,7 @@ lazyload();
     <span>Next</span>
   </a>
   <ul class="meta">
-    <li>Canon EOS 6D</li>
+    <li>Canon</li>
     <li>2021</li>
     <!-- <li>1/640</li>
     <li><span class="aperture"><em>f</em>/</span>8.0</li> -->
@@ -218,7 +218,7 @@ lazyload();
     <span>Next</span>
   </a>
   <ul class="meta">
-    <li>Canon EOS 6D</li>
+    <li>Canon</li>
     <li>2021</li>
     <!-- <li>1/1000</li>
     <li><span class="aperture"><em>f</em>/</span>8.0</li> -->
@@ -238,7 +238,7 @@ lazyload();
     <span>Next</span>
   </a>
   <ul class="meta">
-    <li>Canon EOS 6D</li>
+    <li>Canon</li>
     <li>2021</li>
     <!-- <li>1/400</li>
     <li><span class="aperture"><em>f</em>/</span>8.0</li> -->
@@ -255,7 +255,7 @@ lazyload();
     <span>Previous</span>
   </a>
   <ul class="meta">
-    <li>NIKON D5300</li>
+    <li>NIKON</li>
     <li>2021</li>
     <!-- <li>1/80</li>
     <li><span class="aperture"><em>f</em>/</span>4.5</li> -->
