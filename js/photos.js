@@ -394,26 +394,6 @@ lazyload();
   <a href="/christina-browsing" data-target="christina-browsing" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
-  <a href="/20171127-dscf0072" data-target="20171127-dscf0072" class="next" title="Go to next photo">
-    <span>Next</span>
-  </a>
-  <ul class="meta">
-    <li>FUJIFILM</li>
-    <li>2017</li>
-    <!-- <li>1/125</li>
-    <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
-  </ul>
-</li>
-<li class="item " id="20171127-dscf0072" style="background-image: url('/photos/tint/20171127-DSCF0072-65ba1d.jpg')" title="20171127-DSCF0072">
-  <img class="lazyload" data-src="/photos/thumbnail/20171127-DSCF0072-ccf4df.jpg" src="/photos/tint/20171127-DSCF0072-65ba1d.jpg" height="1365" width="2048" />
-  <span class="full">
-    <span style="background-image: url('/photos/large/20171127-DSCF0072-686656.jpg')"></span>
-  </span>
-  <a class="open" href="/20171127-dscf0072" data-target="20171127-dscf0072">Open</a>
-  <a class="close" href="/">Close</a>
-  <a href="/happy-christina" data-target="happy-christina" class="previous" title="Go to previous photo">
-    <span>Previous</span>
-  </a>
   <a href="/abandoned-sovjet-stuff-viii" data-target="abandoned-sovjet-stuff-viii" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
@@ -431,7 +411,7 @@ lazyload();
   </span>
   <a class="open" href="/abandoned-sovjet-stuff-viii" data-target="abandoned-sovjet-stuff-viii">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/20171127-dscf0072" data-target="20171127-dscf0072" class="previous" title="Go to previous photo">
+  <a href="/happy-christina" data-target="happy-christina" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/abandoned-sovjet-stuff-vii" data-target="abandoned-sovjet-stuff-vii" class="next" title="Go to next photo">
