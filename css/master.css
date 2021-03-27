@@ -22,7 +22,7 @@ body { flex-grow: 1; font: 16px/24px -apple-system, BlinkMacSystemFont, "Segoe U
 .grid .item .previous:active span, .grid .item .next:active span { background-color: rgba(200, 200, 200, 0.25); }
 .grid .item .next { right: 0; left: auto; }
 .grid .item .next span { background-image: url(../img/icon-right.svg); }
-.grid .item .meta { display: flex; position: absolute; right: 4px; bottom: 12px; color: #fff; text-shadow: #000 0 1px 1px, #000 0 2px 4px; opacity: .5; }
+.grid .item .meta { display: flex; position: absolute; right: 4px; bottom: 12px; color: #fff; text-shadow: #000 0 1px 1px, #000 0 2px 4px; text-transform: capitalize; opacity: .5; }
 .grid .item .meta li { margin-right: 12px; }
 .grid .item.target { position: fixed; top: 0; right: 0; bottom: 0; left: 0; height: 100%; z-index: 10; background: #fff; display: flex; align-items: center; }
 @media (prefers-color-scheme: dark) { .grid .item.target { background: #000; } }
