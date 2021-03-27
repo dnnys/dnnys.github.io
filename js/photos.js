@@ -234,7 +234,7 @@ lazyload();
   <a href="/snowflakes-coming-down" data-target="snowflakes-coming-down" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
-  <a href="/snow-in-the-city-ii" data-target="snow-in-the-city-ii" class="next" title="Go to next photo">
+  <a href="/snow-in-the-city" data-target="snow-in-the-city" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
   <ul class="meta">
@@ -244,26 +244,6 @@ lazyload();
     <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
   </ul>
 </li>
-<li class="item " id="snow-in-the-city-ii" style="background-image: url('/photos/tint/Snow%20in%20the%20city%20II-65ba1d.jpg')" title="Snow in the city II">
-  <img class="lazyload" data-src="/photos/thumbnail/Snow%20in%20the%20city%20II-ccf4df.jpg" src="/photos/tint/Snow%20in%20the%20city%20II-65ba1d.jpg" height="1365" width="2048" />
-  <span class="full">
-    <span style="background-image: url('/photos/large/Snow%20in%20the%20city%20II-686656.jpg')"></span>
-  </span>
-  <a class="open" href="/snow-in-the-city-ii" data-target="snow-in-the-city-ii">Open</a>
-  <a class="close" href="/">Close</a>
-  <a href="/snowing" data-target="snowing" class="previous" title="Go to previous photo">
-    <span>Previous</span>
-  </a>
-  <a href="/snow-in-the-city" data-target="snow-in-the-city" class="next" title="Go to next photo">
-    <span>Next</span>
-  </a>
-  <ul class="meta">
-    <li>FUJIFILM</li>
-    <li>2017</li>
-    <!-- <li>1/125</li>
-    <li><span class="aperture"><em>f</em>/</span>2.8</li> -->
-  </ul>
-</li>
 <li class="item " id="snow-in-the-city" style="background-image: url('/photos/tint/Snow%20in%20the%20city-65ba1d.JPG')" title="Snow in the city">
   <img class="lazyload" data-src="/photos/thumbnail/Snow%20in%20the%20city-ccf4df.JPG" src="/photos/tint/Snow%20in%20the%20city-65ba1d.JPG" height="1366" width="2048" />
   <span class="full">
@@ -271,7 +251,7 @@ lazyload();
   </span>
   <a class="open" href="/snow-in-the-city" data-target="snow-in-the-city">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/snow-in-the-city-ii" data-target="snow-in-the-city-ii" class="previous" title="Go to previous photo">
+  <a href="/snowing" data-target="snowing" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/best-ramen-in-town-ii" data-target="best-ramen-in-town-ii" class="next" title="Go to next photo">
