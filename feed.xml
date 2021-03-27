@@ -3,8 +3,8 @@
     <generator uri="https://github.com/maxvoltar/photo-stream">PhotoStream</generator>
     <link href="http://photo.dnysgdnt.com/feed.xml" rel="self" type="application/atom+xml" />
     <link href="http://photo.dnysgdnt.com/" rel="alternate" type="text/html"/>
-    <updated>2021-03-27T19:52:38+00:00</updated>
-    <id>2021-03-27T19:52:38+00:00</id>
+    <updated>2021-03-27T21:03:40+00:00</updated>
+    <id>2021-03-27T21:03:40+00:00</id>
     <title type="html">photo.dnysgdnt.com</title>
     <subtitle>a minimalistic photo stream</subtitle>
     <author>
@@ -229,13 +229,13 @@
                             <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Snowing-686656.JPG" xmlns:media="http://search.yahoo.com/mrss/" />
                             </entry>
                             <entry>
-                              <title type="html">Snow in the city</title>
-                              <link href="http://photo.dnysgdnt.com/snow-in-the-city/" rel="alternate" type="text/html" title="Snow in the city" />
-                              <published>2021-03-27T15:24:05+00:00</published>
-                              <updated>2021-03-27T15:24:05+00:00</updated>
-                              <id>http://photo.dnysgdnt.com//snow-in-the-city/</id>
+                              <title type="html">Best Ramen in Town II</title>
+                              <link href="http://photo.dnysgdnt.com/best-ramen-in-town-ii/" rel="alternate" type="text/html" title="Best Ramen in Town II" />
+                              <published>2021-03-27T15:24:02+00:00</published>
+                              <updated>2021-03-27T15:24:02+00:00</updated>
+                              <id>http://photo.dnysgdnt.com//best-ramen-in-town-ii/</id>
                               <content type="html">
-                                <![CDATA[<figure><a href="http://photo.dnysgdnt.com/snow-in-the-city/"><img src="http://photo.dnysgdnt.com//photos/large/Snow%20in%20the%20city-686656.JPG" alt="Snow in the city" /></a></figure>
+                                <![CDATA[<figure><a href="http://photo.dnysgdnt.com/best-ramen-in-town-ii/"><img src="http://photo.dnysgdnt.com//photos/large/Best%20Ramen%20in%20Town%20II-686656.JPG" alt="Best Ramen in Town II" /></a></figure>
                               ]]>
                             </content>
                             <author>
@@ -243,17 +243,17 @@
                               <email>dnnys@user.noreply.github.com</email>
                               <uri>https://dnnys.github.io</uri>
                             </author>
-                            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Snow%20in%20the%20city-686656.JPG" />
-                              <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Snow%20in%20the%20city-686656.JPG" xmlns:media="http://search.yahoo.com/mrss/" />
+                            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Best%20Ramen%20in%20Town%20II-686656.JPG" />
+                              <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Best%20Ramen%20in%20Town%20II-686656.JPG" xmlns:media="http://search.yahoo.com/mrss/" />
                               </entry>
                               <entry>
-                                <title type="html">Best Ramen in Town II</title>
-                                <link href="http://photo.dnysgdnt.com/best-ramen-in-town-ii/" rel="alternate" type="text/html" title="Best Ramen in Town II" />
-                                <published>2021-03-27T15:24:02+00:00</published>
-                                <updated>2021-03-27T15:24:02+00:00</updated>
-                                <id>http://photo.dnysgdnt.com//best-ramen-in-town-ii/</id>
+                                <title type="html">Best Ramen in Town</title>
+                                <link href="http://photo.dnysgdnt.com/best-ramen-in-town/" rel="alternate" type="text/html" title="Best Ramen in Town" />
+                                <published>2021-03-27T15:23:59+00:00</published>
+                                <updated>2021-03-27T15:23:59+00:00</updated>
+                                <id>http://photo.dnysgdnt.com//best-ramen-in-town/</id>
                                 <content type="html">
-                                  <![CDATA[<figure><a href="http://photo.dnysgdnt.com/best-ramen-in-town-ii/"><img src="http://photo.dnysgdnt.com//photos/large/Best%20Ramen%20in%20Town%20II-686656.JPG" alt="Best Ramen in Town II" /></a></figure>
+                                  <![CDATA[<figure><a href="http://photo.dnysgdnt.com/best-ramen-in-town/"><img src="http://photo.dnysgdnt.com//photos/large/Best%20Ramen%20in%20Town-686656.JPG" alt="Best Ramen in Town" /></a></figure>
                                 ]]>
                               </content>
                               <author>
@@ -261,17 +261,17 @@
                                 <email>dnnys@user.noreply.github.com</email>
                                 <uri>https://dnnys.github.io</uri>
                               </author>
-                              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Best%20Ramen%20in%20Town%20II-686656.JPG" />
-                                <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Best%20Ramen%20in%20Town%20II-686656.JPG" xmlns:media="http://search.yahoo.com/mrss/" />
+                              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Best%20Ramen%20in%20Town-686656.JPG" />
+                                <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Best%20Ramen%20in%20Town-686656.JPG" xmlns:media="http://search.yahoo.com/mrss/" />
                                 </entry>
                                 <entry>
-                                  <title type="html">Best Ramen in Town</title>
-                                  <link href="http://photo.dnysgdnt.com/best-ramen-in-town/" rel="alternate" type="text/html" title="Best Ramen in Town" />
-                                  <published>2021-03-27T15:23:59+00:00</published>
-                                  <updated>2021-03-27T15:23:59+00:00</updated>
-                                  <id>http://photo.dnysgdnt.com//best-ramen-in-town/</id>
+                                  <title type="html">Red light</title>
+                                  <link href="http://photo.dnysgdnt.com/red-light/" rel="alternate" type="text/html" title="Red light" />
+                                  <published>2021-03-27T15:23:22+00:00</published>
+                                  <updated>2021-03-27T15:23:22+00:00</updated>
+                                  <id>http://photo.dnysgdnt.com//red-light/</id>
                                   <content type="html">
-                                    <![CDATA[<figure><a href="http://photo.dnysgdnt.com/best-ramen-in-town/"><img src="http://photo.dnysgdnt.com//photos/large/Best%20Ramen%20in%20Town-686656.JPG" alt="Best Ramen in Town" /></a></figure>
+                                    <![CDATA[<figure><a href="http://photo.dnysgdnt.com/red-light/"><img src="http://photo.dnysgdnt.com//photos/large/Red%20light-686656.jpg" alt="Red light" /></a></figure>
                                   ]]>
                                 </content>
                                 <author>
@@ -279,17 +279,17 @@
                                   <email>dnnys@user.noreply.github.com</email>
                                   <uri>https://dnnys.github.io</uri>
                                 </author>
-                                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Best%20Ramen%20in%20Town-686656.JPG" />
-                                  <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Best%20Ramen%20in%20Town-686656.JPG" xmlns:media="http://search.yahoo.com/mrss/" />
+                                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Red%20light-686656.jpg" />
+                                  <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Red%20light-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                                   </entry>
                                   <entry>
-                                    <title type="html">Red light</title>
-                                    <link href="http://photo.dnysgdnt.com/red-light/" rel="alternate" type="text/html" title="Red light" />
-                                    <published>2021-03-27T15:23:22+00:00</published>
-                                    <updated>2021-03-27T15:23:22+00:00</updated>
-                                    <id>http://photo.dnysgdnt.com//red-light/</id>
+                                    <title type="html">Christina browsing</title>
+                                    <link href="http://photo.dnysgdnt.com/christina-browsing/" rel="alternate" type="text/html" title="Christina browsing" />
+                                    <published>2021-03-27T15:23:18+00:00</published>
+                                    <updated>2021-03-27T15:23:18+00:00</updated>
+                                    <id>http://photo.dnysgdnt.com//christina-browsing/</id>
                                     <content type="html">
-                                      <![CDATA[<figure><a href="http://photo.dnysgdnt.com/red-light/"><img src="http://photo.dnysgdnt.com//photos/large/Red%20light-686656.jpg" alt="Red light" /></a></figure>
+                                      <![CDATA[<figure><a href="http://photo.dnysgdnt.com/christina-browsing/"><img src="http://photo.dnysgdnt.com//photos/large/Christina%20browsing-686656.jpg" alt="Christina browsing" /></a></figure>
                                     ]]>
                                   </content>
                                   <author>
@@ -297,17 +297,17 @@
                                     <email>dnnys@user.noreply.github.com</email>
                                     <uri>https://dnnys.github.io</uri>
                                   </author>
-                                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Red%20light-686656.jpg" />
-                                    <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Red%20light-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Christina%20browsing-686656.jpg" />
+                                    <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Christina%20browsing-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                                     </entry>
                                     <entry>
-                                      <title type="html">Christina browsing</title>
-                                      <link href="http://photo.dnysgdnt.com/christina-browsing/" rel="alternate" type="text/html" title="Christina browsing" />
-                                      <published>2021-03-27T15:23:18+00:00</published>
-                                      <updated>2021-03-27T15:23:18+00:00</updated>
-                                      <id>http://photo.dnysgdnt.com//christina-browsing/</id>
+                                      <title type="html">Happy Christina</title>
+                                      <link href="http://photo.dnysgdnt.com/happy-christina/" rel="alternate" type="text/html" title="Happy Christina" />
+                                      <published>2021-03-27T15:23:13+00:00</published>
+                                      <updated>2021-03-27T15:23:13+00:00</updated>
+                                      <id>http://photo.dnysgdnt.com//happy-christina/</id>
                                       <content type="html">
-                                        <![CDATA[<figure><a href="http://photo.dnysgdnt.com/christina-browsing/"><img src="http://photo.dnysgdnt.com//photos/large/Christina%20browsing-686656.jpg" alt="Christina browsing" /></a></figure>
+                                        <![CDATA[<figure><a href="http://photo.dnysgdnt.com/happy-christina/"><img src="http://photo.dnysgdnt.com//photos/large/Happy%20Christina-686656.jpg" alt="Happy Christina" /></a></figure>
                                       ]]>
                                     </content>
                                     <author>
@@ -315,17 +315,17 @@
                                       <email>dnnys@user.noreply.github.com</email>
                                       <uri>https://dnnys.github.io</uri>
                                     </author>
-                                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Christina%20browsing-686656.jpg" />
-                                      <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Christina%20browsing-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Happy%20Christina-686656.jpg" />
+                                      <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Happy%20Christina-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                                       </entry>
                                       <entry>
-                                        <title type="html">Happy Christina</title>
-                                        <link href="http://photo.dnysgdnt.com/happy-christina/" rel="alternate" type="text/html" title="Happy Christina" />
-                                        <published>2021-03-27T15:23:13+00:00</published>
-                                        <updated>2021-03-27T15:23:13+00:00</updated>
-                                        <id>http://photo.dnysgdnt.com//happy-christina/</id>
+                                        <title type="html">Abandoned Sovjet Military School</title>
+                                        <link href="http://photo.dnysgdnt.com/abandoned-sovjet-military-school/" rel="alternate" type="text/html" title="Abandoned Sovjet Military School" />
+                                        <published>2021-03-23T18:07:20+00:00</published>
+                                        <updated>2021-03-23T18:07:20+00:00</updated>
+                                        <id>http://photo.dnysgdnt.com//abandoned-sovjet-military-school/</id>
                                         <content type="html">
-                                          <![CDATA[<figure><a href="http://photo.dnysgdnt.com/happy-christina/"><img src="http://photo.dnysgdnt.com//photos/large/Happy%20Christina-686656.jpg" alt="Happy Christina" /></a></figure>
+                                          <![CDATA[<figure><a href="http://photo.dnysgdnt.com/abandoned-sovjet-military-school/"><img src="http://photo.dnysgdnt.com//photos/large/Abandoned%20Sovjet%20Military%20School-686656.jpg" alt="Abandoned Sovjet Military School" /></a></figure>
                                         ]]>
                                       </content>
                                       <author>
@@ -333,17 +333,17 @@
                                         <email>dnnys@user.noreply.github.com</email>
                                         <uri>https://dnnys.github.io</uri>
                                       </author>
-                                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Happy%20Christina-686656.jpg" />
-                                        <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Happy%20Christina-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Abandoned%20Sovjet%20Military%20School-686656.jpg" />
+                                        <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Abandoned%20Sovjet%20Military%20School-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                                         </entry>
                                         <entry>
-                                          <title type="html">Abandoned Sovjet Military School</title>
-                                          <link href="http://photo.dnysgdnt.com/abandoned-sovjet-military-school/" rel="alternate" type="text/html" title="Abandoned Sovjet Military School" />
-                                          <published>2021-03-23T18:07:20+00:00</published>
-                                          <updated>2021-03-23T18:07:20+00:00</updated>
-                                          <id>http://photo.dnysgdnt.com//abandoned-sovjet-military-school/</id>
+                                          <title type="html">Abandoned Sovjet Statue</title>
+                                          <link href="http://photo.dnysgdnt.com/abandoned-sovjet-statue/" rel="alternate" type="text/html" title="Abandoned Sovjet Statue" />
+                                          <published>2021-03-23T18:07:16+00:00</published>
+                                          <updated>2021-03-23T18:07:16+00:00</updated>
+                                          <id>http://photo.dnysgdnt.com//abandoned-sovjet-statue/</id>
                                           <content type="html">
-                                            <![CDATA[<figure><a href="http://photo.dnysgdnt.com/abandoned-sovjet-military-school/"><img src="http://photo.dnysgdnt.com//photos/large/Abandoned%20Sovjet%20Military%20School-686656.jpg" alt="Abandoned Sovjet Military School" /></a></figure>
+                                            <![CDATA[<figure><a href="http://photo.dnysgdnt.com/abandoned-sovjet-statue/"><img src="http://photo.dnysgdnt.com//photos/large/Abandoned%20Sovjet%20Statue-686656.jpg" alt="Abandoned Sovjet Statue" /></a></figure>
                                           ]]>
                                         </content>
                                         <author>
@@ -351,17 +351,17 @@
                                           <email>dnnys@user.noreply.github.com</email>
                                           <uri>https://dnnys.github.io</uri>
                                         </author>
-                                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Abandoned%20Sovjet%20Military%20School-686656.jpg" />
-                                          <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Abandoned%20Sovjet%20Military%20School-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Abandoned%20Sovjet%20Statue-686656.jpg" />
+                                          <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Abandoned%20Sovjet%20Statue-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                                           </entry>
                                           <entry>
-                                            <title type="html">Abandoned Sovjet Statue</title>
-                                            <link href="http://photo.dnysgdnt.com/abandoned-sovjet-statue/" rel="alternate" type="text/html" title="Abandoned Sovjet Statue" />
-                                            <published>2021-03-23T18:07:16+00:00</published>
-                                            <updated>2021-03-23T18:07:16+00:00</updated>
-                                            <id>http://photo.dnysgdnt.com//abandoned-sovjet-statue/</id>
+                                            <title type="html">Abandoned Sovjet Military City</title>
+                                            <link href="http://photo.dnysgdnt.com/abandoned-sovjet-military-city/" rel="alternate" type="text/html" title="Abandoned Sovjet Military City" />
+                                            <published>2021-03-23T18:07:14+00:00</published>
+                                            <updated>2021-03-23T18:07:14+00:00</updated>
+                                            <id>http://photo.dnysgdnt.com//abandoned-sovjet-military-city/</id>
                                             <content type="html">
-                                              <![CDATA[<figure><a href="http://photo.dnysgdnt.com/abandoned-sovjet-statue/"><img src="http://photo.dnysgdnt.com//photos/large/Abandoned%20Sovjet%20Statue-686656.jpg" alt="Abandoned Sovjet Statue" /></a></figure>
+                                              <![CDATA[<figure><a href="http://photo.dnysgdnt.com/abandoned-sovjet-military-city/"><img src="http://photo.dnysgdnt.com//photos/large/Abandoned%20Sovjet%20Military%20City-686656.jpg" alt="Abandoned Sovjet Military City" /></a></figure>
                                             ]]>
                                           </content>
                                           <author>
@@ -369,7 +369,7 @@
                                             <email>dnnys@user.noreply.github.com</email>
                                             <uri>https://dnnys.github.io</uri>
                                           </author>
-                                          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Abandoned%20Sovjet%20Statue-686656.jpg" />
-                                            <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Abandoned%20Sovjet%20Statue-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Abandoned%20Sovjet%20Military%20City-686656.jpg" />
+                                            <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Abandoned%20Sovjet%20Military%20City-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                                             </entry>
                                           </feed>
