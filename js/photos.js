@@ -7,6 +7,23 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="montreux-evening" style="background-image: url('/photos/tint/Montreux%20Evening-65ba1d.jpg')" title="Montreux Evening">
+  <img class="lazyload" data-src="/photos/thumbnail/Montreux%20Evening-ccf4df.jpg" src="/photos/tint/Montreux%20Evening-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Montreux%20Evening-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/montreux-evening" data-target="montreux-evening">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/much-snow-much-wow" data-target="much-snow-much-wow" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/250</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.8</li> -->
+  </ul>
+</li>
 <li class="item " id="much-snow-much-wow" style="background-image: url('/photos/tint/Much%20Snow%20Much%20Wow-65ba1d.jpg')" title="Much Snow Much Wow">
   <img class="lazyload" data-src="/photos/thumbnail/Much%20Snow%20Much%20Wow-ccf4df.jpg" src="/photos/tint/Much%20Snow%20Much%20Wow-65ba1d.jpg" height="1365" width="2048" />
   <span class="full">
@@ -14,6 +31,9 @@ lazyload();
   </span>
   <a class="open" href="/much-snow-much-wow" data-target="much-snow-much-wow">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/montreux-evening" data-target="montreux-evening" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/xmas-tree" data-target="xmas-tree" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
