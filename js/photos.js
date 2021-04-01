@@ -374,6 +374,26 @@ lazyload();
   <a href="/christina-browsing" data-target="christina-browsing" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
+  <a href="/mask-mood" data-target="mask-mood" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2017</li>
+    <!-- <li>1/125</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
+  </ul>
+</li>
+<li class="item " id="mask-mood" style="background-image: url('/photos/tint/Mask%20Mood-65ba1d.jpg')" title="Mask Mood">
+  <img class="lazyload" data-src="/photos/thumbnail/Mask%20Mood-ccf4df.jpg" src="/photos/tint/Mask%20Mood-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Mask%20Mood-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/mask-mood" data-target="mask-mood">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/happy-christina" data-target="happy-christina" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/abandoned-sovjet-military-school" data-target="abandoned-sovjet-military-school" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
@@ -391,7 +411,7 @@ lazyload();
   </span>
   <a class="open" href="/abandoned-sovjet-military-school" data-target="abandoned-sovjet-military-school">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/happy-christina" data-target="happy-christina" class="previous" title="Go to previous photo">
+  <a href="/mask-mood" data-target="mask-mood" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/abandoned-sovjet-statue" data-target="abandoned-sovjet-statue" class="next" title="Go to next photo">
