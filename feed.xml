@@ -3,8 +3,8 @@
     <generator uri="https://github.com/maxvoltar/photo-stream">PhotoStream</generator>
     <link href="http://photo.dnysgdnt.com/feed.xml" rel="self" type="application/atom+xml" />
     <link href="http://photo.dnysgdnt.com/" rel="alternate" type="text/html"/>
-    <updated>2021-04-02T10:16:23+00:00</updated>
-    <id>2021-04-02T10:16:23+00:00</id>
+    <updated>2021-04-02T10:30:07+00:00</updated>
+    <id>2021-04-02T10:30:07+00:00</id>
     <title type="html">photo.dnysgdnt.com</title>
     <subtitle>a minimalistic photo stream</subtitle>
     <author>
@@ -33,8 +33,8 @@
       <entry>
         <title type="html">Montreux Evening</title>
         <link href="http://photo.dnysgdnt.com/montreux-evening/" rel="alternate" type="text/html" title="Montreux Evening" />
-        <published>2021-03-30T21:28:49+00:00</published>
-        <updated>2021-03-30T21:28:49+00:00</updated>
+        <published>2021-03-30T21:25:55+00:00</published>
+        <updated>2021-03-30T21:25:55+00:00</updated>
         <id>http://photo.dnysgdnt.com//montreux-evening/</id>
         <content type="html">
           <![CDATA[<figure><a href="http://photo.dnysgdnt.com/montreux-evening/"><img src="http://photo.dnysgdnt.com//photos/large/Montreux%20Evening-686656.jpg" alt="Montreux Evening" /></a></figure>
