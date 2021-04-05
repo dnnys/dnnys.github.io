@@ -3,8 +3,8 @@
     <generator uri="https://github.com/maxvoltar/photo-stream">PhotoStream</generator>
     <link href="http://photo.dnysgdnt.com/feed.xml" rel="self" type="application/atom+xml" />
     <link href="http://photo.dnysgdnt.com/" rel="alternate" type="text/html"/>
-    <updated>2021-04-02T10:30:07+00:00</updated>
-    <id>2021-04-02T10:30:07+00:00</id>
+    <updated>2021-04-05T11:29:04+00:00</updated>
+    <id>2021-04-05T11:29:04+00:00</id>
     <title type="html">photo.dnysgdnt.com</title>
     <subtitle>a minimalistic photo stream</subtitle>
     <author>
@@ -13,13 +13,13 @@
       <uri>https://dnnys.github.io</uri>
     </author>
     <entry>
-      <title type="html">Random Evening Memories</title>
-      <link href="http://photo.dnysgdnt.com/random-evening-memories/" rel="alternate" type="text/html" title="Random Evening Memories" />
-      <published>2021-03-30T23:09:48+00:00</published>
-      <updated>2021-03-30T23:09:48+00:00</updated>
-      <id>http://photo.dnysgdnt.com//random-evening-memories/</id>
+      <title type="html">Montreux Evening</title>
+      <link href="http://photo.dnysgdnt.com/montreux-evening/" rel="alternate" type="text/html" title="Montreux Evening" />
+      <published>2021-03-30T21:25:55+00:00</published>
+      <updated>2021-03-30T21:25:55+00:00</updated>
+      <id>http://photo.dnysgdnt.com//montreux-evening/</id>
       <content type="html">
-        <![CDATA[<figure><a href="http://photo.dnysgdnt.com/random-evening-memories/"><img src="http://photo.dnysgdnt.com//photos/large/Random%20Evening%20Memories-686656.jpg" alt="Random Evening Memories" /></a></figure>
+        <![CDATA[<figure><a href="http://photo.dnysgdnt.com/montreux-evening/"><img src="http://photo.dnysgdnt.com//photos/large/Montreux%20Evening-686656.jpg" alt="Montreux Evening" /></a></figure>
       ]]>
     </content>
     <author>
@@ -27,17 +27,17 @@
       <email>dnnys@user.noreply.github.com</email>
       <uri>https://dnnys.github.io</uri>
     </author>
-    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Random%20Evening%20Memories-686656.jpg" />
-      <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Random%20Evening%20Memories-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Montreux%20Evening-686656.jpg" />
+      <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Montreux%20Evening-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
       </entry>
       <entry>
-        <title type="html">Montreux Evening</title>
-        <link href="http://photo.dnysgdnt.com/montreux-evening/" rel="alternate" type="text/html" title="Montreux Evening" />
-        <published>2021-03-30T21:25:55+00:00</published>
-        <updated>2021-03-30T21:25:55+00:00</updated>
-        <id>http://photo.dnysgdnt.com//montreux-evening/</id>
+        <title type="html">Mexican Sweet Potato</title>
+        <link href="http://photo.dnysgdnt.com/mexican-sweet-potato/" rel="alternate" type="text/html" title="Mexican Sweet Potato" />
+        <published>2021-03-30T21:25:50+00:00</published>
+        <updated>2021-03-30T21:25:50+00:00</updated>
+        <id>http://photo.dnysgdnt.com//mexican-sweet-potato/</id>
         <content type="html">
-          <![CDATA[<figure><a href="http://photo.dnysgdnt.com/montreux-evening/"><img src="http://photo.dnysgdnt.com//photos/large/Montreux%20Evening-686656.jpg" alt="Montreux Evening" /></a></figure>
+          <![CDATA[<figure><a href="http://photo.dnysgdnt.com/mexican-sweet-potato/"><img src="http://photo.dnysgdnt.com//photos/large/Mexican%20Sweet%20Potato-686656.jpg" alt="Mexican Sweet Potato" /></a></figure>
         ]]>
       </content>
       <author>
@@ -45,8 +45,8 @@
         <email>dnnys@user.noreply.github.com</email>
         <uri>https://dnnys.github.io</uri>
       </author>
-      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Montreux%20Evening-686656.jpg" />
-        <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Montreux%20Evening-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Mexican%20Sweet%20Potato-686656.jpg" />
+        <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Mexican%20Sweet%20Potato-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
         </entry>
         <entry>
           <title type="html">Much Snow Much Wow</title>
