@@ -7,6 +7,23 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="who-stole-my-leica" style="background-image: url('/photos/tint/Who%20stole%20my%20Leica-65ba1d.jpg')" title="Who stole my Leica">
+  <img class="lazyload" data-src="/photos/thumbnail/Who%20stole%20my%20Leica-ccf4df.jpg" src="/photos/tint/Who%20stole%20my%20Leica-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Who%20stole%20my%20Leica-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/who-stole-my-leica" data-target="who-stole-my-leica">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/montreux-evening" data-target="montreux-evening" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/80</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
+  </ul>
+</li>
 <li class="item " id="montreux-evening" style="background-image: url('/photos/tint/Montreux%20Evening-65ba1d.jpg')" title="Montreux Evening">
   <img class="lazyload" data-src="/photos/thumbnail/Montreux%20Evening-ccf4df.jpg" src="/photos/tint/Montreux%20Evening-65ba1d.jpg" height="1365" width="2048" />
   <span class="full">
@@ -14,6 +31,9 @@ lazyload();
   </span>
   <a class="open" href="/montreux-evening" data-target="montreux-evening">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/who-stole-my-leica" data-target="who-stole-my-leica" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/mexican-sweet-potato" data-target="mexican-sweet-potato" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
