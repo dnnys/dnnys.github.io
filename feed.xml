@@ -3,14 +3,14 @@
     <generator uri="https://github.com/maxvoltar/photo-stream">PhotoStream</generator>
     <link href="http://photo.dnysgdnt.com/feed.xml" rel="self" type="application/atom+xml" />
     <link href="http://photo.dnysgdnt.com/" rel="alternate" type="text/html"/>
-    <updated>2021-04-10T08:58:57+00:00</updated>
-    <id>2021-04-10T08:58:57+00:00</id>
-    <title type="html">photo.dnysgdnt.com</title>
-    <subtitle>a minimalistic photo stream</subtitle>
+    <updated>2021-04-11T19:59:40+00:00</updated>
+    <id>2021-04-11T19:59:40+00:00</id>
+    <title type="html">photo.dnysgdnt.com | personal photo stream</title>
+    <subtitle>Dennys' personal photo stream</subtitle>
     <author>
-      <name>dnnys</name>
+      <name>Dennys</name>
       <email>dnnys@user.noreply.github.com</email>
-      <uri>https://dnnys.github.io</uri>
+      <uri>https://photo.dnysgdnt.com</uri>
     </author>
     <entry>
       <title type="html">Windowshopping</title>
@@ -23,9 +23,9 @@
       ]]>
     </content>
     <author>
-      <name>dnnys</name>
+      <name>Dennys</name>
       <email>dnnys@user.noreply.github.com</email>
-      <uri>https://dnnys.github.io</uri>
+      <uri>https://photo.dnysgdnt.com</uri>
     </author>
     <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Windowshopping-686656.jpg" />
       <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Windowshopping-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
@@ -41,9 +41,9 @@
         ]]>
       </content>
       <author>
-        <name>dnnys</name>
+        <name>Dennys</name>
         <email>dnnys@user.noreply.github.com</email>
-        <uri>https://dnnys.github.io</uri>
+        <uri>https://photo.dnysgdnt.com</uri>
       </author>
       <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Off%20Season%20Vibes-686656.jpg" />
         <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Off%20Season%20Vibes-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
@@ -59,9 +59,9 @@
           ]]>
         </content>
         <author>
-          <name>dnnys</name>
+          <name>Dennys</name>
           <email>dnnys@user.noreply.github.com</email>
-          <uri>https://dnnys.github.io</uri>
+          <uri>https://photo.dnysgdnt.com</uri>
         </author>
         <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Who%20stole%20my%20Leica-686656.jpg" />
           <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Who%20stole%20my%20Leica-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
@@ -77,9 +77,9 @@
             ]]>
           </content>
           <author>
-            <name>dnnys</name>
+            <name>Dennys</name>
             <email>dnnys@user.noreply.github.com</email>
-            <uri>https://dnnys.github.io</uri>
+            <uri>https://photo.dnysgdnt.com</uri>
           </author>
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Montreux%20Evening-686656.jpg" />
             <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Montreux%20Evening-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
@@ -95,9 +95,9 @@
               ]]>
             </content>
             <author>
-              <name>dnnys</name>
+              <name>Dennys</name>
               <email>dnnys@user.noreply.github.com</email>
-              <uri>https://dnnys.github.io</uri>
+              <uri>https://photo.dnysgdnt.com</uri>
             </author>
             <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Mexican%20Sweet%20Potato-686656.jpg" />
               <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Mexican%20Sweet%20Potato-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
@@ -113,9 +113,9 @@
                 ]]>
               </content>
               <author>
-                <name>dnnys</name>
+                <name>Dennys</name>
                 <email>dnnys@user.noreply.github.com</email>
-                <uri>https://dnnys.github.io</uri>
+                <uri>https://photo.dnysgdnt.com</uri>
               </author>
               <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Much%20Snow%20Much%20Wow-686656.jpg" />
                 <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Much%20Snow%20Much%20Wow-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
@@ -131,9 +131,9 @@
                   ]]>
                 </content>
                 <author>
-                  <name>dnnys</name>
+                  <name>Dennys</name>
                   <email>dnnys@user.noreply.github.com</email>
-                  <uri>https://dnnys.github.io</uri>
+                  <uri>https://photo.dnysgdnt.com</uri>
                 </author>
                 <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Xmas%20Tree-686656.jpg" />
                   <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Xmas%20Tree-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
@@ -149,9 +149,9 @@
                     ]]>
                   </content>
                   <author>
-                    <name>dnnys</name>
+                    <name>Dennys</name>
                     <email>dnnys@user.noreply.github.com</email>
-                    <uri>https://dnnys.github.io</uri>
+                    <uri>https://photo.dnysgdnt.com</uri>
                   </author>
                   <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Not%20Your%20Classic%20Xmas%20Shot-686656.jpg" />
                     <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Not%20Your%20Classic%20Xmas%20Shot-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
@@ -167,9 +167,9 @@
                       ]]>
                     </content>
                     <author>
-                      <name>dnnys</name>
+                      <name>Dennys</name>
                       <email>dnnys@user.noreply.github.com</email>
-                      <uri>https://dnnys.github.io</uri>
+                      <uri>https://photo.dnysgdnt.com</uri>
                     </author>
                     <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/A%20boring%20photo%20of%20a%20tree-686656.jpg" />
                       <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/A%20boring%20photo%20of%20a%20tree-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
@@ -185,9 +185,9 @@
                         ]]>
                       </content>
                       <author>
-                        <name>dnnys</name>
+                        <name>Dennys</name>
                         <email>dnnys@user.noreply.github.com</email>
-                        <uri>https://dnnys.github.io</uri>
+                        <uri>https://photo.dnysgdnt.com</uri>
                       </author>
                       <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Checking%20out%20Winterwonderland-686656.jpg" />
                         <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Checking%20out%20Winterwonderland-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
@@ -203,9 +203,9 @@
                           ]]>
                         </content>
                         <author>
-                          <name>dnnys</name>
+                          <name>Dennys</name>
                           <email>dnnys@user.noreply.github.com</email>
-                          <uri>https://dnnys.github.io</uri>
+                          <uri>https://photo.dnysgdnt.com</uri>
                         </author>
                         <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Lake%20Davos%20Winterwonderland-686656.jpg" />
                           <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Lake%20Davos%20Winterwonderland-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
@@ -221,9 +221,9 @@
                             ]]>
                           </content>
                           <author>
-                            <name>dnnys</name>
+                            <name>Dennys</name>
                             <email>dnnys@user.noreply.github.com</email>
-                            <uri>https://dnnys.github.io</uri>
+                            <uri>https://photo.dnysgdnt.com</uri>
                           </author>
                           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Christina%20in%20Davos-686656.jpg" />
                             <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Christina%20in%20Davos-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
@@ -239,9 +239,9 @@
                               ]]>
                             </content>
                             <author>
-                              <name>dnnys</name>
+                              <name>Dennys</name>
                               <email>dnnys@user.noreply.github.com</email>
-                              <uri>https://dnnys.github.io</uri>
+                              <uri>https://photo.dnysgdnt.com</uri>
                             </author>
                             <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Happy%20Birthday-686656.jpg" />
                               <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Happy%20Birthday-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
@@ -257,9 +257,9 @@
                                 ]]>
                               </content>
                               <author>
-                                <name>dnnys</name>
+                                <name>Dennys</name>
                                 <email>dnnys@user.noreply.github.com</email>
-                                <uri>https://dnnys.github.io</uri>
+                                <uri>https://photo.dnysgdnt.com</uri>
                               </author>
                               <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Davos-686656.jpg" />
                                 <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Davos-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
@@ -275,9 +275,9 @@
                                   ]]>
                                 </content>
                                 <author>
-                                  <name>dnnys</name>
+                                  <name>Dennys</name>
                                   <email>dnnys@user.noreply.github.com</email>
-                                  <uri>https://dnnys.github.io</uri>
+                                  <uri>https://photo.dnysgdnt.com</uri>
                                 </author>
                                 <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Accidental%20Wes%20Anderson-686656.jpg" />
                                   <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Accidental%20Wes%20Anderson-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
@@ -293,9 +293,9 @@
                                     ]]>
                                   </content>
                                   <author>
-                                    <name>dnnys</name>
+                                    <name>Dennys</name>
                                     <email>dnnys@user.noreply.github.com</email>
-                                    <uri>https://dnnys.github.io</uri>
+                                    <uri>https://photo.dnysgdnt.com</uri>
                                   </author>
                                   <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Snowflakes%20coming%20down-686656.jpg" />
                                     <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Snowflakes%20coming%20down-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
@@ -311,9 +311,9 @@
                                       ]]>
                                     </content>
                                     <author>
-                                      <name>dnnys</name>
+                                      <name>Dennys</name>
                                       <email>dnnys@user.noreply.github.com</email>
-                                      <uri>https://dnnys.github.io</uri>
+                                      <uri>https://photo.dnysgdnt.com</uri>
                                     </author>
                                     <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Snowing-686656.jpg" />
                                       <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Snowing-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
@@ -329,9 +329,9 @@
                                         ]]>
                                       </content>
                                       <author>
-                                        <name>dnnys</name>
+                                        <name>Dennys</name>
                                         <email>dnnys@user.noreply.github.com</email>
-                                        <uri>https://dnnys.github.io</uri>
+                                        <uri>https://photo.dnysgdnt.com</uri>
                                       </author>
                                       <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Snow%20in%20the%20city-686656.jpg" />
                                         <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Snow%20in%20the%20city-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
@@ -347,9 +347,9 @@
                                           ]]>
                                         </content>
                                         <author>
-                                          <name>dnnys</name>
+                                          <name>Dennys</name>
                                           <email>dnnys@user.noreply.github.com</email>
-                                          <uri>https://dnnys.github.io</uri>
+                                          <uri>https://photo.dnysgdnt.com</uri>
                                         </author>
                                         <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Best%20Ramen%20in%20Town%20II-686656.jpg" />
                                           <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Best%20Ramen%20in%20Town%20II-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
@@ -365,9 +365,9 @@
                                             ]]>
                                           </content>
                                           <author>
-                                            <name>dnnys</name>
+                                            <name>Dennys</name>
                                             <email>dnnys@user.noreply.github.com</email>
-                                            <uri>https://dnnys.github.io</uri>
+                                            <uri>https://photo.dnysgdnt.com</uri>
                                           </author>
                                           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Best%20Ramen%20in%20Town-686656.jpg" />
                                             <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Best%20Ramen%20in%20Town-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
