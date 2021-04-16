@@ -7,6 +7,23 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="lake-geneva" style="background-image: url('/photos/tint/Lake%20Geneva-65ba1d.jpg')" title="Lake Geneva">
+  <img class="lazyload" data-src="/photos/thumbnail/Lake%20Geneva-ccf4df.jpg" src="/photos/tint/Lake%20Geneva-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Lake%20Geneva-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/lake-geneva" data-target="lake-geneva">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/evening-mood" data-target="evening-mood" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/420</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
+  </ul>
+</li>
 <li class="item " id="evening-mood" style="background-image: url('/photos/tint/Evening%20Mood-65ba1d.jpg')" title="Evening Mood">
   <img class="lazyload" data-src="/photos/thumbnail/Evening%20Mood-ccf4df.jpg" src="/photos/tint/Evening%20Mood-65ba1d.jpg" height="1365" width="2048" />
   <span class="full">
@@ -14,6 +31,9 @@ lazyload();
   </span>
   <a class="open" href="/evening-mood" data-target="evening-mood">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/lake-geneva" data-target="lake-geneva" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/windowshopping" data-target="windowshopping" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
