@@ -3,22 +3,22 @@
     <generator uri="https://github.com/maxvoltar/photo-stream">PhotoStream</generator>
     <link href="http://photo.dnysgdnt.com/feed.xml" rel="self" type="application/atom+xml" />
     <link href="http://photo.dnysgdnt.com/" rel="alternate" type="text/html"/>
-    <updated>2021-04-20T18:54:34+00:00</updated>
-    <id>2021-04-20T18:54:34+00:00</id>
+    <updated>2021-04-22T18:08:31+00:00</updated>
+    <id>2021-04-22T18:08:31+00:00</id>
     <title type="html">photo.dnysgdnt.com | personal photo stream</title>
     <subtitle>Dennys' personal photo stream</subtitle>
     <entry>
-      <title type="html">Night Traffic</title>
-      <link href="http://photo.dnysgdnt.com/night-traffic/" rel="alternate" type="text/html" title="Night Traffic" />
-      <published>2021-04-19T19:37:01+00:00</published>
-      <updated>2021-04-19T19:37:01+00:00</updated>
-      <id>http://photo.dnysgdnt.com//night-traffic/</id>
+      <title type="html">Spring Light</title>
+      <link href="http://photo.dnysgdnt.com/spring-light/" rel="alternate" type="text/html" title="Spring Light" />
+      <published>2021-04-19T19:37:04+00:00</published>
+      <updated>2021-04-19T19:37:04+00:00</updated>
+      <id>http://photo.dnysgdnt.com//spring-light/</id>
       <content type="html">
-        <![CDATA[<figure><a href="http://photo.dnysgdnt.com/night-traffic/"><img src="http://photo.dnysgdnt.com//photos/large/Night%20Traffic-686656.jpg" alt="Night Traffic" /></a></figure>
+        <![CDATA[<figure><a href="http://photo.dnysgdnt.com/spring-light/"><img src="http://photo.dnysgdnt.com//photos/large/Spring%20Light-686656.jpg" alt="Spring Light" /></a></figure>
       ]]>
     </content>
-    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Night%20Traffic-686656.jpg" />
-      <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Night%20Traffic-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Spring%20Light-686656.jpg" />
+      <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Spring%20Light-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
       </entry>
       <entry>
         <title type="html">Snowy Red Light</title>

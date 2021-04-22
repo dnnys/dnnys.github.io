@@ -7,12 +7,12 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
-<li class="item " id="night-traffic" style="background-image: url('/photos/tint/Night%20Traffic-65ba1d.jpg')" title="Night Traffic">
-  <img class="lazyload" data-src="/photos/thumbnail/Night%20Traffic-ccf4df.jpg" src="/photos/tint/Night%20Traffic-65ba1d.jpg" height="1365" width="2048" />
+<li class="item " id="spring-light" style="background-image: url('/photos/tint/Spring%20Light-65ba1d.jpg')" title="Spring Light">
+  <img class="lazyload" data-src="/photos/thumbnail/Spring%20Light-ccf4df.jpg" src="/photos/tint/Spring%20Light-65ba1d.jpg" height="2048" width="1365" />
   <span class="full">
-    <span style="background-image: url('/photos/large/Night%20Traffic-686656.jpg')"></span>
+    <span style="background-image: url('/photos/large/Spring%20Light-686656.jpg')"></span>
   </span>
-  <a class="open" href="/night-traffic" data-target="night-traffic">Open</a>
+  <a class="open" href="/spring-light" data-target="spring-light">Open</a>
   <a class="close" href="/">Close</a>
   <a href="/snowy-red-light" data-target="snowy-red-light" class="next" title="Go to next photo">
     <span>Next</span>
@@ -20,8 +20,8 @@ lazyload();
   <ul class="meta">
     <li>FUJIFILM</li>
     <li>2018</li>
-    <!-- <li>1/125</li> -->
-    <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
+    <!-- <li>1/2000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.8</li> -->
   </ul>
 </li>
 <li class="item " id="snowy-red-light" style="background-image: url('/photos/tint/Snowy%20Red%20Light-65ba1d.jpg')" title="Snowy Red Light">
@@ -31,7 +31,7 @@ lazyload();
   </span>
   <a class="open" href="/snowy-red-light" data-target="snowy-red-light">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/night-traffic" data-target="night-traffic" class="previous" title="Go to previous photo">
+  <a href="/spring-light" data-target="spring-light" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/lake-geneva" data-target="lake-geneva" class="next" title="Go to next photo">
