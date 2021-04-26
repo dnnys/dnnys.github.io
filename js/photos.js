@@ -7,6 +7,23 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="grüier-gramin" style="background-image: url('/photos/tint/Gr%C3%BCier%20Gramin-65ba1d.jpg')" title="Grüier Gramin">
+  <img class="lazyload" data-src="/photos/thumbnail/Gr%C3%BCier%20Gramin-ccf4df.jpg" src="/photos/tint/Gr%C3%BCier%20Gramin-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Gr%C3%BCier%20Gramin-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/gr%C3%BCier-gramin" data-target="grüier-gramin">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/at-the-watering-hole" data-target="at-the-watering-hole" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/2000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
+  </ul>
+</li>
 <li class="item " id="at-the-watering-hole" style="background-image: url('/photos/tint/At%20the%20Watering%20Hole-65ba1d.jpg')" title="At the Watering Hole">
   <img class="lazyload" data-src="/photos/thumbnail/At%20the%20Watering%20Hole-ccf4df.jpg" src="/photos/tint/At%20the%20Watering%20Hole-65ba1d.jpg" height="1365" width="2048" />
   <span class="full">
@@ -14,6 +31,9 @@ lazyload();
   </span>
   <a class="open" href="/at-the-watering-hole" data-target="at-the-watering-hole">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/gr%C3%BCier-gramin" data-target="grüier-gramin" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/spring-light" data-target="spring-light" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
