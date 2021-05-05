@@ -7,6 +7,23 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="house-under-the-bridge" style="background-image: url('/photos/tint/House%20under%20the%20Bridge-65ba1d.jpg')" title="House under the Bridge">
+  <img class="lazyload" data-src="/photos/thumbnail/House%20under%20the%20Bridge-ccf4df.jpg" src="/photos/tint/House%20under%20the%20Bridge-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/House%20under%20the%20Bridge-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/house-under-the-bridge" data-target="house-under-the-bridge">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/remont" data-target="remont" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/750</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
+  </ul>
+</li>
 <li class="item " id="remont" style="background-image: url('/photos/tint/Remont-65ba1d.jpg')" title="Remont">
   <img class="lazyload" data-src="/photos/thumbnail/Remont-ccf4df.jpg" src="/photos/tint/Remont-65ba1d.jpg" height="2048" width="1365" />
   <span class="full">
@@ -14,6 +31,9 @@ lazyload();
   </span>
   <a class="open" href="/remont" data-target="remont">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/house-under-the-bridge" data-target="house-under-the-bridge" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/gr%C3%BCier-gramin" data-target="grüier-gramin" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
