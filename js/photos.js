@@ -7,10 +7,10 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
-<li class="item " id="under-the-bridge" style="background-image: url('/photos/tint/Under%20the%20Bridge-65ba1d.JPG')" title="Under the Bridge">
-  <img class="lazyload" data-src="/photos/thumbnail/Under%20the%20Bridge-ccf4df.JPG" src="/photos/tint/Under%20the%20Bridge-65ba1d.JPG" height="2048" width="1365" />
+<li class="item " id="under-the-bridge" style="background-image: url('/photos/tint/Under%20the%20Bridge-65ba1d.jpg')" title="Under the Bridge">
+  <img class="lazyload" data-src="/photos/thumbnail/Under%20the%20Bridge-ccf4df.jpg" src="/photos/tint/Under%20the%20Bridge-65ba1d.jpg" height="2048" width="1365" />
   <span class="full">
-    <span style="background-image: url('/photos/large/Under%20the%20Bridge-686656.JPG')"></span>
+    <span style="background-image: url('/photos/large/Under%20the%20Bridge-686656.jpg')"></span>
   </span>
   <a class="open" href="/under-the-bridge" data-target="under-the-bridge">Open</a>
   <a class="close" href="/">Close</a>

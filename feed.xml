@@ -3,8 +3,8 @@
     <generator uri="https://github.com/maxvoltar/photo-stream">PhotoStream</generator>
     <link href="http://photo.dnysgdnt.com/feed.xml" rel="self" type="application/atom+xml" />
     <link href="http://photo.dnysgdnt.com/" rel="alternate" type="text/html"/>
-    <updated>2021-05-06T16:45:20+00:00</updated>
-    <id>2021-05-06T16:45:20+00:00</id>
+    <updated>2021-05-06T16:48:10+00:00</updated>
+    <id>2021-05-06T16:48:10+00:00</id>
     <title type="html">photo.dnysgdnt.com | personal photo stream</title>
     <subtitle>Dennys' personal photo stream</subtitle>
     <entry>
@@ -14,11 +14,11 @@
       <updated>2021-04-19T19:55:12+00:00</updated>
       <id>http://photo.dnysgdnt.com//under-the-bridge/</id>
       <content type="html">
-        <![CDATA[<figure><a href="http://photo.dnysgdnt.com/under-the-bridge/"><img src="http://photo.dnysgdnt.com//photos/large/Under%20the%20Bridge-686656.JPG" alt="Under the Bridge" /></a></figure>
+        <![CDATA[<figure><a href="http://photo.dnysgdnt.com/under-the-bridge/"><img src="http://photo.dnysgdnt.com//photos/large/Under%20the%20Bridge-686656.jpg" alt="Under the Bridge" /></a></figure>
       ]]>
     </content>
-    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Under%20the%20Bridge-686656.JPG" />
-      <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Under%20the%20Bridge-686656.JPG" xmlns:media="http://search.yahoo.com/mrss/" />
+    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://photo.dnysgdnt.com//photos/large/Under%20the%20Bridge-686656.jpg" />
+      <media:content medium="image" url="http://photo.dnysgdnt.com//photos/large/Under%20the%20Bridge-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
       </entry>
       <entry>
         <title type="html">1891</title>
