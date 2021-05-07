@@ -7,6 +7,23 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="they-have-city-view-tm" style="background-image: url('/photos/tint/They%20have%20City%20View%20TM-65ba1d.jpg')" title="They have City View TM">
+  <img class="lazyload" data-src="/photos/thumbnail/They%20have%20City%20View%20TM-ccf4df.jpg" src="/photos/tint/They%20have%20City%20View%20TM-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/They%20have%20City%20View%20TM-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/they-have-city-view-tm" data-target="they-have-city-view-tm">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/under-the-bridge" data-target="under-the-bridge" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/1000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
+  </ul>
+</li>
 <li class="item " id="under-the-bridge" style="background-image: url('/photos/tint/Under%20the%20Bridge-65ba1d.jpg')" title="Under the Bridge">
   <img class="lazyload" data-src="/photos/thumbnail/Under%20the%20Bridge-ccf4df.jpg" src="/photos/tint/Under%20the%20Bridge-65ba1d.jpg" height="2048" width="1365" />
   <span class="full">
@@ -14,6 +31,9 @@ lazyload();
   </span>
   <a class="open" href="/under-the-bridge" data-target="under-the-bridge">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/they-have-city-view-tm" data-target="they-have-city-view-tm" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/1891" data-target="1891" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
