@@ -7,6 +7,23 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="the-backyard" style="background-image: url('/photos/tint/The%20Backyard-65ba1d.jpg')" title="The Backyard">
+  <img class="lazyload" data-src="/photos/thumbnail/The%20Backyard-ccf4df.jpg" src="/photos/tint/The%20Backyard-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/The%20Backyard-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/the-backyard" data-target="the-backyard">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/leider-nid-mis-toeffli" data-target="leider-nid-mis-toeffli" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/600</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
+  </ul>
+</li>
 <li class="item " id="leider-nid-mis-toeffli" style="background-image: url('/photos/tint/(Leider%20nid%20mis)%20Toeffli-65ba1d.jpg')" title="(Leider nid mis) Toeffli">
   <img class="lazyload" data-src="/photos/thumbnail/(Leider%20nid%20mis)%20Toeffli-ccf4df.jpg" src="/photos/tint/(Leider%20nid%20mis)%20Toeffli-65ba1d.jpg" height="2048" width="1365" />
   <span class="full">
@@ -14,7 +31,10 @@ lazyload();
   </span>
   <a class="open" href="/leider-nid-mis-toeffli" data-target="leider-nid-mis-toeffli">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/strolling-in-style" data-target="strolling-in-style" class="next" title="Go to next photo">
+  <a href="/the-backyard" data-target="the-backyard" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/oi" data-target="oi" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
   <ul class="meta">
@@ -24,12 +44,12 @@ lazyload();
     <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
   </ul>
 </li>
-<li class="item " id="strolling-in-style" style="background-image: url('/photos/tint/Strolling%20in%20Style-65ba1d.jpg')" title="Strolling in Style">
-  <img class="lazyload" data-src="/photos/thumbnail/Strolling%20in%20Style-ccf4df.jpg" src="/photos/tint/Strolling%20in%20Style-65ba1d.jpg" height="1365" width="2048" />
+<li class="item " id="oi" style="background-image: url('/photos/tint/Oi-65ba1d.jpg')" title="Oi">
+  <img class="lazyload" data-src="/photos/thumbnail/Oi-ccf4df.jpg" src="/photos/tint/Oi-65ba1d.jpg" height="1365" width="2048" />
   <span class="full">
-    <span style="background-image: url('/photos/large/Strolling%20in%20Style-686656.jpg')"></span>
+    <span style="background-image: url('/photos/large/Oi-686656.jpg')"></span>
   </span>
-  <a class="open" href="/strolling-in-style" data-target="strolling-in-style">Open</a>
+  <a class="open" href="/oi" data-target="oi">Open</a>
   <a class="close" href="/">Close</a>
   <a href="/leider-nid-mis-toeffli" data-target="leider-nid-mis-toeffli" class="previous" title="Go to previous photo">
     <span>Previous</span>
@@ -51,7 +71,7 @@ lazyload();
   </span>
   <a class="open" href="/they-have-city-view-tm" data-target="they-have-city-view-tm">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/strolling-in-style" data-target="strolling-in-style" class="previous" title="Go to previous photo">
+  <a href="/oi" data-target="oi" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/under-the-bridge" data-target="under-the-bridge" class="next" title="Go to next photo">
