@@ -14,33 +14,13 @@ lazyload();
   </span>
   <a class="open" href="/pizza-and-pasta" data-target="pizza-and-pasta">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/the-backyard" data-target="the-backyard" class="next" title="Go to next photo">
-    <span>Next</span>
-  </a>
-  <ul class="meta">
-    <li>FUJIFILM</li>
-    <li>2018</li>
-    <!-- <li>1/220</li> -->
-    <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
-  </ul>
-</li>
-<li class="item " id="the-backyard" style="background-image: url('/photos/tint/The%20Backyard-65ba1d.jpg')" title="The Backyard">
-  <img class="lazyload" data-src="/photos/thumbnail/The%20Backyard-ccf4df.jpg" src="/photos/tint/The%20Backyard-65ba1d.jpg" height="1365" width="2048" />
-  <span class="full">
-    <span style="background-image: url('/photos/large/The%20Backyard-686656.jpg')"></span>
-  </span>
-  <a class="open" href="/the-backyard" data-target="the-backyard">Open</a>
-  <a class="close" href="/">Close</a>
-  <a href="/pizza-and-pasta" data-target="pizza-and-pasta" class="previous" title="Go to previous photo">
-    <span>Previous</span>
-  </a>
   <a href="/leider-nid-mis-toeffli" data-target="leider-nid-mis-toeffli" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
   <ul class="meta">
     <li>FUJIFILM</li>
     <li>2018</li>
-    <!-- <li>1/600</li> -->
+    <!-- <li>1/220</li> -->
     <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
   </ul>
 </li>
@@ -51,47 +31,7 @@ lazyload();
   </span>
   <a class="open" href="/leider-nid-mis-toeffli" data-target="leider-nid-mis-toeffli">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/the-backyard" data-target="the-backyard" class="previous" title="Go to previous photo">
-    <span>Previous</span>
-  </a>
-  <a href="/oi" data-target="oi" class="next" title="Go to next photo">
-    <span>Next</span>
-  </a>
-  <ul class="meta">
-    <li>FUJIFILM</li>
-    <li>2018</li>
-    <!-- <li>1/800</li> -->
-    <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
-  </ul>
-</li>
-<li class="item " id="oi" style="background-image: url('/photos/tint/Oi-65ba1d.jpg')" title="Oi">
-  <img class="lazyload" data-src="/photos/thumbnail/Oi-ccf4df.jpg" src="/photos/tint/Oi-65ba1d.jpg" height="1365" width="2048" />
-  <span class="full">
-    <span style="background-image: url('/photos/large/Oi-686656.jpg')"></span>
-  </span>
-  <a class="open" href="/oi" data-target="oi">Open</a>
-  <a class="close" href="/">Close</a>
-  <a href="/leider-nid-mis-toeffli" data-target="leider-nid-mis-toeffli" class="previous" title="Go to previous photo">
-    <span>Previous</span>
-  </a>
-  <a href="/they-have-city-view-tm" data-target="they-have-city-view-tm" class="next" title="Go to next photo">
-    <span>Next</span>
-  </a>
-  <ul class="meta">
-    <li>FUJIFILM</li>
-    <li>2018</li>
-    <!-- <li>1/450</li> -->
-    <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
-  </ul>
-</li>
-<li class="item " id="they-have-city-view-tm" style="background-image: url('/photos/tint/They%20have%20City%20View%20TM-65ba1d.jpg')" title="They have City View TM">
-  <img class="lazyload" data-src="/photos/thumbnail/They%20have%20City%20View%20TM-ccf4df.jpg" src="/photos/tint/They%20have%20City%20View%20TM-65ba1d.jpg" height="2048" width="1365" />
-  <span class="full">
-    <span style="background-image: url('/photos/large/They%20have%20City%20View%20TM-686656.jpg')"></span>
-  </span>
-  <a class="open" href="/they-have-city-view-tm" data-target="they-have-city-view-tm">Open</a>
-  <a class="close" href="/">Close</a>
-  <a href="/oi" data-target="oi" class="previous" title="Go to previous photo">
+  <a href="/pizza-and-pasta" data-target="pizza-and-pasta" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/under-the-bridge" data-target="under-the-bridge" class="next" title="Go to next photo">
@@ -100,7 +40,7 @@ lazyload();
   <ul class="meta">
     <li>FUJIFILM</li>
     <li>2018</li>
-    <!-- <li>1/1000</li> -->
+    <!-- <li>1/800</li> -->
     <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
   </ul>
 </li>
@@ -111,7 +51,7 @@ lazyload();
   </span>
   <a class="open" href="/under-the-bridge" data-target="under-the-bridge">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/they-have-city-view-tm" data-target="they-have-city-view-tm" class="previous" title="Go to previous photo">
+  <a href="/leider-nid-mis-toeffli" data-target="leider-nid-mis-toeffli" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/1891" data-target="1891" class="next" title="Go to next photo">
@@ -134,13 +74,73 @@ lazyload();
   <a href="/under-the-bridge" data-target="under-the-bridge" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
-  <a href="/remont" data-target="remont" class="next" title="Go to next photo">
+  <a href="/the-backyard" data-target="the-backyard" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
   <ul class="meta">
     <li>FUJIFILM</li>
     <li>2018</li>
     <!-- <li>1/750</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
+  </ul>
+</li>
+<li class="item " id="the-backyard" style="background-image: url('/photos/tint/The%20Backyard-65ba1d.jpg')" title="The Backyard">
+  <img class="lazyload" data-src="/photos/thumbnail/The%20Backyard-ccf4df.jpg" src="/photos/tint/The%20Backyard-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/The%20Backyard-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/the-backyard" data-target="the-backyard">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/1891" data-target="1891" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/oi" data-target="oi" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/600</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
+  </ul>
+</li>
+<li class="item " id="oi" style="background-image: url('/photos/tint/Oi-65ba1d.jpg')" title="Oi">
+  <img class="lazyload" data-src="/photos/thumbnail/Oi-ccf4df.jpg" src="/photos/tint/Oi-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Oi-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/oi" data-target="oi">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/the-backyard" data-target="the-backyard" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/they-have-city-view-tm" data-target="they-have-city-view-tm" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/450</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
+  </ul>
+</li>
+<li class="item " id="they-have-city-view-tm" style="background-image: url('/photos/tint/They%20have%20City%20View%20TM-65ba1d.jpg')" title="They have City View TM">
+  <img class="lazyload" data-src="/photos/thumbnail/They%20have%20City%20View%20TM-ccf4df.jpg" src="/photos/tint/They%20have%20City%20View%20TM-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/They%20have%20City%20View%20TM-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/they-have-city-view-tm" data-target="they-have-city-view-tm">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/oi" data-target="oi" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/remont" data-target="remont" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/1000</li> -->
     <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
   </ul>
 </li>
@@ -151,7 +151,7 @@ lazyload();
   </span>
   <a class="open" href="/remont" data-target="remont">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/1891" data-target="1891" class="previous" title="Go to previous photo">
+  <a href="/they-have-city-view-tm" data-target="they-have-city-view-tm" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/gr%C3%BCier-gramin" data-target="grüier-gramin" class="next" title="Go to next photo">
