@@ -8,6 +8,7 @@ body { flex-grow: 1; font: 16px/24px -apple-system, BlinkMacSystemFont, "Segoe U
 .grid .item { height: 40vh; flex-grow: 1; outline: 2px solid #fff; position: relative; background-size: 100%; }
 @media (prefers-color-scheme: dark) { .grid .item { outline-color: #000; } }
 .grid .item img { max-height: 100%; min-width: 100%; min-height: 100%; width: auto; object-fit: cover; display: block; }
+.grid .item img.fullres { display: none; }
 .grid .item .open, .grid .item .close { position: absolute; top: 0; right: 0; bottom: 0; left: 0; text-indent: 150%; overflow: hidden; white-space: nowrap; }
 .grid .item .open { cursor: zoom-in; background-color: rgba(0, 0, 0, 0); transition: background-color .15s ease-out; }
 .grid .item .open:hover, .grid .item .open:focus { background-color: rgba(0, 0, 0, 0.25); }
@@ -53,6 +54,8 @@ body { flex-grow: 1; font: 16px/24px -apple-system, BlinkMacSystemFont, "Segoe U
 @media (max-aspect-ratio: 1 / 1) and (max-width: 480px) { .grid { flex-direction: row; }
 .grid .item { height: auto; width: 100%; }
 .grid .item img { width: 100%; height: auto; }
+.grid .item img.thumb { display: none; }
+.grid .item img.fullres { display: block; }
 .grid .item .previous, .grid .item .next { width: 25vw; max-width: auto; }
 .grid .item .previous span, .grid .item .next span { display: none; }
 .grid .item .previous { cursor: w-resize; }
