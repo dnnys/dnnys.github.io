@@ -112,6 +112,10 @@ body {
 			width: auto;
 			object-fit: cover;
 			display: block;
+			
+			&.fullres {
+				display: none;
+			}
 		}
 
 		.open,
@@ -390,6 +394,13 @@ body {
 			img {
 				width: 100%;
 				height: auto;
+				
+				&.thumb { 
+					display: none; 
+				}
+				&.fullres { 
+					display: block; 
+				}
 			}
 			
 			.previous,
