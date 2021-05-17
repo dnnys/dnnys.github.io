@@ -36,13 +36,34 @@ lazyload();
   <a href="/pizza-and-pasta" data-target="pizza-and-pasta" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
-  <a href="/they-have-city-view-tm" data-target="they-have-city-view-tm" class="next" title="Go to next photo">
+  <a href="/goals" data-target="goals" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
   <ul class="meta">
     <li>FUJIFILM</li>
     <li>2018</li>
     <!-- <li>1/800</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
+  </ul>
+</li>
+<li class="item " id="goals" style="background-image: url('/photos/tint/Goals-65ba1d.jpg')" title="Goals">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Goals-ccf4df.jpg" src="/photos/tint/Goals-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Goals-686656.jpg" src="/photos/tint/Goals-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Goals-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/goals" data-target="goals">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/leider-nid-mis-toeffli" data-target="leider-nid-mis-toeffli" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/they-have-city-view-tm" data-target="they-have-city-view-tm" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/900</li> -->
     <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
   </ul>
 </li>
@@ -54,7 +75,7 @@ lazyload();
   </span>
   <a class="open" href="/they-have-city-view-tm" data-target="they-have-city-view-tm">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/leider-nid-mis-toeffli" data-target="leider-nid-mis-toeffli" class="previous" title="Go to previous photo">
+  <a href="/goals" data-target="goals" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/under-the-bridge" data-target="under-the-bridge" class="next" title="Go to next photo">
