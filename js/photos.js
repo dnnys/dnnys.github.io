@@ -15,13 +15,34 @@ lazyload();
   </span>
   <a class="open" href="/pizza-and-pasta" data-target="pizza-and-pasta">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/leider-nid-mis-toeffli" data-target="leider-nid-mis-toeffli" class="next" title="Go to next photo">
+  <a href="/monobloc-garden" data-target="monobloc-garden" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
   <ul class="meta">
     <li>FUJIFILM</li>
     <li>2018</li>
     <!-- <li>1/220</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
+  </ul>
+</li>
+<li class="item " id="monobloc-garden" style="background-image: url('/photos/tint/Monobloc%20Garden-65ba1d.jpg')" title="Monobloc Garden">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Monobloc%20Garden-ccf4df.jpg" src="/photos/tint/Monobloc%20Garden-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Monobloc%20Garden-686656.jpg" src="/photos/tint/Monobloc%20Garden-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Monobloc%20Garden-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/monobloc-garden" data-target="monobloc-garden">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/pizza-and-pasta" data-target="pizza-and-pasta" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/leider-nid-mis-toeffli" data-target="leider-nid-mis-toeffli" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/170</li> -->
     <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
   </ul>
 </li>
@@ -33,7 +54,7 @@ lazyload();
   </span>
   <a class="open" href="/leider-nid-mis-toeffli" data-target="leider-nid-mis-toeffli">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/pizza-and-pasta" data-target="pizza-and-pasta" class="previous" title="Go to previous photo">
+  <a href="/monobloc-garden" data-target="monobloc-garden" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/goals" data-target="goals" class="next" title="Go to next photo">
