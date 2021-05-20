@@ -7,6 +7,24 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="gardening-is-my-hobby" style="background-image: url('/photos/tint/Gardening%20is%20my%20hobby-65ba1d.jpg')" title="Gardening is my hobby">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Gardening%20is%20my%20hobby-ccf4df.jpg" src="/photos/tint/Gardening%20is%20my%20hobby-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Gardening%20is%20my%20hobby-686656.jpg" src="/photos/tint/Gardening%20is%20my%20hobby-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Gardening%20is%20my%20hobby-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/gardening-is-my-hobby" data-target="gardening-is-my-hobby">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/pizza-and-pasta" data-target="pizza-and-pasta" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/300</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
+  </ul>
+</li>
 <li class="item " id="pizza-and-pasta" style="background-image: url('/photos/tint/Pizza%20and%20Pasta-65ba1d.jpg')" title="Pizza and Pasta">
   <img class="lazyload thumb" data-src="/photos/thumbnail/Pizza%20and%20Pasta-ccf4df.jpg" src="/photos/tint/Pizza%20and%20Pasta-65ba1d.jpg" height="1365" width="2048" />
   <img class="lazyload fullres" data-src="/photos/large/Pizza%20and%20Pasta-686656.jpg" src="/photos/tint/Pizza%20and%20Pasta-65ba1d.jpg" height="1365" width="2048" />
@@ -15,6 +33,9 @@ lazyload();
   </span>
   <a class="open" href="/pizza-and-pasta" data-target="pizza-and-pasta">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/gardening-is-my-hobby" data-target="gardening-is-my-hobby" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/monobloc-garden" data-target="monobloc-garden" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
