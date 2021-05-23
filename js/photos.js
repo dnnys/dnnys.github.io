@@ -7,15 +7,15 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
-<li class="item " id="a-fetli-of-c" style="background-image: url('/photos/tint/A%20Fetli%20of%20C-65ba1d.jpg')" title="A Fetli of C">
-  <img class="lazyload thumb" data-src="/photos/thumbnail/A%20Fetli%20of%20C-ccf4df.jpg" src="/photos/tint/A%20Fetli%20of%20C-65ba1d.jpg" height="1365" width="2048" />
-  <img class="lazyload fullres" data-src="/photos/large/A%20Fetli%20of%20C-686656.jpg" src="/photos/tint/A%20Fetli%20of%20C-65ba1d.jpg" height="1365" width="2048" />
+<li class="item " id="gooooutschas-brrrr" style="background-image: url('/photos/tint/Gooooutschas%20Brrrr-65ba1d.jpg')" title="Gooooutschas Brrrr">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Gooooutschas%20Brrrr-ccf4df.jpg" src="/photos/tint/Gooooutschas%20Brrrr-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Gooooutschas%20Brrrr-686656.jpg" src="/photos/tint/Gooooutschas%20Brrrr-65ba1d.jpg" height="1365" width="2048" />
   <span class="full">
-    <span style="background-image: url('/photos/large/A%20Fetli%20of%20C-686656.jpg')"></span>
+    <span style="background-image: url('/photos/large/Gooooutschas%20Brrrr-686656.jpg')"></span>
   </span>
-  <a class="open" href="/a-fetli-of-c" data-target="a-fetli-of-c">Open</a>
+  <a class="open" href="/gooooutschas-brrrr" data-target="gooooutschas-brrrr">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/e-blaue-gouf" data-target="e-blaue-gouf" class="next" title="Go to next photo">
+  <a href="/layers-and-lines" data-target="layers-and-lines" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
   <ul class="meta">
@@ -23,6 +23,27 @@ lazyload();
     <li>2018</li>
     <!-- <li>1/250</li> -->
     <!-- <li><span class="aperture"><em>f</em>/</span>2.8</li> -->
+  </ul>
+</li>
+<li class="item " id="layers-and-lines" style="background-image: url('/photos/tint/Layers%20and%20Lines-65ba1d.jpg')" title="Layers and Lines">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Layers%20and%20Lines-ccf4df.jpg" src="/photos/tint/Layers%20and%20Lines-65ba1d.jpg" height="2048" width="1366" />
+  <img class="lazyload fullres" data-src="/photos/large/Layers%20and%20Lines-686656.jpg" src="/photos/tint/Layers%20and%20Lines-65ba1d.jpg" height="2048" width="1366" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Layers%20and%20Lines-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/layers-and-lines" data-target="layers-and-lines">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/gooooutschas-brrrr" data-target="gooooutschas-brrrr" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/e-blaue-gouf" data-target="e-blaue-gouf" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/500</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
   </ul>
 </li>
 <li class="item " id="e-blaue-gouf" style="background-image: url('/photos/tint/E%20blaue%20Gouf-65ba1d.jpg')" title="E blaue Gouf">
@@ -33,7 +54,7 @@ lazyload();
   </span>
   <a class="open" href="/e-blaue-gouf" data-target="e-blaue-gouf">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/a-fetli-of-c" data-target="a-fetli-of-c" class="previous" title="Go to previous photo">
+  <a href="/layers-and-lines" data-target="layers-and-lines" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/gardening-is-my-hobby" data-target="gardening-is-my-hobby" class="next" title="Go to next photo">
