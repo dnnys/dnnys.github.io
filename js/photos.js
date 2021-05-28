@@ -57,13 +57,34 @@ lazyload();
   <a href="/zwei-negroni-bitte-ja" data-target="zwei-negroni-bitte-ja" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
-  <a href="/layers-and-lines" data-target="layers-and-lines" class="next" title="Go to next photo">
+  <a href="/perspective" data-target="perspective" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
   <ul class="meta">
     <li>FUJIFILM</li>
     <li>2018</li>
     <!-- <li>1/2000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.8</li> -->
+  </ul>
+</li>
+<li class="item " id="perspective" style="background-image: url('/photos/tint/Perspective-65ba1d.jpg')" title="Perspective">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Perspective-ccf4df.jpg" src="/photos/tint/Perspective-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Perspective-686656.jpg" src="/photos/tint/Perspective-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Perspective-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/perspective" data-target="perspective">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/alt-n%C3%BCrnberg-hotel" data-target="alt-nürnberg-hotel" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/layers-and-lines" data-target="layers-and-lines" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/500</li> -->
     <!-- <li><span class="aperture"><em>f</em>/</span>2.8</li> -->
   </ul>
 </li>
@@ -75,7 +96,7 @@ lazyload();
   </span>
   <a class="open" href="/layers-and-lines" data-target="layers-and-lines">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/alt-n%C3%BCrnberg-hotel" data-target="alt-nürnberg-hotel" class="previous" title="Go to previous photo">
+  <a href="/perspective" data-target="perspective" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/e-blaue-gouf" data-target="e-blaue-gouf" class="next" title="Go to next photo">
