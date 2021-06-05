@@ -5,7 +5,8 @@ module Jekyll
     def photo_filter(files)
       photos = files.select {|photo| photo.relative_path.include?("original") }
       photos.sort_by do |photo|
-        EXIFR::JPEG.new(photo.path).date_time.to_s
+        # EXIFR::JPEG.new(photo.path).date_time.to_s
+        File.mtime(photo.path).to_s
       end.reverse
     end
   end
