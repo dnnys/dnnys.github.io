@@ -6,7 +6,7 @@ module Jekyll
       photos = files.select {|photo| photo.relative_path.include?("original") }
       photos.sort_by do |photo|
         # EXIFR::JPEG.new(photo.path).date_time.to_s
-        File.mtime(photo.path).to_i
+        File.mtime(photo.path)
       end.reverse
     end
   end
