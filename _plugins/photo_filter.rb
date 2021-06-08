@@ -4,8 +4,8 @@ require "exifr"
 module Jekyll
   module PhotoFilter
     def photo_filter(files)
-      photos = files.select {|photo| photo.relative_path.include?("original") }
-      photos.sort_by{ |photo| File.mtime(photo.path)} # .reverse
+      photos = files.select { |photo| photo.relative_path.include?("original") }
+      photos.sort_by{ |photo| File.mtime(photo.path)}.reverse
     end
   end
 end
