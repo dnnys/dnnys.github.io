@@ -36,7 +36,7 @@ lazyload();
   <a href="/gooooutschas-brrrr" data-target="gooooutschas-brrrr" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
-  <a href="/blue-little-mini" data-target="blue-little-mini" class="next" title="Go to next photo">
+  <a href="/crazy-horst" data-target="crazy-horst" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
   <ul class="meta">
@@ -44,6 +44,27 @@ lazyload();
     <li>2018</li>
     <!-- <li>1/1000</li> -->
     <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
+  </ul>
+</li>
+<li class="item " id="crazy-horst" style="background-image: url('/photos/tint/Crazy%20Horst-65ba1d.jpg')" title="Crazy Horst">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Crazy%20Horst-ccf4df.jpg" src="/photos/tint/Crazy%20Horst-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Crazy%20Horst-686656.jpg" src="/photos/tint/Crazy%20Horst-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Crazy%20Horst-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/crazy-horst" data-target="crazy-horst">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/zwei-negroni-bitte-ja" data-target="zwei-negroni-bitte-ja" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/blue-little-mini" data-target="blue-little-mini" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/1000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.8</li> -->
   </ul>
 </li>
 <li class="item " id="blue-little-mini" style="background-image: url('/photos/tint/Blue%20Little%20Mini-65ba1d.jpg')" title="Blue Little Mini">
@@ -54,7 +75,7 @@ lazyload();
   </span>
   <a class="open" href="/blue-little-mini" data-target="blue-little-mini">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/zwei-negroni-bitte-ja" data-target="zwei-negroni-bitte-ja" class="previous" title="Go to previous photo">
+  <a href="/crazy-horst" data-target="crazy-horst" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/waiting-zone" data-target="waiting-zone" class="next" title="Go to next photo">
