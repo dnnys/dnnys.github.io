@@ -7,6 +7,24 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="jigsaw" style="background-image: url('/photos/tint/Jigsaw-65ba1d.jpg')" title="Jigsaw">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Jigsaw-ccf4df.jpg" src="/photos/tint/Jigsaw-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Jigsaw-686656.jpg" src="/photos/tint/Jigsaw-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Jigsaw-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/jigsaw" data-target="jigsaw">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/duomo" data-target="duomo" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/1000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.8</li> -->
+  </ul>
+</li>
 <li class="item " id="duomo" style="background-image: url('/photos/tint/Duomo-65ba1d.jpg')" title="Duomo">
   <img class="lazyload thumb" data-src="/photos/thumbnail/Duomo-ccf4df.jpg" src="/photos/tint/Duomo-65ba1d.jpg" height="1365" width="2048" />
   <img class="lazyload fullres" data-src="/photos/large/Duomo-686656.jpg" src="/photos/tint/Duomo-65ba1d.jpg" height="1365" width="2048" />
@@ -15,6 +33,9 @@ lazyload();
   </span>
   <a class="open" href="/duomo" data-target="duomo">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/jigsaw" data-target="jigsaw" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/looking-for-sujets-tm" data-target="looking-for-sujets-tm" class="next" title="Go to next photo">
     <span>Next</span>
   </a>

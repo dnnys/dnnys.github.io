@@ -1121,55 +1121,55 @@ S["build_os"]="linux-gnu"
 S["build_vendor"]="pc"
 S["build_cpu"]="x86_64"
 S["build"]="x86_64-pc-linux-gnu"
-S["vips_introspection_sources"]=" ./freqfilt/freqfilt.c ./freqfilt/fwfft.c ./freqfilt/freqmult.c ./freqfilt/spectrum.c ./freqfilt/invfft.c ./freqfilt/phasecor.c ./arithmetic/hough.c"\
-" ./arithmetic/math2.c ./arithmetic/min.c ./arithmetic/deviate.c ./arithmetic/project.c ./arithmetic/round.c ./arithmetic/linear.c ./arithmetic/compl"\
-"ex.c ./arithmetic/unary.c ./arithmetic/sign.c ./arithmetic/arithmetic.c ./arithmetic/hist_find_ndim.c ./arithmetic/multiply.c ./arithmetic/remainder"\
-".c ./arithmetic/boolean.c ./arithmetic/math.c ./arithmetic/statistic.c ./arithmetic/relational.c ./arithmetic/stats.c ./arithmetic/nary.c ./arithmet"\
-"ic/unaryconst.c ./arithmetic/profile.c ./arithmetic/avg.c ./arithmetic/invert.c ./arithmetic/sum.c ./arithmetic/add.c ./arithmetic/max.c ./arithmeti"\
-"c/getpoint.c ./arithmetic/binary.c ./arithmetic/hough_circle.c ./arithmetic/abs.c ./arithmetic/find_trim.c ./arithmetic/subtract.c ./arithmetic/meas"\
-"ure.c ./arithmetic/hist_find.c ./arithmetic/hist_find_indexed.c ./arithmetic/divide.c ./arithmetic/hough_line.c ./mosaicing/mosaic.c ./mosaicing/mos"\
-"aic1.c ./mosaicing/im_improve.c ./mosaicing/im_initialize.c ./mosaicing/im_lrmerge.c ./mosaicing/im_avgdxdy.c ./mosaicing/mosaicing.c ./mosaicing/im"\
-"_clinear.c ./mosaicing/im_tbmerge.c ./mosaicing/im_tbmosaic.c ./mosaicing/im_remosaic.c ./mosaicing/global_balance.c ./mosaicing/merge.c ./mosaicing"\
-"/im_chkpair.c ./mosaicing/match.c ./mosaicing/im_lrcalcon.c ./mosaicing/im_lrmosaic.c ./mosaicing/im_tbcalcon.c ./create/mask_butterworth.c ./create"\
-"/buildlut.c ./create/identity.c ./create/mask_gaussian_ring.c ./create/worley.c ./create/mask_gaussian.c ./create/mask_butterworth_ring.c ./create/g"\
-"aussnoise.c ./create/zone.c ./create/mask_butterworth_band.c ./create/mask.c ./create/mask_ideal_ring.c ./create/mask_ideal.c ./create/text.c ./crea"\
-"te/gaussmat.c ./create/sines.c ./create/create.c ./create/mask_fractal.c ./create/point.c ./create/perlin.c ./create/black.c ./create/mask_gaussian_"\
-"band.c ./create/mask_ideal_band.c ./create/logmat.c ./create/eye.c ./create/fractsurf.c ./create/invertlut.c ./create/grey.c ./create/xyz.c ./create"\
-"/tonelut.c ./histogram/percent.c ./histogram/hist_cum.c ./histogram/hist_ismonotonic.c ./histogram/hist_equal.c ./histogram/maplut.c ./histogram/std"\
-"if.c ./histogram/case.c ./histogram/hist_norm.c ./histogram/hist_local.c ./histogram/hist_entropy.c ./histogram/hist_match.c ./histogram/hist_plot.c"\
-" ./histogram/hist_unary.c ./histogram/histogram.c ./colour/LabQ2sRGB.c ./colour/LabQ2Lab.c ./colour/UCS2LCh.c ./colour/CMYK2XYZ.c ./colour/sRGB2scRG"\
-"B.c ./colour/HSV2sRGB.c ./colour/XYZ2scRGB.c ./colour/XYZ2Lab.c ./colour/scRGB2BW.c ./colour/XYZ2Yxy.c ./colour/Yxy2XYZ.c ./colour/Lab2LabS.c ./colo"\
-"ur/Lab2LabQ.c ./colour/XYZ2CMYK.c ./colour/Lab2LCh.c ./colour/LabS2LabQ.c ./colour/dE00.c ./colour/rad2float.c ./colour/colour.c ./colour/colourspac"\
-"e.c ./colour/LabS2Lab.c ./colour/LCh2UCS.c ./colour/Lab2XYZ.c ./colour/sRGB2HSV.c ./colour/profile_load.c ./colour/dECMC.c ./colour/LabQ2LabS.c ./co"\
-"lour/profiles.c ./colour/float2rad.c ./colour/icc_transform.c ./colour/LCh2Lab.c ./colour/scRGB2XYZ.c ./colour/scRGB2sRGB.c ./colour/dE76.c ./foreig"\
-"n/tiff.c ./foreign/radiance.c ./foreign/matload.c ./foreign/svgload.c ./foreign/exif.c ./foreign/analyzeload.c ./foreign/radload.c ./foreign/foreign"\
-".c ./foreign/ppmsave.c ./foreign/openexr2vips.c ./foreign/vipssave.c ./foreign/magicksave.c ./foreign/magickload.c ./foreign/webpload.c ./foreign/pp"\
-"mload.c ./foreign/csvsave.c ./foreign/webpsave.c ./foreign/webp2vips.c ./foreign/magick7load.c ./foreign/tiff2vips.c ./foreign/dzsave.c ./foreign/ra"\
-"dsave.c ./foreign/magick.c ./foreign/csv.c ./foreign/pngload.c ./foreign/openslide2vips.c ./foreign/rawload.c ./foreign/rawsave.c ./foreign/quantise"\
-".c ./foreign/fits.c ./foreign/jpegsave.c ./foreign/vips2jpeg.c ./foreign/openexrload.c ./foreign/matrixsave.c ./foreign/analyze2vips.c ./foreign/vip"\
-"sload.c ./foreign/tiffload.c ./foreign/fitsload.c ./foreign/jpegload.c ./foreign/jpeg2vips.c ./foreign/fitssave.c ./foreign/niftisave.c ./foreign/op"\
-"enslideload.c ./foreign/cairo.c ./foreign/matlab.c ./foreign/heifsave.c ./foreign/csvload.c ./foreign/matrixload.c ./foreign/pdfiumload.c ./foreign/"\
-"vipspng.c ./foreign/vips2webp.c ./foreign/heifload.c ./foreign/tiffsave.c ./foreign/niftiload.c ./foreign/gifload.c ./foreign/vips2tiff.c ./foreign/"\
-"pdfload.c ./foreign/magick2vips.c ./foreign/pngsave.c ./conversion/embed.c ./conversion/rot45.c ./conversion/grid.c ./conversion/subsample.c ./conve"\
-"rsion/bandbool.c ./conversion/zoom.c ./conversion/smartcrop.c ./conversion/conversion.c ./conversion/falsecolour.c ./conversion/arrayjoin.c ./conver"\
-"sion/gamma.c ./conversion/scale.c ./conversion/byteswap.c ./conversion/msb.c ./conversion/bandmean.c ./conversion/bandunfold.c ./conversion/tilecach"\
-"e.c ./conversion/rot.c ./conversion/flatten.c ./conversion/recomb.c ./conversion/bandfold.c ./conversion/flip.c ./conversion/extract.c ./conversion/"\
-"transpose3d.c ./conversion/unpremultiply.c ./conversion/autorot.c ./conversion/replicate.c ./conversion/premultiply.c ./conversion/bandjoin.c ./conv"\
-"ersion/bandary.c ./conversion/cast.c ./conversion/wrap.c ./conversion/switch.c ./conversion/sequential.c ./conversion/insert.c ./conversion/join.c ."\
-"/conversion/ifthenelse.c ./conversion/cache.c ./conversion/bandrank.c ./conversion/copy.c ./iofuncs/vector.c ./iofuncs/type.c ./iofuncs/image.c ./io"\
-"funcs/sinkmemory.c ./iofuncs/sourcecustom.c ./iofuncs/vips.c ./iofuncs/system.c ./iofuncs/source.c ./iofuncs/enumtypes.c ./iofuncs/mapfile.c ./iofun"\
-"cs/threadpool.c ./iofuncs/generate.c ./iofuncs/sinkdisc.c ./iofuncs/gate.c ./iofuncs/header.c ./iofuncs/rect.c ./iofuncs/buffer.c ./iofuncs/memory.c"\
-" ./iofuncs/sink.c ./iofuncs/util.c ./iofuncs/buf.c ./iofuncs/error.c ./iofuncs/reorder.c ./iofuncs/target.c ./iofuncs/operation.c ./iofuncs/init.c ."\
-"/iofuncs/base64.c ./iofuncs/window.c ./iofuncs/sbuf.c ./iofuncs/connection.c ./iofuncs/region.c ./iofuncs/sinkscreen.c ./iofuncs/vipsmarshal.c ./iof"\
-"uncs/dbuf.c ./iofuncs/targetcustom.c ./iofuncs/cache.c ./iofuncs/semaphore.c ./iofuncs/object.c ./morphology/morph.c ./morphology/rank.c ./morpholog"\
-"y/hitmiss.c ./morphology/countlines.c ./morphology/morphology.c ./morphology/labelregions.c ./morphology/nearest.c ./draw/draw.c ./draw/draw_smudge."\
-"c ./draw/draw_line.c ./draw/draw_circle.c ./draw/drawink.c ./draw/draw_image.c ./draw/draw_flood.c ./draw/draw_rect.c ./draw/draw_mask.c ./convoluti"\
-"on/spcor.c ./convolution/sharpen.c ./convolution/correlation.c ./convolution/convasep.c ./convolution/conv.c ./convolution/conva.c ./convolution/sob"\
-"el.c ./convolution/convsep.c ./convolution/convf.c ./convolution/convolution.c ./convolution/convi.c ./convolution/compass.c ./convolution/fastcor.c"\
-" ./convolution/gaussblur.c ./convolution/canny.c ./resample/shrink.c ./resample/thumbnail.c ./resample/interpolate.c ./resample/reduce.c ./resample/"\
-"resize.c ./resample/shrinkh.c ./resample/similarity.c ./resample/shrinkv.c ./resample/quadratic.c ./resample/transform.c ./resample/mapim.c ./resamp"\
-"le/resample.c ./resample/affine.c ./conversion/composite.cpp ./resample/lbb.cpp ./resample/nohalo.cpp ./resample/reducev.cpp ./resample/reduceh.cpp "\
-"./resample/vsqbs.cpp ./resample/bicubic.cpp include/vips/basic.h include/vips/vips.h include/vips/object.h include/vips/image.h include/vips/error.h"\
+S["vips_introspection_sources"]=" ./freqfilt/freqmult.c ./freqfilt/invfft.c ./freqfilt/fwfft.c ./freqfilt/freqfilt.c ./freqfilt/spectrum.c ./freqfilt/phasecor.c ./arithmetic/hough_l"\
+"ine.c ./arithmetic/statistic.c ./arithmetic/max.c ./arithmetic/hough_circle.c ./arithmetic/linear.c ./arithmetic/add.c ./arithmetic/measure.c ./arit"\
+"hmetic/abs.c ./arithmetic/profile.c ./arithmetic/divide.c ./arithmetic/complex.c ./arithmetic/relational.c ./arithmetic/boolean.c ./arithmetic/binar"\
+"y.c ./arithmetic/project.c ./arithmetic/math.c ./arithmetic/deviate.c ./arithmetic/hist_find_ndim.c ./arithmetic/subtract.c ./arithmetic/unary.c ./a"\
+"rithmetic/hist_find.c ./arithmetic/unaryconst.c ./arithmetic/math2.c ./arithmetic/arithmetic.c ./arithmetic/sign.c ./arithmetic/hough.c ./arithmetic"\
+"/invert.c ./arithmetic/hist_find_indexed.c ./arithmetic/multiply.c ./arithmetic/find_trim.c ./arithmetic/sum.c ./arithmetic/getpoint.c ./arithmetic/"\
+"avg.c ./arithmetic/round.c ./arithmetic/nary.c ./arithmetic/min.c ./arithmetic/stats.c ./arithmetic/remainder.c ./colour/dE00.c ./colour/LCh2UCS.c ."\
+"/colour/Lab2LabS.c ./colour/icc_transform.c ./colour/sRGB2scRGB.c ./colour/Lab2LabQ.c ./colour/colourspace.c ./colour/UCS2LCh.c ./colour/XYZ2CMYK.c "\
+"./colour/rad2float.c ./colour/XYZ2Yxy.c ./colour/scRGB2BW.c ./colour/scRGB2XYZ.c ./colour/dE76.c ./colour/XYZ2scRGB.c ./colour/LabS2LabQ.c ./colour/"\
+"Yxy2XYZ.c ./colour/scRGB2sRGB.c ./colour/Lab2LCh.c ./colour/profile_load.c ./colour/LabS2Lab.c ./colour/Lab2XYZ.c ./colour/float2rad.c ./colour/LabQ"\
+"2LabS.c ./colour/HSV2sRGB.c ./colour/LabQ2Lab.c ./colour/LabQ2sRGB.c ./colour/sRGB2HSV.c ./colour/CMYK2XYZ.c ./colour/dECMC.c ./colour/XYZ2Lab.c ./c"\
+"olour/LCh2Lab.c ./colour/colour.c ./colour/profiles.c ./convolution/convi.c ./convolution/convf.c ./convolution/convolution.c ./convolution/gaussblu"\
+"r.c ./convolution/convasep.c ./convolution/sobel.c ./convolution/compass.c ./convolution/fastcor.c ./convolution/sharpen.c ./convolution/spcor.c ./c"\
+"onvolution/canny.c ./convolution/conv.c ./convolution/convsep.c ./convolution/correlation.c ./convolution/conva.c ./morphology/nearest.c ./morpholog"\
+"y/hitmiss.c ./morphology/countlines.c ./morphology/labelregions.c ./morphology/morphology.c ./morphology/morph.c ./morphology/rank.c ./mosaicing/im_"\
+"tbmerge.c ./mosaicing/global_balance.c ./mosaicing/im_tbmosaic.c ./mosaicing/im_lrcalcon.c ./mosaicing/im_improve.c ./mosaicing/mosaic.c ./mosaicing"\
+"/im_lrmosaic.c ./mosaicing/im_chkpair.c ./mosaicing/match.c ./mosaicing/im_initialize.c ./mosaicing/im_remosaic.c ./mosaicing/im_clinear.c ./mosaici"\
+"ng/mosaic1.c ./mosaicing/mosaicing.c ./mosaicing/merge.c ./mosaicing/im_lrmerge.c ./mosaicing/im_tbcalcon.c ./mosaicing/im_avgdxdy.c ./foreign/radsa"\
+"ve.c ./foreign/matrixload.c ./foreign/magickload.c ./foreign/foreign.c ./foreign/vips2webp.c ./foreign/rawsave.c ./foreign/vipspng.c ./foreign/fits."\
+"c ./foreign/webpsave.c ./foreign/fitssave.c ./foreign/openexrload.c ./foreign/svgload.c ./foreign/webpload.c ./foreign/analyze2vips.c ./foreign/magi"\
+"ck2vips.c ./foreign/pdfiumload.c ./foreign/vips2tiff.c ./foreign/openslideload.c ./foreign/magicksave.c ./foreign/pngsave.c ./foreign/tiffsave.c ./f"\
+"oreign/tiff2vips.c ./foreign/cairo.c ./foreign/quantise.c ./foreign/heifload.c ./foreign/analyzeload.c ./foreign/radload.c ./foreign/openslide2vips."\
+"c ./foreign/matlab.c ./foreign/ppmsave.c ./foreign/fitsload.c ./foreign/matload.c ./foreign/heifsave.c ./foreign/openexr2vips.c ./foreign/vipssave.c"\
+" ./foreign/pngload.c ./foreign/gifload.c ./foreign/vipsload.c ./foreign/radiance.c ./foreign/jpegload.c ./foreign/jpeg2vips.c ./foreign/csvsave.c ./"\
+"foreign/webp2vips.c ./foreign/jpegsave.c ./foreign/exif.c ./foreign/csv.c ./foreign/dzsave.c ./foreign/tiff.c ./foreign/magick.c ./foreign/pdfload.c"\
+" ./foreign/csvload.c ./foreign/vips2jpeg.c ./foreign/magick7load.c ./foreign/matrixsave.c ./foreign/niftisave.c ./foreign/tiffload.c ./foreign/rawlo"\
+"ad.c ./foreign/niftiload.c ./foreign/ppmload.c ./resample/interpolate.c ./resample/shrinkh.c ./resample/thumbnail.c ./resample/affine.c ./resample/m"\
+"apim.c ./resample/shrinkv.c ./resample/shrink.c ./resample/resize.c ./resample/reduce.c ./resample/similarity.c ./resample/quadratic.c ./resample/re"\
+"sample.c ./resample/transform.c ./draw/draw.c ./draw/draw_mask.c ./draw/drawink.c ./draw/draw_flood.c ./draw/draw_line.c ./draw/draw_rect.c ./draw/d"\
+"raw_image.c ./draw/draw_circle.c ./draw/draw_smudge.c ./conversion/bandrank.c ./conversion/ifthenelse.c ./conversion/autorot.c ./conversion/sequenti"\
+"al.c ./conversion/msb.c ./conversion/join.c ./conversion/falsecolour.c ./conversion/premultiply.c ./conversion/bandunfold.c ./conversion/transpose3d"\
+".c ./conversion/subsample.c ./conversion/cast.c ./conversion/byteswap.c ./conversion/bandary.c ./conversion/switch.c ./conversion/tilecache.c ./conv"\
+"ersion/recomb.c ./conversion/gamma.c ./conversion/rot.c ./conversion/unpremultiply.c ./conversion/wrap.c ./conversion/insert.c ./conversion/bandbool"\
+".c ./conversion/flip.c ./conversion/conversion.c ./conversion/grid.c ./conversion/extract.c ./conversion/smartcrop.c ./conversion/arrayjoin.c ./conv"\
+"ersion/zoom.c ./conversion/copy.c ./conversion/bandjoin.c ./conversion/replicate.c ./conversion/embed.c ./conversion/bandfold.c ./conversion/scale.c"\
+" ./conversion/flatten.c ./conversion/rot45.c ./conversion/cache.c ./conversion/bandmean.c ./create/mask_gaussian_ring.c ./create/mask_ideal_ring.c ."\
+"/create/mask_butterworth_band.c ./create/mask_gaussian_band.c ./create/gaussmat.c ./create/zone.c ./create/create.c ./create/mask_gaussian.c ./creat"\
+"e/mask_ideal_band.c ./create/invertlut.c ./create/eye.c ./create/mask_fractal.c ./create/tonelut.c ./create/mask_butterworth_ring.c ./create/fractsu"\
+"rf.c ./create/buildlut.c ./create/identity.c ./create/black.c ./create/mask_butterworth.c ./create/point.c ./create/mask_ideal.c ./create/sines.c ./"\
+"create/perlin.c ./create/text.c ./create/mask.c ./create/worley.c ./create/xyz.c ./create/logmat.c ./create/gaussnoise.c ./create/grey.c ./histogram"\
+"/hist_local.c ./histogram/hist_unary.c ./histogram/stdif.c ./histogram/hist_norm.c ./histogram/maplut.c ./histogram/case.c ./histogram/hist_plot.c ."\
+"/histogram/hist_cum.c ./histogram/hist_match.c ./histogram/hist_equal.c ./histogram/hist_ismonotonic.c ./histogram/histogram.c ./histogram/hist_entr"\
+"opy.c ./histogram/percent.c ./iofuncs/connection.c ./iofuncs/source.c ./iofuncs/error.c ./iofuncs/sinkmemory.c ./iofuncs/object.c ./iofuncs/generate"\
+".c ./iofuncs/sink.c ./iofuncs/enumtypes.c ./iofuncs/system.c ./iofuncs/semaphore.c ./iofuncs/vector.c ./iofuncs/buffer.c ./iofuncs/sinkdisc.c ./iofu"\
+"ncs/sbuf.c ./iofuncs/dbuf.c ./iofuncs/window.c ./iofuncs/rect.c ./iofuncs/image.c ./iofuncs/region.c ./iofuncs/vips.c ./iofuncs/sinkscreen.c ./iofun"\
+"cs/gate.c ./iofuncs/vipsmarshal.c ./iofuncs/base64.c ./iofuncs/memory.c ./iofuncs/header.c ./iofuncs/target.c ./iofuncs/buf.c ./iofuncs/operation.c "\
+"./iofuncs/util.c ./iofuncs/cache.c ./iofuncs/threadpool.c ./iofuncs/sourcecustom.c ./iofuncs/type.c ./iofuncs/init.c ./iofuncs/mapfile.c ./iofuncs/t"\
+"argetcustom.c ./iofuncs/reorder.c ./resample/vsqbs.cpp ./resample/reduceh.cpp ./resample/reducev.cpp ./resample/nohalo.cpp ./resample/bicubic.cpp ./"\
+"resample/lbb.cpp ./conversion/composite.cpp include/vips/basic.h include/vips/vips.h include/vips/object.h include/vips/image.h include/vips/error.h"\
 " include/vips/foreign.h include/vips/freqfilt.h include/vips/interpolate.h include/vips/header.h include/vips/histogram.h include/vips/operation.h i"\
 "nclude/vips/enumtypes.h include/vips/conversion.h include/vips/arithmetic.h include/vips/colour.h include/vips/convolution.h include/vips/create.h i"\
 "nclude/vips/draw.h include/vips/morphology.h include/vips/mosaicing.h include/vips/type.h include/vips/rect.h include/vips/resample.h include/vips/m"\
