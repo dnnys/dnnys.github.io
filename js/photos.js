@@ -7,14 +7,35 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
-<li class="item " id="jigsaw" style="background-image: url('/photos/tint/Jigsaw-65ba1d.jpg')" title="Jigsaw">
-  <img class="lazyload thumb" data-src="/photos/thumbnail/Jigsaw-ccf4df.jpg" src="/photos/tint/Jigsaw-65ba1d.jpg" height="1365" width="2048" />
-  <img class="lazyload fullres" data-src="/photos/large/Jigsaw-686656.jpg" src="/photos/tint/Jigsaw-65ba1d.jpg" height="1365" width="2048" />
+<li class="item " id="tight-corners" style="background-image: url('/photos/tint/Tight%20Corners-65ba1d.jpg')" title="Tight Corners">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Tight%20Corners-ccf4df.jpg" src="/photos/tint/Tight%20Corners-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Tight%20Corners-686656.jpg" src="/photos/tint/Tight%20Corners-65ba1d.jpg" height="2048" width="1365" />
   <span class="full">
-    <span style="background-image: url('/photos/large/Jigsaw-686656.jpg')"></span>
+    <span style="background-image: url('/photos/large/Tight%20Corners-686656.jpg')"></span>
   </span>
-  <a class="open" href="/jigsaw" data-target="jigsaw">Open</a>
+  <a class="open" href="/tight-corners" data-target="tight-corners">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/tetris" data-target="tetris" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/1000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.8</li> -->
+  </ul>
+</li>
+<li class="item " id="tetris" style="background-image: url('/photos/tint/Tetris-65ba1d.jpg')" title="Tetris">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Tetris-ccf4df.jpg" src="/photos/tint/Tetris-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Tetris-686656.jpg" src="/photos/tint/Tetris-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Tetris-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/tetris" data-target="tetris">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/tight-corners" data-target="tight-corners" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/duomo" data-target="duomo" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
@@ -33,7 +54,7 @@ lazyload();
   </span>
   <a class="open" href="/duomo" data-target="duomo">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/jigsaw" data-target="jigsaw" class="previous" title="Go to previous photo">
+  <a href="/tetris" data-target="tetris" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/looking-for-sujets-tm" data-target="looking-for-sujets-tm" class="next" title="Go to next photo">
