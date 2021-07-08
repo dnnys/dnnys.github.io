@@ -7,6 +7,87 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="palazzi-views" style="background-image: url('/photos/tint/Palazzi%20Views-65ba1d.jpg')" title="Palazzi Views">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Palazzi%20Views-ccf4df.jpg" src="/photos/tint/Palazzi%20Views-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Palazzi%20Views-686656.jpg" src="/photos/tint/Palazzi%20Views-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Palazzi%20Views-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/palazzi-views" data-target="palazzi-views">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/guardian" data-target="guardian" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/2000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>4.0</li> -->
+  </ul>
+</li>
+<li class="item " id="guardian" style="background-image: url('/photos/tint/Guardian-65ba1d.jpg')" title="Guardian">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Guardian-ccf4df.jpg" src="/photos/tint/Guardian-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Guardian-686656.jpg" src="/photos/tint/Guardian-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Guardian-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/guardian" data-target="guardian">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/palazzi-views" data-target="palazzi-views" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/duomo-angle" data-target="duomo-angle" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/2000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>4.0</li> -->
+  </ul>
+</li>
+<li class="item " id="duomo-angle" style="background-image: url('/photos/tint/Duomo%20Angle-65ba1d.jpg')" title="Duomo Angle">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Duomo%20Angle-ccf4df.jpg" src="/photos/tint/Duomo%20Angle-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Duomo%20Angle-686656.jpg" src="/photos/tint/Duomo%20Angle-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Duomo%20Angle-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/duomo-angle" data-target="duomo-angle">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/guardian" data-target="guardian" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/a-bell" data-target="a-bell" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/2000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.8</li> -->
+  </ul>
+</li>
+<li class="item " id="a-bell" style="background-image: url('/photos/tint/A%20Bell-65ba1d.jpg')" title="A Bell">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/A%20Bell-ccf4df.jpg" src="/photos/tint/A%20Bell-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/A%20Bell-686656.jpg" src="/photos/tint/A%20Bell-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/A%20Bell-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/a-bell" data-target="a-bell">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/duomo-angle" data-target="duomo-angle" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/tight-corners" data-target="tight-corners" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/2000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.8</li> -->
+  </ul>
+</li>
 <li class="item " id="tight-corners" style="background-image: url('/photos/tint/Tight%20Corners-65ba1d.jpg')" title="Tight Corners">
   <img class="lazyload thumb" data-src="/photos/thumbnail/Tight%20Corners-ccf4df.jpg" src="/photos/tint/Tight%20Corners-65ba1d.jpg" height="2048" width="1365" />
   <img class="lazyload fullres" data-src="/photos/large/Tight%20Corners-686656.jpg" src="/photos/tint/Tight%20Corners-65ba1d.jpg" height="2048" width="1365" />
@@ -15,6 +96,9 @@ lazyload();
   </span>
   <a class="open" href="/tight-corners" data-target="tight-corners">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/a-bell" data-target="a-bell" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/tetris" data-target="tetris" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
