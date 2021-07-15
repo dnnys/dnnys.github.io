@@ -7,6 +7,24 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="backyard-views" style="background-image: url('/photos/tint/Backyard%20Views-65ba1d.jpg')" title="Backyard Views">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Backyard%20Views-ccf4df.jpg" src="/photos/tint/Backyard%20Views-65ba1d.jpg" height="2048" width="1366" />
+  <img class="lazyload fullres" data-src="/photos/large/Backyard%20Views-686656.jpg" src="/photos/tint/Backyard%20Views-65ba1d.jpg" height="2048" width="1366" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Backyard%20Views-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/backyard-views" data-target="backyard-views">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/palazzi-views" data-target="palazzi-views" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/4000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.8</li> -->
+  </ul>
+</li>
 <li class="item " id="palazzi-views" style="background-image: url('/photos/tint/Palazzi%20Views-65ba1d.jpg')" title="Palazzi Views">
   <img class="lazyload thumb" data-src="/photos/thumbnail/Palazzi%20Views-ccf4df.jpg" src="/photos/tint/Palazzi%20Views-65ba1d.jpg" height="1365" width="2048" />
   <img class="lazyload fullres" data-src="/photos/large/Palazzi%20Views-686656.jpg" src="/photos/tint/Palazzi%20Views-65ba1d.jpg" height="1365" width="2048" />
@@ -15,6 +33,9 @@ lazyload();
   </span>
   <a class="open" href="/palazzi-views" data-target="palazzi-views">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/backyard-views" data-target="backyard-views" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/guardian" data-target="guardian" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
