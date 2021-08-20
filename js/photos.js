@@ -7,6 +7,45 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="exhibit-a" style="background-image: url('/photos/tint/Exhibit%20A-65ba1d.jpg')" title="Exhibit A">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Exhibit%20A-ccf4df.jpg" src="/photos/tint/Exhibit%20A-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Exhibit%20A-686656.jpg" src="/photos/tint/Exhibit%20A-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Exhibit%20A-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/exhibit-a" data-target="exhibit-a">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/ciuso" data-target="ciuso" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/125</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.8</li> -->
+  </ul>
+</li>
+<li class="item " id="ciuso" style="background-image: url('/photos/tint/Ciuso-65ba1d.jpg')" title="Ciuso">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Ciuso-ccf4df.jpg" src="/photos/tint/Ciuso-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Ciuso-686656.jpg" src="/photos/tint/Ciuso-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Ciuso-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/ciuso" data-target="ciuso">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/exhibit-a" data-target="exhibit-a" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/molto-business" data-target="molto-business" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/125</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.8</li> -->
+  </ul>
+</li>
 <li class="item " id="molto-business" style="background-image: url('/photos/tint/Molto%20Business-65ba1d.jpg')" title="Molto Business">
   <img class="lazyload thumb" data-src="/photos/thumbnail/Molto%20Business-ccf4df.jpg" src="/photos/tint/Molto%20Business-65ba1d.jpg" height="2048" width="1365" />
   <img class="lazyload fullres" data-src="/photos/large/Molto%20Business-686656.jpg" src="/photos/tint/Molto%20Business-65ba1d.jpg" height="2048" width="1365" />
@@ -15,6 +54,9 @@ lazyload();
   </span>
   <a class="open" href="/molto-business" data-target="molto-business">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/ciuso" data-target="ciuso" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/aperitivo" data-target="aperitivo" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
