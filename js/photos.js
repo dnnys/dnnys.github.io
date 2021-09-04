@@ -7,15 +7,78 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
-<li class="item " id="welcome-to-my-house" style="background-image: url('/photos/tint/Welcome%20to%20my%20house-65ba1d.jpg')" title="Welcome to my house">
-  <img class="lazyload thumb" data-src="/photos/thumbnail/Welcome%20to%20my%20house-ccf4df.jpg" src="/photos/tint/Welcome%20to%20my%20house-65ba1d.jpg" height="2048" width="1365" />
-  <img class="lazyload fullres" data-src="/photos/large/Welcome%20to%20my%20house-686656.jpg" src="/photos/tint/Welcome%20to%20my%20house-65ba1d.jpg" height="2048" width="1365" />
+<li class="item " id="views" style="background-image: url('/photos/tint/Views-65ba1d.jpg')" title="Views">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Views-ccf4df.jpg" src="/photos/tint/Views-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Views-686656.jpg" src="/photos/tint/Views-65ba1d.jpg" height="1365" width="2048" />
   <span class="full">
-    <span style="background-image: url('/photos/large/Welcome%20to%20my%20house-686656.jpg')"></span>
+    <span style="background-image: url('/photos/large/Views-686656.jpg')"></span>
   </span>
-  <a class="open" href="/welcome-to-my-house" data-target="welcome-to-my-house">Open</a>
+  <a class="open" href="/views" data-target="views">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/the-most-beautiful-house" data-target="the-most-beautiful-house" class="next" title="Go to next photo">
+  <a href="/looky-look" data-target="looky-look" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/125</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>4.0</li> -->
+  </ul>
+</li>
+<li class="item " id="looky-look" style="background-image: url('/photos/tint/Looky%20look-65ba1d.jpg')" title="Looky look">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Looky%20look-ccf4df.jpg" src="/photos/tint/Looky%20look-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Looky%20look-686656.jpg" src="/photos/tint/Looky%20look-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Looky%20look-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/looky-look" data-target="looky-look">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/views" data-target="views" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/garden-gnome" data-target="garden-gnome" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/125</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>4.0</li> -->
+  </ul>
+</li>
+<li class="item " id="garden-gnome" style="background-image: url('/photos/tint/Garden%20Gnome-65ba1d.jpg')" title="Garden Gnome">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Garden%20Gnome-ccf4df.jpg" src="/photos/tint/Garden%20Gnome-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Garden%20Gnome-686656.jpg" src="/photos/tint/Garden%20Gnome-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Garden%20Gnome-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/garden-gnome" data-target="garden-gnome">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/looky-look" data-target="looky-look" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/empress-elisabeth" data-target="empress-elisabeth" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/250</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
+  </ul>
+</li>
+<li class="item " id="empress-elisabeth" style="background-image: url('/photos/tint/Empress%20Elisabeth-65ba1d.jpg')" title="Empress Elisabeth">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Empress%20Elisabeth-ccf4df.jpg" src="/photos/tint/Empress%20Elisabeth-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Empress%20Elisabeth-686656.jpg" src="/photos/tint/Empress%20Elisabeth-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Empress%20Elisabeth-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/empress-elisabeth" data-target="empress-elisabeth">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/garden-gnome" data-target="garden-gnome" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/the-house" data-target="the-house" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
   <ul class="meta">
@@ -25,15 +88,15 @@ lazyload();
     <!-- <li><span class="aperture"><em>f</em>/</span>4.0</li> -->
   </ul>
 </li>
-<li class="item " id="the-most-beautiful-house" style="background-image: url('/photos/tint/The%20most%20beautiful%20house-65ba1d.jpg')" title="The most beautiful house">
-  <img class="lazyload thumb" data-src="/photos/thumbnail/The%20most%20beautiful%20house-ccf4df.jpg" src="/photos/tint/The%20most%20beautiful%20house-65ba1d.jpg" height="1365" width="2048" />
-  <img class="lazyload fullres" data-src="/photos/large/The%20most%20beautiful%20house-686656.jpg" src="/photos/tint/The%20most%20beautiful%20house-65ba1d.jpg" height="1365" width="2048" />
+<li class="item " id="the-house" style="background-image: url('/photos/tint/The%20House-65ba1d.jpg')" title="The House">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/The%20House-ccf4df.jpg" src="/photos/tint/The%20House-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/The%20House-686656.jpg" src="/photos/tint/The%20House-65ba1d.jpg" height="1365" width="2048" />
   <span class="full">
-    <span style="background-image: url('/photos/large/The%20most%20beautiful%20house-686656.jpg')"></span>
+    <span style="background-image: url('/photos/large/The%20House-686656.jpg')"></span>
   </span>
-  <a class="open" href="/the-most-beautiful-house" data-target="the-most-beautiful-house">Open</a>
+  <a class="open" href="/the-house" data-target="the-house">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/welcome-to-my-house" data-target="welcome-to-my-house" class="previous" title="Go to previous photo">
+  <a href="/empress-elisabeth" data-target="empress-elisabeth" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/balcony" data-target="balcony" class="next" title="Go to next photo">
@@ -54,7 +117,7 @@ lazyload();
   </span>
   <a class="open" href="/balcony" data-target="balcony">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/the-most-beautiful-house" data-target="the-most-beautiful-house" class="previous" title="Go to previous photo">
+  <a href="/the-house" data-target="the-house" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/exhibit-a" data-target="exhibit-a" class="next" title="Go to next photo">
