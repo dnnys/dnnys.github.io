@@ -3,8 +3,8 @@
     <generator uri="https://github.com/maxvoltar/photo-stream">PhotoStream</generator>
     <link href="http://snaps.dnysgdnt.com/feed.xml" rel="self" type="application/atom+xml" />
     <link href="http://snaps.dnysgdnt.com/" rel="alternate" type="text/html"/>
-    <updated>2021-09-04T15:58:21+00:00</updated>
-    <id>2021-09-04T15:58:21+00:00</id>
+    <updated>2021-09-04T16:21:42+00:00</updated>
+    <id>2021-09-04T16:21:42+00:00</id>
     <title type="html">Dennys' SNAPS</title>
     <subtitle>A Collection of Personal Snaps from 2016–today</subtitle>
     <entry>
@@ -86,185 +86,185 @@
                 <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Balcony-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                 </entry>
                 <entry>
-                  <title type="html">Exhibit A</title>
-                  <link href="http://snaps.dnysgdnt.com/exhibit-a/" rel="alternate" type="text/html" title="Exhibit A" />
-                  <published>2021-08-08T19:01:56+00:00</published>
-                  <updated>2021-08-08T19:01:56+00:00</updated>
-                  <id>http://snaps.dnysgdnt.com//exhibit-a/</id>
+                  <title type="html">Molto Business</title>
+                  <link href="http://snaps.dnysgdnt.com/molto-business/" rel="alternate" type="text/html" title="Molto Business" />
+                  <published>2021-07-11T14:03:15+00:00</published>
+                  <updated>2021-07-11T14:03:15+00:00</updated>
+                  <id>http://snaps.dnysgdnt.com//molto-business/</id>
                   <content type="html">
-                    <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/exhibit-a/"><img src="http://snaps.dnysgdnt.com//photos/large/Exhibit%20A-686656.jpg" alt="Exhibit A" /></a></figure>
+                    <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/molto-business/"><img src="http://snaps.dnysgdnt.com//photos/large/Molto%20Business-686656.jpg" alt="Molto Business" /></a></figure>
                   ]]>
                 </content>
-                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Exhibit%20A-686656.jpg" />
-                  <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Exhibit%20A-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Molto%20Business-686656.jpg" />
+                  <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Molto%20Business-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                   </entry>
                   <entry>
-                    <title type="html">Molto Business</title>
-                    <link href="http://snaps.dnysgdnt.com/molto-business/" rel="alternate" type="text/html" title="Molto Business" />
-                    <published>2021-07-11T14:03:15+00:00</published>
-                    <updated>2021-07-11T14:03:15+00:00</updated>
-                    <id>http://snaps.dnysgdnt.com//molto-business/</id>
+                    <title type="html">Aperitivo</title>
+                    <link href="http://snaps.dnysgdnt.com/aperitivo/" rel="alternate" type="text/html" title="Aperitivo" />
+                    <published>2021-07-11T14:01:51+00:00</published>
+                    <updated>2021-07-11T14:01:51+00:00</updated>
+                    <id>http://snaps.dnysgdnt.com//aperitivo/</id>
                     <content type="html">
-                      <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/molto-business/"><img src="http://snaps.dnysgdnt.com//photos/large/Molto%20Business-686656.jpg" alt="Molto Business" /></a></figure>
+                      <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/aperitivo/"><img src="http://snaps.dnysgdnt.com//photos/large/Aperitivo-686656.jpg" alt="Aperitivo" /></a></figure>
                     ]]>
                   </content>
-                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Molto%20Business-686656.jpg" />
-                    <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Molto%20Business-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Aperitivo-686656.jpg" />
+                    <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Aperitivo-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                     </entry>
                     <entry>
-                      <title type="html">Aperitivo</title>
-                      <link href="http://snaps.dnysgdnt.com/aperitivo/" rel="alternate" type="text/html" title="Aperitivo" />
-                      <published>2021-07-11T14:01:51+00:00</published>
-                      <updated>2021-07-11T14:01:51+00:00</updated>
-                      <id>http://snaps.dnysgdnt.com//aperitivo/</id>
+                      <title type="html">Backyard Views</title>
+                      <link href="http://snaps.dnysgdnt.com/backyard-views/" rel="alternate" type="text/html" title="Backyard Views" />
+                      <published>2021-07-11T14:01:14+00:00</published>
+                      <updated>2021-07-11T14:01:14+00:00</updated>
+                      <id>http://snaps.dnysgdnt.com//backyard-views/</id>
                       <content type="html">
-                        <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/aperitivo/"><img src="http://snaps.dnysgdnt.com//photos/large/Aperitivo-686656.jpg" alt="Aperitivo" /></a></figure>
+                        <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/backyard-views/"><img src="http://snaps.dnysgdnt.com//photos/large/Backyard%20Views-686656.jpg" alt="Backyard Views" /></a></figure>
                       ]]>
                     </content>
-                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Aperitivo-686656.jpg" />
-                      <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Aperitivo-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Backyard%20Views-686656.jpg" />
+                      <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Backyard%20Views-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                       </entry>
                       <entry>
-                        <title type="html">Backyard Views</title>
-                        <link href="http://snaps.dnysgdnt.com/backyard-views/" rel="alternate" type="text/html" title="Backyard Views" />
-                        <published>2021-07-11T14:01:14+00:00</published>
-                        <updated>2021-07-11T14:01:14+00:00</updated>
-                        <id>http://snaps.dnysgdnt.com//backyard-views/</id>
+                        <title type="html">Palazzi Views</title>
+                        <link href="http://snaps.dnysgdnt.com/palazzi-views/" rel="alternate" type="text/html" title="Palazzi Views" />
+                        <published>2021-07-08T20:39:35+00:00</published>
+                        <updated>2021-07-08T20:39:35+00:00</updated>
+                        <id>http://snaps.dnysgdnt.com//palazzi-views/</id>
                         <content type="html">
-                          <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/backyard-views/"><img src="http://snaps.dnysgdnt.com//photos/large/Backyard%20Views-686656.jpg" alt="Backyard Views" /></a></figure>
+                          <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/palazzi-views/"><img src="http://snaps.dnysgdnt.com//photos/large/Palazzi%20Views-686656.jpg" alt="Palazzi Views" /></a></figure>
                         ]]>
                       </content>
-                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Backyard%20Views-686656.jpg" />
-                        <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Backyard%20Views-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Palazzi%20Views-686656.jpg" />
+                        <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Palazzi%20Views-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                         </entry>
                         <entry>
-                          <title type="html">Palazzi Views</title>
-                          <link href="http://snaps.dnysgdnt.com/palazzi-views/" rel="alternate" type="text/html" title="Palazzi Views" />
+                          <title type="html">Guardian</title>
+                          <link href="http://snaps.dnysgdnt.com/guardian/" rel="alternate" type="text/html" title="Guardian" />
                           <published>2021-07-08T20:39:35+00:00</published>
                           <updated>2021-07-08T20:39:35+00:00</updated>
-                          <id>http://snaps.dnysgdnt.com//palazzi-views/</id>
+                          <id>http://snaps.dnysgdnt.com//guardian/</id>
                           <content type="html">
-                            <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/palazzi-views/"><img src="http://snaps.dnysgdnt.com//photos/large/Palazzi%20Views-686656.jpg" alt="Palazzi Views" /></a></figure>
+                            <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/guardian/"><img src="http://snaps.dnysgdnt.com//photos/large/Guardian-686656.jpg" alt="Guardian" /></a></figure>
                           ]]>
                         </content>
-                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Palazzi%20Views-686656.jpg" />
-                          <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Palazzi%20Views-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Guardian-686656.jpg" />
+                          <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Guardian-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                           </entry>
                           <entry>
-                            <title type="html">Guardian</title>
-                            <link href="http://snaps.dnysgdnt.com/guardian/" rel="alternate" type="text/html" title="Guardian" />
-                            <published>2021-07-08T20:39:35+00:00</published>
-                            <updated>2021-07-08T20:39:35+00:00</updated>
-                            <id>http://snaps.dnysgdnt.com//guardian/</id>
+                            <title type="html">Duomo Angle</title>
+                            <link href="http://snaps.dnysgdnt.com/duomo-angle/" rel="alternate" type="text/html" title="Duomo Angle" />
+                            <published>2021-07-08T20:39:34+00:00</published>
+                            <updated>2021-07-08T20:39:34+00:00</updated>
+                            <id>http://snaps.dnysgdnt.com//duomo-angle/</id>
                             <content type="html">
-                              <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/guardian/"><img src="http://snaps.dnysgdnt.com//photos/large/Guardian-686656.jpg" alt="Guardian" /></a></figure>
+                              <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/duomo-angle/"><img src="http://snaps.dnysgdnt.com//photos/large/Duomo%20Angle-686656.jpg" alt="Duomo Angle" /></a></figure>
                             ]]>
                           </content>
-                          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Guardian-686656.jpg" />
-                            <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Guardian-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Duomo%20Angle-686656.jpg" />
+                            <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Duomo%20Angle-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                             </entry>
                             <entry>
-                              <title type="html">Duomo Angle</title>
-                              <link href="http://snaps.dnysgdnt.com/duomo-angle/" rel="alternate" type="text/html" title="Duomo Angle" />
-                              <published>2021-07-08T20:39:34+00:00</published>
-                              <updated>2021-07-08T20:39:34+00:00</updated>
-                              <id>http://snaps.dnysgdnt.com//duomo-angle/</id>
+                              <title type="html">A Bell</title>
+                              <link href="http://snaps.dnysgdnt.com/a-bell/" rel="alternate" type="text/html" title="A Bell" />
+                              <published>2021-07-08T20:39:31+00:00</published>
+                              <updated>2021-07-08T20:39:31+00:00</updated>
+                              <id>http://snaps.dnysgdnt.com//a-bell/</id>
                               <content type="html">
-                                <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/duomo-angle/"><img src="http://snaps.dnysgdnt.com//photos/large/Duomo%20Angle-686656.jpg" alt="Duomo Angle" /></a></figure>
+                                <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/a-bell/"><img src="http://snaps.dnysgdnt.com//photos/large/A%20Bell-686656.jpg" alt="A Bell" /></a></figure>
                               ]]>
                             </content>
-                            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Duomo%20Angle-686656.jpg" />
-                              <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Duomo%20Angle-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/A%20Bell-686656.jpg" />
+                              <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/A%20Bell-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                               </entry>
                               <entry>
-                                <title type="html">A Bell</title>
-                                <link href="http://snaps.dnysgdnt.com/a-bell/" rel="alternate" type="text/html" title="A Bell" />
-                                <published>2021-07-08T20:39:31+00:00</published>
-                                <updated>2021-07-08T20:39:31+00:00</updated>
-                                <id>http://snaps.dnysgdnt.com//a-bell/</id>
+                                <title type="html">Tight Corners</title>
+                                <link href="http://snaps.dnysgdnt.com/tight-corners/" rel="alternate" type="text/html" title="Tight Corners" />
+                                <published>2021-07-01T11:37:26+00:00</published>
+                                <updated>2021-07-01T11:37:26+00:00</updated>
+                                <id>http://snaps.dnysgdnt.com//tight-corners/</id>
                                 <content type="html">
-                                  <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/a-bell/"><img src="http://snaps.dnysgdnt.com//photos/large/A%20Bell-686656.jpg" alt="A Bell" /></a></figure>
+                                  <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/tight-corners/"><img src="http://snaps.dnysgdnt.com//photos/large/Tight%20Corners-686656.jpg" alt="Tight Corners" /></a></figure>
                                 ]]>
                               </content>
-                              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/A%20Bell-686656.jpg" />
-                                <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/A%20Bell-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Tight%20Corners-686656.jpg" />
+                                <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Tight%20Corners-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                                 </entry>
                                 <entry>
-                                  <title type="html">Tight Corners</title>
-                                  <link href="http://snaps.dnysgdnt.com/tight-corners/" rel="alternate" type="text/html" title="Tight Corners" />
-                                  <published>2021-07-01T11:37:26+00:00</published>
-                                  <updated>2021-07-01T11:37:26+00:00</updated>
-                                  <id>http://snaps.dnysgdnt.com//tight-corners/</id>
+                                  <title type="html">Tetris</title>
+                                  <link href="http://snaps.dnysgdnt.com/tetris/" rel="alternate" type="text/html" title="Tetris" />
+                                  <published>2021-06-30T20:20:24+00:00</published>
+                                  <updated>2021-06-30T20:20:24+00:00</updated>
+                                  <id>http://snaps.dnysgdnt.com//tetris/</id>
                                   <content type="html">
-                                    <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/tight-corners/"><img src="http://snaps.dnysgdnt.com//photos/large/Tight%20Corners-686656.jpg" alt="Tight Corners" /></a></figure>
+                                    <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/tetris/"><img src="http://snaps.dnysgdnt.com//photos/large/Tetris-686656.jpg" alt="Tetris" /></a></figure>
                                   ]]>
                                 </content>
-                                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Tight%20Corners-686656.jpg" />
-                                  <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Tight%20Corners-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Tetris-686656.jpg" />
+                                  <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Tetris-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                                   </entry>
                                   <entry>
-                                    <title type="html">Tetris</title>
-                                    <link href="http://snaps.dnysgdnt.com/tetris/" rel="alternate" type="text/html" title="Tetris" />
-                                    <published>2021-06-30T20:20:24+00:00</published>
-                                    <updated>2021-06-30T20:20:24+00:00</updated>
-                                    <id>http://snaps.dnysgdnt.com//tetris/</id>
+                                    <title type="html">Duomo</title>
+                                    <link href="http://snaps.dnysgdnt.com/duomo/" rel="alternate" type="text/html" title="Duomo" />
+                                    <published>2021-06-25T11:35:32+00:00</published>
+                                    <updated>2021-06-25T11:35:32+00:00</updated>
+                                    <id>http://snaps.dnysgdnt.com//duomo/</id>
                                     <content type="html">
-                                      <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/tetris/"><img src="http://snaps.dnysgdnt.com//photos/large/Tetris-686656.jpg" alt="Tetris" /></a></figure>
+                                      <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/duomo/"><img src="http://snaps.dnysgdnt.com//photos/large/Duomo-686656.jpg" alt="Duomo" /></a></figure>
                                     ]]>
                                   </content>
-                                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Tetris-686656.jpg" />
-                                    <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Tetris-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Duomo-686656.jpg" />
+                                    <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Duomo-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                                     </entry>
                                     <entry>
-                                      <title type="html">Duomo</title>
-                                      <link href="http://snaps.dnysgdnt.com/duomo/" rel="alternate" type="text/html" title="Duomo" />
-                                      <published>2021-06-25T11:35:32+00:00</published>
-                                      <updated>2021-06-25T11:35:32+00:00</updated>
-                                      <id>http://snaps.dnysgdnt.com//duomo/</id>
+                                      <title type="html">Looking for Sujets TM</title>
+                                      <link href="http://snaps.dnysgdnt.com/looking-for-sujets-tm/" rel="alternate" type="text/html" title="Looking for Sujets TM" />
+                                      <published>2021-06-24T22:45:17+00:00</published>
+                                      <updated>2021-06-24T22:45:17+00:00</updated>
+                                      <id>http://snaps.dnysgdnt.com//looking-for-sujets-tm/</id>
                                       <content type="html">
-                                        <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/duomo/"><img src="http://snaps.dnysgdnt.com//photos/large/Duomo-686656.jpg" alt="Duomo" /></a></figure>
+                                        <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/looking-for-sujets-tm/"><img src="http://snaps.dnysgdnt.com//photos/large/Looking%20for%20Sujets%20TM-686656.jpg" alt="Looking for Sujets TM" /></a></figure>
                                       ]]>
                                     </content>
-                                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Duomo-686656.jpg" />
-                                      <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Duomo-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Looking%20for%20Sujets%20TM-686656.jpg" />
+                                      <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Looking%20for%20Sujets%20TM-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                                       </entry>
                                       <entry>
-                                        <title type="html">Looking for Sujets TM</title>
-                                        <link href="http://snaps.dnysgdnt.com/looking-for-sujets-tm/" rel="alternate" type="text/html" title="Looking for Sujets TM" />
-                                        <published>2021-06-24T22:45:17+00:00</published>
-                                        <updated>2021-06-24T22:45:17+00:00</updated>
-                                        <id>http://snaps.dnysgdnt.com//looking-for-sujets-tm/</id>
+                                        <title type="html">Mr Kebab</title>
+                                        <link href="http://snaps.dnysgdnt.com/mr-kebab/" rel="alternate" type="text/html" title="Mr Kebab" />
+                                        <published>2021-06-23T10:02:27+00:00</published>
+                                        <updated>2021-06-23T10:02:27+00:00</updated>
+                                        <id>http://snaps.dnysgdnt.com//mr-kebab/</id>
                                         <content type="html">
-                                          <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/looking-for-sujets-tm/"><img src="http://snaps.dnysgdnt.com//photos/large/Looking%20for%20Sujets%20TM-686656.jpg" alt="Looking for Sujets TM" /></a></figure>
+                                          <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/mr-kebab/"><img src="http://snaps.dnysgdnt.com//photos/large/Mr%20Kebab-686656.jpg" alt="Mr Kebab" /></a></figure>
                                         ]]>
                                       </content>
-                                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Looking%20for%20Sujets%20TM-686656.jpg" />
-                                        <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Looking%20for%20Sujets%20TM-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Mr%20Kebab-686656.jpg" />
+                                        <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Mr%20Kebab-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                                         </entry>
                                         <entry>
-                                          <title type="html">Mr Kebab</title>
-                                          <link href="http://snaps.dnysgdnt.com/mr-kebab/" rel="alternate" type="text/html" title="Mr Kebab" />
-                                          <published>2021-06-23T10:02:27+00:00</published>
-                                          <updated>2021-06-23T10:02:27+00:00</updated>
-                                          <id>http://snaps.dnysgdnt.com//mr-kebab/</id>
+                                          <title type="html">Gooooutschas Brrrr</title>
+                                          <link href="http://snaps.dnysgdnt.com/gooooutschas-brrrr/" rel="alternate" type="text/html" title="Gooooutschas Brrrr" />
+                                          <published>2021-05-23T20:29:22+00:00</published>
+                                          <updated>2021-05-23T20:29:22+00:00</updated>
+                                          <id>http://snaps.dnysgdnt.com//gooooutschas-brrrr/</id>
                                           <content type="html">
-                                            <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/mr-kebab/"><img src="http://snaps.dnysgdnt.com//photos/large/Mr%20Kebab-686656.jpg" alt="Mr Kebab" /></a></figure>
+                                            <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/gooooutschas-brrrr/"><img src="http://snaps.dnysgdnt.com//photos/large/Gooooutschas%20Brrrr-686656.jpg" alt="Gooooutschas Brrrr" /></a></figure>
                                           ]]>
                                         </content>
-                                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Mr%20Kebab-686656.jpg" />
-                                          <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Mr%20Kebab-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Gooooutschas%20Brrrr-686656.jpg" />
+                                          <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Gooooutschas%20Brrrr-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                                           </entry>
                                           <entry>
-                                            <title type="html">Gooooutschas Brrrr</title>
-                                            <link href="http://snaps.dnysgdnt.com/gooooutschas-brrrr/" rel="alternate" type="text/html" title="Gooooutschas Brrrr" />
-                                            <published>2021-05-23T20:29:22+00:00</published>
-                                            <updated>2021-05-23T20:29:22+00:00</updated>
-                                            <id>http://snaps.dnysgdnt.com//gooooutschas-brrrr/</id>
+                                            <title type="html">Zwei Negroni Bitte Ja</title>
+                                            <link href="http://snaps.dnysgdnt.com/zwei-negroni-bitte-ja/" rel="alternate" type="text/html" title="Zwei Negroni Bitte Ja" />
+                                            <published>2021-05-23T00:31:02+00:00</published>
+                                            <updated>2021-05-23T00:31:02+00:00</updated>
+                                            <id>http://snaps.dnysgdnt.com//zwei-negroni-bitte-ja/</id>
                                             <content type="html">
-                                              <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/gooooutschas-brrrr/"><img src="http://snaps.dnysgdnt.com//photos/large/Gooooutschas%20Brrrr-686656.jpg" alt="Gooooutschas Brrrr" /></a></figure>
+                                              <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/zwei-negroni-bitte-ja/"><img src="http://snaps.dnysgdnt.com//photos/large/Zwei%20Negroni%20Bitte%20Ja-686656.jpg" alt="Zwei Negroni Bitte Ja" /></a></figure>
                                             ]]>
                                           </content>
-                                          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Gooooutschas%20Brrrr-686656.jpg" />
-                                            <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Gooooutschas%20Brrrr-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Zwei%20Negroni%20Bitte%20Ja-686656.jpg" />
+                                            <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Zwei%20Negroni%20Bitte%20Ja-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                                             </entry>
                                           </feed>
