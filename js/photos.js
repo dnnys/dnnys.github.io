@@ -7,15 +7,15 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
-<li class="item " id="20180618-dscf3224" style="background-image: url('/photos/tint/20180618-DSCF3224-65ba1d.JPG')" title="20180618-DSCF3224">
-  <img class="lazyload thumb" data-src="/photos/thumbnail/20180618-DSCF3224-ccf4df.JPG" src="/photos/tint/20180618-DSCF3224-65ba1d.JPG" height="2048" width="1365" />
-  <img class="lazyload fullres" data-src="/photos/large/20180618-DSCF3224-686656.JPG" src="/photos/tint/20180618-DSCF3224-65ba1d.JPG" height="2048" width="1365" />
+<li class="item " id="powerrrr" style="background-image: url('/photos/tint/Powerrrr-65ba1d.jpg')" title="Powerrrr">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Powerrrr-ccf4df.jpg" src="/photos/tint/Powerrrr-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Powerrrr-686656.jpg" src="/photos/tint/Powerrrr-65ba1d.jpg" height="2048" width="1365" />
   <span class="full">
-    <span style="background-image: url('/photos/large/20180618-DSCF3224-686656.JPG')"></span>
+    <span style="background-image: url('/photos/large/Powerrrr-686656.jpg')"></span>
   </span>
-  <a class="open" href="/20180618-dscf3224" data-target="20180618-dscf3224">Open</a>
+  <a class="open" href="/powerrrr" data-target="powerrrr">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/20180618-dscf3222" data-target="20180618-dscf3222" class="next" title="Go to next photo">
+  <a href="/evening-beach-mood" data-target="evening-beach-mood" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
   <ul class="meta">
@@ -25,18 +25,18 @@ lazyload();
     <!-- <li><span class="aperture"><em>f</em>/</span>2.5</li> -->
   </ul>
 </li>
-<li class="item " id="20180618-dscf3222" style="background-image: url('/photos/tint/20180618-DSCF3222-65ba1d.JPG')" title="20180618-DSCF3222">
-  <img class="lazyload thumb" data-src="/photos/thumbnail/20180618-DSCF3222-ccf4df.JPG" src="/photos/tint/20180618-DSCF3222-65ba1d.JPG" height="2048" width="1365" />
-  <img class="lazyload fullres" data-src="/photos/large/20180618-DSCF3222-686656.JPG" src="/photos/tint/20180618-DSCF3222-65ba1d.JPG" height="2048" width="1365" />
+<li class="item " id="evening-beach-mood" style="background-image: url('/photos/tint/Evening%20Beach%20Mood-65ba1d.jpg')" title="Evening Beach Mood">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Evening%20Beach%20Mood-ccf4df.jpg" src="/photos/tint/Evening%20Beach%20Mood-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Evening%20Beach%20Mood-686656.jpg" src="/photos/tint/Evening%20Beach%20Mood-65ba1d.jpg" height="2048" width="1365" />
   <span class="full">
-    <span style="background-image: url('/photos/large/20180618-DSCF3222-686656.JPG')"></span>
+    <span style="background-image: url('/photos/large/Evening%20Beach%20Mood-686656.jpg')"></span>
   </span>
-  <a class="open" href="/20180618-dscf3222" data-target="20180618-dscf3222">Open</a>
+  <a class="open" href="/evening-beach-mood" data-target="evening-beach-mood">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/20180618-dscf3224" data-target="20180618-dscf3224" class="previous" title="Go to previous photo">
+  <a href="/powerrrr" data-target="powerrrr" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
-  <a href="/20180617-dscf3186" data-target="20180617-dscf3186" class="next" title="Go to next photo">
+  <a href="/storm-and-rainbow" data-target="storm-and-rainbow" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
   <ul class="meta">
@@ -46,15 +46,15 @@ lazyload();
     <!-- <li><span class="aperture"><em>f</em>/</span>2.5</li> -->
   </ul>
 </li>
-<li class="item " id="20180617-dscf3186" style="background-image: url('/photos/tint/20180617-DSCF3186-65ba1d.JPG')" title="20180617-DSCF3186">
-  <img class="lazyload thumb" data-src="/photos/thumbnail/20180617-DSCF3186-ccf4df.JPG" src="/photos/tint/20180617-DSCF3186-65ba1d.JPG" height="1365" width="2048" />
-  <img class="lazyload fullres" data-src="/photos/large/20180617-DSCF3186-686656.JPG" src="/photos/tint/20180617-DSCF3186-65ba1d.JPG" height="1365" width="2048" />
+<li class="item " id="storm-and-rainbow" style="background-image: url('/photos/tint/Storm%20and%20Rainbow-65ba1d.jpg')" title="Storm and Rainbow">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Storm%20and%20Rainbow-ccf4df.jpg" src="/photos/tint/Storm%20and%20Rainbow-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Storm%20and%20Rainbow-686656.jpg" src="/photos/tint/Storm%20and%20Rainbow-65ba1d.jpg" height="1365" width="2048" />
   <span class="full">
-    <span style="background-image: url('/photos/large/20180617-DSCF3186-686656.JPG')"></span>
+    <span style="background-image: url('/photos/large/Storm%20and%20Rainbow-686656.jpg')"></span>
   </span>
-  <a class="open" href="/20180617-dscf3186" data-target="20180617-dscf3186">Open</a>
+  <a class="open" href="/storm-and-rainbow" data-target="storm-and-rainbow">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/20180618-dscf3222" data-target="20180618-dscf3222" class="previous" title="Go to previous photo">
+  <a href="/evening-beach-mood" data-target="evening-beach-mood" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/views" data-target="views" class="next" title="Go to next photo">
@@ -75,7 +75,7 @@ lazyload();
   </span>
   <a class="open" href="/views" data-target="views">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/20180617-dscf3186" data-target="20180617-dscf3186" class="previous" title="Go to previous photo">
+  <a href="/storm-and-rainbow" data-target="storm-and-rainbow" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/looky-look" data-target="looky-look" class="next" title="Go to next photo">
