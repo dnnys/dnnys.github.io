@@ -7,6 +7,66 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="20180618-dscf3224" style="background-image: url('/photos/tint/20180618-DSCF3224-65ba1d.JPG')" title="20180618-DSCF3224">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/20180618-DSCF3224-ccf4df.JPG" src="/photos/tint/20180618-DSCF3224-65ba1d.JPG" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/20180618-DSCF3224-686656.JPG" src="/photos/tint/20180618-DSCF3224-65ba1d.JPG" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/20180618-DSCF3224-686656.JPG')"></span>
+  </span>
+  <a class="open" href="/20180618-dscf3224" data-target="20180618-dscf3224">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/20180618-dscf3222" data-target="20180618-dscf3222" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/1000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.5</li> -->
+  </ul>
+</li>
+<li class="item " id="20180618-dscf3222" style="background-image: url('/photos/tint/20180618-DSCF3222-65ba1d.JPG')" title="20180618-DSCF3222">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/20180618-DSCF3222-ccf4df.JPG" src="/photos/tint/20180618-DSCF3222-65ba1d.JPG" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/20180618-DSCF3222-686656.JPG" src="/photos/tint/20180618-DSCF3222-65ba1d.JPG" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/20180618-DSCF3222-686656.JPG')"></span>
+  </span>
+  <a class="open" href="/20180618-dscf3222" data-target="20180618-dscf3222">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/20180618-dscf3224" data-target="20180618-dscf3224" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/20180617-dscf3186" data-target="20180617-dscf3186" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/1000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.5</li> -->
+  </ul>
+</li>
+<li class="item " id="20180617-dscf3186" style="background-image: url('/photos/tint/20180617-DSCF3186-65ba1d.JPG')" title="20180617-DSCF3186">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/20180617-DSCF3186-ccf4df.JPG" src="/photos/tint/20180617-DSCF3186-65ba1d.JPG" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/20180617-DSCF3186-686656.JPG" src="/photos/tint/20180617-DSCF3186-65ba1d.JPG" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/20180617-DSCF3186-686656.JPG')"></span>
+  </span>
+  <a class="open" href="/20180617-dscf3186" data-target="20180617-dscf3186">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/20180618-dscf3222" data-target="20180618-dscf3222" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/views" data-target="views" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/250</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>8.0</li> -->
+  </ul>
+</li>
 <li class="item " id="views" style="background-image: url('/photos/tint/Views-65ba1d.jpg')" title="Views">
   <img class="lazyload thumb" data-src="/photos/thumbnail/Views-ccf4df.jpg" src="/photos/tint/Views-65ba1d.jpg" height="1365" width="2048" />
   <img class="lazyload fullres" data-src="/photos/large/Views-686656.jpg" src="/photos/tint/Views-65ba1d.jpg" height="1365" width="2048" />
@@ -15,6 +75,9 @@ lazyload();
   </span>
   <a class="open" href="/views" data-target="views">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/20180617-dscf3186" data-target="20180617-dscf3186" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/looky-look" data-target="looky-look" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
