@@ -7,6 +7,45 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="the-tree-and-the-view" style="background-image: url('/photos/tint/The%20Tree%20and%20The%20View-65ba1d.jpg')" title="The Tree and The View">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/The%20Tree%20and%20The%20View-ccf4df.jpg" src="/photos/tint/The%20Tree%20and%20The%20View-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/The%20Tree%20and%20The%20View-686656.jpg" src="/photos/tint/The%20Tree%20and%20The%20View-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/The%20Tree%20and%20The%20View-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/the-tree-and-the-view" data-target="the-tree-and-the-view">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/just-the-view" data-target="just-the-view" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/1000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.5</li> -->
+  </ul>
+</li>
+<li class="item " id="just-the-view" style="background-image: url('/photos/tint/Just%20The%20View-65ba1d.jpg')" title="Just The View">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Just%20The%20View-ccf4df.jpg" src="/photos/tint/Just%20The%20View-65ba1d.jpg" height="2048" width="1366" />
+  <img class="lazyload fullres" data-src="/photos/large/Just%20The%20View-686656.jpg" src="/photos/tint/Just%20The%20View-65ba1d.jpg" height="2048" width="1366" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Just%20The%20View-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/just-the-view" data-target="just-the-view">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/the-tree-and-the-view" data-target="the-tree-and-the-view" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/summer-style-mood" data-target="summer-style-mood" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/1000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.5</li> -->
+  </ul>
+</li>
 <li class="item " id="summer-style-mood" style="background-image: url('/photos/tint/Summer%20Style%20Mood-65ba1d.jpg')" title="Summer Style Mood">
   <img class="lazyload thumb" data-src="/photos/thumbnail/Summer%20Style%20Mood-ccf4df.jpg" src="/photos/tint/Summer%20Style%20Mood-65ba1d.jpg" height="1365" width="2048" />
   <img class="lazyload fullres" data-src="/photos/large/Summer%20Style%20Mood-686656.jpg" src="/photos/tint/Summer%20Style%20Mood-65ba1d.jpg" height="1365" width="2048" />
@@ -15,6 +54,9 @@ lazyload();
   </span>
   <a class="open" href="/summer-style-mood" data-target="summer-style-mood">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/just-the-view" data-target="just-the-view" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/powerrrr" data-target="powerrrr" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
