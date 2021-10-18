@@ -7,6 +7,150 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="seat" style="background-image: url('/photos/tint/Seat-65ba1d.jpg')" title="Seat">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Seat-ccf4df.jpg" src="/photos/tint/Seat-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Seat-686656.jpg" src="/photos/tint/Seat-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Seat-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/seat" data-target="seat">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/hyundai" data-target="hyundai" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/125</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
+  </ul>
+</li>
+<li class="item " id="hyundai" style="background-image: url('/photos/tint/Hyundai-65ba1d.jpg')" title="Hyundai">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Hyundai-ccf4df.jpg" src="/photos/tint/Hyundai-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Hyundai-686656.jpg" src="/photos/tint/Hyundai-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Hyundai-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/hyundai" data-target="hyundai">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/seat" data-target="seat" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/cut-down-trash" data-target="cut-down-trash" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/125</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
+  </ul>
+</li>
+<li class="item " id="cut-down-trash" style="background-image: url('/photos/tint/Cut%20down%20trash-65ba1d.jpg')" title="Cut down trash">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Cut%20down%20trash-ccf4df.jpg" src="/photos/tint/Cut%20down%20trash-65ba1d.jpg" height="2048" width="1366" />
+  <img class="lazyload fullres" data-src="/photos/large/Cut%20down%20trash-686656.jpg" src="/photos/tint/Cut%20down%20trash-65ba1d.jpg" height="2048" width="1366" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Cut%20down%20trash-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/cut-down-trash" data-target="cut-down-trash">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/hyundai" data-target="hyundai" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/who-would-have-tought" data-target="who-would-have-tought" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/250</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>4.0</li> -->
+  </ul>
+</li>
+<li class="item " id="who-would-have-tought" style="background-image: url('/photos/tint/Who%20would%20have%20tought-65ba1d.jpg')" title="Who would have tought">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Who%20would%20have%20tought-ccf4df.jpg" src="/photos/tint/Who%20would%20have%20tought-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Who%20would%20have%20tought-686656.jpg" src="/photos/tint/Who%20would%20have%20tought-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Who%20would%20have%20tought-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/who-would-have-tought" data-target="who-would-have-tought">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/cut-down-trash" data-target="cut-down-trash" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/photobomb" data-target="photobomb" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/500</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
+  </ul>
+</li>
+<li class="item " id="photobomb" style="background-image: url('/photos/tint/Photobomb-65ba1d.jpg')" title="Photobomb">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Photobomb-ccf4df.jpg" src="/photos/tint/Photobomb-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Photobomb-686656.jpg" src="/photos/tint/Photobomb-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Photobomb-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/photobomb" data-target="photobomb">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/who-would-have-tought" data-target="who-would-have-tought" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/naftis-entrance" data-target="naftis-entrance" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/500</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
+  </ul>
+</li>
+<li class="item " id="naftis-entrance" style="background-image: url('/photos/tint/Naftis%20entrance-65ba1d.jpg')" title="Naftis entrance">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Naftis%20entrance-ccf4df.jpg" src="/photos/tint/Naftis%20entrance-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Naftis%20entrance-686656.jpg" src="/photos/tint/Naftis%20entrance-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Naftis%20entrance-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/naftis-entrance" data-target="naftis-entrance">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/photobomb" data-target="photobomb" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/maximum-views" data-target="maximum-views" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/500</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>4.0</li> -->
+  </ul>
+</li>
+<li class="item " id="maximum-views" style="background-image: url('/photos/tint/Maximum%20views-65ba1d.jpg')" title="Maximum views">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Maximum%20views-ccf4df.jpg" src="/photos/tint/Maximum%20views-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Maximum%20views-686656.jpg" src="/photos/tint/Maximum%20views-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Maximum%20views-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/maximum-views" data-target="maximum-views">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/naftis-entrance" data-target="naftis-entrance" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/the-looky" data-target="the-looky" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/500</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>8.0</li> -->
+  </ul>
+</li>
 <li class="item " id="the-looky" style="background-image: url('/photos/tint/The%20Looky-65ba1d.jpg')" title="The Looky">
   <img class="lazyload thumb" data-src="/photos/thumbnail/The%20Looky-ccf4df.jpg" src="/photos/tint/The%20Looky-65ba1d.jpg" height="2048" width="1365" />
   <img class="lazyload fullres" data-src="/photos/large/The%20Looky-686656.jpg" src="/photos/tint/The%20Looky-65ba1d.jpg" height="2048" width="1365" />
@@ -15,6 +159,9 @@ lazyload();
   </span>
   <a class="open" href="/the-looky" data-target="the-looky">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/maximum-views" data-target="maximum-views" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/post-storm-views" data-target="post-storm-views" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
