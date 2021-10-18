@@ -141,7 +141,7 @@ lazyload();
   <a href="/naftis-entrance" data-target="naftis-entrance" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
-  <a href="/the-looky" data-target="the-looky" class="next" title="Go to next photo">
+  <a href="/post-storm-views" data-target="post-storm-views" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
   <ul class="meta">
@@ -149,27 +149,6 @@ lazyload();
     <li>2018</li>
     <!-- <li>1/500</li> -->
     <!-- <li><span class="aperture"><em>f</em>/</span>8.0</li> -->
-  </ul>
-</li>
-<li class="item " id="the-looky" style="background-image: url('/photos/tint/The%20Looky-65ba1d.jpg')" title="The Looky">
-  <img class="lazyload thumb" data-src="/photos/thumbnail/The%20Looky-ccf4df.jpg" src="/photos/tint/The%20Looky-65ba1d.jpg" height="2048" width="1365" />
-  <img class="lazyload fullres" data-src="/photos/large/The%20Looky-686656.jpg" src="/photos/tint/The%20Looky-65ba1d.jpg" height="2048" width="1365" />
-  <span class="full">
-    <span style="background-image: url('/photos/large/The%20Looky-686656.jpg')"></span>
-  </span>
-  <a class="open" href="/the-looky" data-target="the-looky">Open</a>
-  <a class="close" href="/">Close</a>
-  <a href="/maximum-views" data-target="maximum-views" class="previous" title="Go to previous photo">
-    <span>Previous</span>
-  </a>
-  <a href="/post-storm-views" data-target="post-storm-views" class="next" title="Go to next photo">
-    <span>Next</span>
-  </a>
-  <ul class="meta">
-    <li>FUJIFILM</li>
-    <li>2018</li>
-    <!-- <li>1/480</li> -->
-    <!-- <li><span class="aperture"><em>f</em>/</span>2.8</li> -->
   </ul>
 </li>
 <li class="item " id="post-storm-views" style="background-image: url('/photos/tint/Post%20Storm%20Views-65ba1d.jpg')" title="Post Storm Views">
@@ -180,7 +159,7 @@ lazyload();
   </span>
   <a class="open" href="/post-storm-views" data-target="post-storm-views">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/the-looky" data-target="the-looky" class="previous" title="Go to previous photo">
+  <a href="/maximum-views" data-target="maximum-views" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/hotel-mood" data-target="hotel-mood" class="next" title="Go to next photo">
