@@ -7,6 +7,24 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="ms-who-knows" style="background-image: url('/photos/tint/MS%20who%20knows-65ba1d.jpg')" title="MS who knows">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/MS%20who%20knows-ccf4df.jpg" src="/photos/tint/MS%20who%20knows-65ba1d.jpg" height="2048" width="1366" />
+  <img class="lazyload fullres" data-src="/photos/large/MS%20who%20knows-686656.jpg" src="/photos/tint/MS%20who%20knows-65ba1d.jpg" height="2048" width="1366" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/MS%20who%20knows-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/ms-who-knows" data-target="ms-who-knows">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/seat" data-target="seat" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/4000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>4.0</li> -->
+  </ul>
+</li>
 <li class="item " id="seat" style="background-image: url('/photos/tint/Seat-65ba1d.jpg')" title="Seat">
   <img class="lazyload thumb" data-src="/photos/thumbnail/Seat-ccf4df.jpg" src="/photos/tint/Seat-65ba1d.jpg" height="2048" width="1365" />
   <img class="lazyload fullres" data-src="/photos/large/Seat-686656.jpg" src="/photos/tint/Seat-65ba1d.jpg" height="2048" width="1365" />
@@ -15,6 +33,9 @@ lazyload();
   </span>
   <a class="open" href="/seat" data-target="seat">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/ms-who-knows" data-target="ms-who-knows" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/hyundai" data-target="hyundai" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
