@@ -7,6 +7,45 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="perspectives-no-836" style="background-image: url('/photos/tint/Perspectives%20No%20836-65ba1d.jpg')" title="Perspectives No 836">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Perspectives%20No%20836-ccf4df.jpg" src="/photos/tint/Perspectives%20No%20836-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Perspectives%20No%20836-686656.jpg" src="/photos/tint/Perspectives%20No%20836-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Perspectives%20No%20836-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/perspectives-no-836" data-target="perspectives-no-836">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/just-chillin-in-the-shadows" data-target="just-chillin-in-the-shadows" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/1000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>4.0</li> -->
+  </ul>
+</li>
+<li class="item " id="just-chillin-in-the-shadows" style="background-image: url('/photos/tint/Just%20Chillin%20in%20the%20Shadows-65ba1d.jpg')" title="Just Chillin in the Shadows">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Just%20Chillin%20in%20the%20Shadows-ccf4df.jpg" src="/photos/tint/Just%20Chillin%20in%20the%20Shadows-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Just%20Chillin%20in%20the%20Shadows-686656.jpg" src="/photos/tint/Just%20Chillin%20in%20the%20Shadows-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Just%20Chillin%20in%20the%20Shadows-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/just-chillin-in-the-shadows" data-target="just-chillin-in-the-shadows">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/perspectives-no-836" data-target="perspectives-no-836" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/ms-money" data-target="ms-money" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/2000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>4.0</li> -->
+  </ul>
+</li>
 <li class="item " id="ms-money" style="background-image: url('/photos/tint/MS%20Money-65ba1d.jpg')" title="MS Money">
   <img class="lazyload thumb" data-src="/photos/thumbnail/MS%20Money-ccf4df.jpg" src="/photos/tint/MS%20Money-65ba1d.jpg" height="2048" width="1366" />
   <img class="lazyload fullres" data-src="/photos/large/MS%20Money-686656.jpg" src="/photos/tint/MS%20Money-65ba1d.jpg" height="2048" width="1366" />
@@ -15,6 +54,9 @@ lazyload();
   </span>
   <a class="open" href="/ms-money" data-target="ms-money">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/just-chillin-in-the-shadows" data-target="just-chillin-in-the-shadows" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/greek-sea-views" data-target="greek-sea-views" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
