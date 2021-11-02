@@ -7,6 +7,24 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="pastel-38" style="background-image: url('/photos/tint/Pastel%2038-65ba1d.jpg')" title="Pastel 38">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Pastel%2038-ccf4df.jpg" src="/photos/tint/Pastel%2038-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Pastel%2038-686656.jpg" src="/photos/tint/Pastel%2038-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Pastel%2038-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/pastel-38" data-target="pastel-38">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/pastel-42" data-target="pastel-42" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/2000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>4.0</li> -->
+  </ul>
+</li>
 <li class="item " id="pastel-42" style="background-image: url('/photos/tint/Pastel%2042-65ba1d.jpg')" title="Pastel 42">
   <img class="lazyload thumb" data-src="/photos/thumbnail/Pastel%2042-ccf4df.jpg" src="/photos/tint/Pastel%2042-65ba1d.jpg" height="1366" width="2048" />
   <img class="lazyload fullres" data-src="/photos/large/Pastel%2042-686656.jpg" src="/photos/tint/Pastel%2042-65ba1d.jpg" height="1366" width="2048" />
@@ -15,7 +33,10 @@ lazyload();
   </span>
   <a class="open" href="/pastel-42" data-target="pastel-42">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/pastel-38" data-target="pastel-38" class="next" title="Go to next photo">
+  <a href="/pastel-38" data-target="pastel-38" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/late-afternoon-sea-mood" data-target="late-afternoon-sea-mood" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
   <ul class="meta">
@@ -25,15 +46,36 @@ lazyload();
     <!-- <li><span class="aperture"><em>f</em>/</span>5.6</li> -->
   </ul>
 </li>
-<li class="item " id="pastel-38" style="background-image: url('/photos/tint/Pastel%2038-65ba1d.jpg')" title="Pastel 38">
-  <img class="lazyload thumb" data-src="/photos/thumbnail/Pastel%2038-ccf4df.jpg" src="/photos/tint/Pastel%2038-65ba1d.jpg" height="2048" width="1365" />
-  <img class="lazyload fullres" data-src="/photos/large/Pastel%2038-686656.jpg" src="/photos/tint/Pastel%2038-65ba1d.jpg" height="2048" width="1365" />
+<li class="item " id="late-afternoon-sea-mood" style="background-image: url('/photos/tint/Late%20Afternoon%20Sea%20Mood-65ba1d.jpg')" title="Late Afternoon Sea Mood">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Late%20Afternoon%20Sea%20Mood-ccf4df.jpg" src="/photos/tint/Late%20Afternoon%20Sea%20Mood-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Late%20Afternoon%20Sea%20Mood-686656.jpg" src="/photos/tint/Late%20Afternoon%20Sea%20Mood-65ba1d.jpg" height="2048" width="1365" />
   <span class="full">
-    <span style="background-image: url('/photos/large/Pastel%2038-686656.jpg')"></span>
+    <span style="background-image: url('/photos/large/Late%20Afternoon%20Sea%20Mood-686656.jpg')"></span>
   </span>
-  <a class="open" href="/pastel-38" data-target="pastel-38">Open</a>
+  <a class="open" href="/late-afternoon-sea-mood" data-target="late-afternoon-sea-mood">Open</a>
   <a class="close" href="/">Close</a>
   <a href="/pastel-42" data-target="pastel-42" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/vino-soon" data-target="vino-soon" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/500</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>4.0</li> -->
+  </ul>
+</li>
+<li class="item " id="vino-soon" style="background-image: url('/photos/tint/Vino%20(soon)-65ba1d.jpg')" title="Vino (soon)">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Vino%20(soon)-ccf4df.jpg" src="/photos/tint/Vino%20(soon)-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Vino%20(soon)-686656.jpg" src="/photos/tint/Vino%20(soon)-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Vino%20(soon)-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/vino-soon" data-target="vino-soon">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/late-afternoon-sea-mood" data-target="late-afternoon-sea-mood" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/perspectives-no-836" data-target="perspectives-no-836" class="next" title="Go to next photo">
@@ -42,8 +84,8 @@ lazyload();
   <ul class="meta">
     <li>FUJIFILM</li>
     <li>2018</li>
-    <!-- <li>1/2000</li> -->
-    <!-- <li><span class="aperture"><em>f</em>/</span>4.0</li> -->
+    <!-- <li>1/4000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
   </ul>
 </li>
 <li class="item " id="perspectives-no-836" style="background-image: url('/photos/tint/Perspectives%20No%20836-65ba1d.jpg')" title="Perspectives No 836">
@@ -54,7 +96,7 @@ lazyload();
   </span>
   <a class="open" href="/perspectives-no-836" data-target="perspectives-no-836">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/pastel-38" data-target="pastel-38" class="previous" title="Go to previous photo">
+  <a href="/vino-soon" data-target="vino-soon" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/just-chillin-in-the-shadows" data-target="just-chillin-in-the-shadows" class="next" title="Go to next photo">
