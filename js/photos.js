@@ -57,7 +57,7 @@ lazyload();
   <a href="/pastel-42" data-target="pastel-42" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
-  <a href="/vino-soon" data-target="vino-soon" class="next" title="Go to next photo">
+  <a href="/espresso-eccelente" data-target="espresso-eccelente" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
   <ul class="meta">
@@ -65,6 +65,27 @@ lazyload();
     <li>2018</li>
     <!-- <li>1/500</li> -->
     <!-- <li><span class="aperture"><em>f</em>/</span>4.0</li> -->
+  </ul>
+</li>
+<li class="item " id="espresso-eccelente" style="background-image: url('/photos/tint/Espresso%20Eccelente-65ba1d.jpg')" title="Espresso Eccelente">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Espresso%20Eccelente-ccf4df.jpg" src="/photos/tint/Espresso%20Eccelente-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Espresso%20Eccelente-686656.jpg" src="/photos/tint/Espresso%20Eccelente-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Espresso%20Eccelente-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/espresso-eccelente" data-target="espresso-eccelente">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/late-afternoon-sea-mood" data-target="late-afternoon-sea-mood" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/vino-soon" data-target="vino-soon" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/500</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>5.6</li> -->
   </ul>
 </li>
 <li class="item " id="vino-soon" style="background-image: url('/photos/tint/Vino%20(soon)-65ba1d.jpg')" title="Vino (soon)">
@@ -75,7 +96,7 @@ lazyload();
   </span>
   <a class="open" href="/vino-soon" data-target="vino-soon">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/late-afternoon-sea-mood" data-target="late-afternoon-sea-mood" class="previous" title="Go to previous photo">
+  <a href="/espresso-eccelente" data-target="espresso-eccelente" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/perspectives-no-836" data-target="perspectives-no-836" class="next" title="Go to next photo">
