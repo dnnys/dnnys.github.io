@@ -7,6 +7,45 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="abandoned-nightclub-at-the-med-ii" style="background-image: url('/photos/tint/Abandoned%20Nightclub%20at%20the%20Med%20II-65ba1d.jpg')" title="Abandoned Nightclub at the Med II">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Abandoned%20Nightclub%20at%20the%20Med%20II-ccf4df.jpg" src="/photos/tint/Abandoned%20Nightclub%20at%20the%20Med%20II-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Abandoned%20Nightclub%20at%20the%20Med%20II-686656.jpg" src="/photos/tint/Abandoned%20Nightclub%20at%20the%20Med%20II-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Abandoned%20Nightclub%20at%20the%20Med%20II-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/abandoned-nightclub-at-the-med-ii" data-target="abandoned-nightclub-at-the-med-ii">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/abandoned-nightclub-at-the-med-i" data-target="abandoned-nightclub-at-the-med-i" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/500</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>4.0</li> -->
+  </ul>
+</li>
+<li class="item " id="abandoned-nightclub-at-the-med-i" style="background-image: url('/photos/tint/Abandoned%20Nightclub%20at%20the%20Med%20I-65ba1d.jpg')" title="Abandoned Nightclub at the Med I">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Abandoned%20Nightclub%20at%20the%20Med%20I-ccf4df.jpg" src="/photos/tint/Abandoned%20Nightclub%20at%20the%20Med%20I-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Abandoned%20Nightclub%20at%20the%20Med%20I-686656.jpg" src="/photos/tint/Abandoned%20Nightclub%20at%20the%20Med%20I-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Abandoned%20Nightclub%20at%20the%20Med%20I-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/abandoned-nightclub-at-the-med-i" data-target="abandoned-nightclub-at-the-med-i">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/abandoned-nightclub-at-the-med-ii" data-target="abandoned-nightclub-at-the-med-ii" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/late-afternoon-breeze" data-target="late-afternoon-breeze" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/500</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>4.0</li> -->
+  </ul>
+</li>
 <li class="item " id="late-afternoon-breeze" style="background-image: url('/photos/tint/Late%20Afternoon%20Breeze-65ba1d.jpg')" title="Late Afternoon Breeze">
   <img class="lazyload thumb" data-src="/photos/thumbnail/Late%20Afternoon%20Breeze-ccf4df.jpg" src="/photos/tint/Late%20Afternoon%20Breeze-65ba1d.jpg" height="2048" width="1365" />
   <img class="lazyload fullres" data-src="/photos/large/Late%20Afternoon%20Breeze-686656.jpg" src="/photos/tint/Late%20Afternoon%20Breeze-65ba1d.jpg" height="2048" width="1365" />
@@ -15,6 +54,9 @@ lazyload();
   </span>
   <a class="open" href="/late-afternoon-breeze" data-target="late-afternoon-breeze">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/abandoned-nightclub-at-the-med-i" data-target="abandoned-nightclub-at-the-med-i" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/pastel-38" data-target="pastel-38" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
