@@ -7,6 +7,66 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="mobster-villa-in-the-hills" style="background-image: url('/photos/tint/Mobster%20Villa%20in%20the%20Hills-65ba1d.jpg')" title="Mobster Villa in the Hills">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Mobster%20Villa%20in%20the%20Hills-ccf4df.jpg" src="/photos/tint/Mobster%20Villa%20in%20the%20Hills-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Mobster%20Villa%20in%20the%20Hills-686656.jpg" src="/photos/tint/Mobster%20Villa%20in%20the%20Hills-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Mobster%20Villa%20in%20the%20Hills-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/mobster-villa-in-the-hills" data-target="mobster-villa-in-the-hills">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/mob-views" data-target="mob-views" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/2000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>4.0</li> -->
+  </ul>
+</li>
+<li class="item " id="mob-views" style="background-image: url('/photos/tint/Mob%20Views-65ba1d.jpg')" title="Mob Views">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Mob%20Views-ccf4df.jpg" src="/photos/tint/Mob%20Views-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Mob%20Views-686656.jpg" src="/photos/tint/Mob%20Views-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Mob%20Views-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/mob-views" data-target="mob-views">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/mobster-villa-in-the-hills" data-target="mobster-villa-in-the-hills" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/mob-balcony-ii" data-target="mob-balcony-ii" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/1000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>4.0</li> -->
+  </ul>
+</li>
+<li class="item " id="mob-balcony-ii" style="background-image: url('/photos/tint/Mob%20Balcony%20II-65ba1d.jpg')" title="Mob Balcony II">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Mob%20Balcony%20II-ccf4df.jpg" src="/photos/tint/Mob%20Balcony%20II-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Mob%20Balcony%20II-686656.jpg" src="/photos/tint/Mob%20Balcony%20II-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Mob%20Balcony%20II-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/mob-balcony-ii" data-target="mob-balcony-ii">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/mob-views" data-target="mob-views" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/mob-villa-ii" data-target="mob-villa-ii" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/1000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>4.0</li> -->
+  </ul>
+</li>
 <li class="item " id="mob-villa-ii" style="background-image: url('/photos/tint/Mob%20Villa%20II-65ba1d.jpg')" title="Mob Villa II">
   <img class="lazyload thumb" data-src="/photos/thumbnail/Mob%20Villa%20II-ccf4df.jpg" src="/photos/tint/Mob%20Villa%20II-65ba1d.jpg" height="2048" width="1365" />
   <img class="lazyload fullres" data-src="/photos/large/Mob%20Villa%20II-686656.jpg" src="/photos/tint/Mob%20Villa%20II-65ba1d.jpg" height="2048" width="1365" />
@@ -15,6 +75,9 @@ lazyload();
   </span>
   <a class="open" href="/mob-villa-ii" data-target="mob-villa-ii">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/mob-balcony-ii" data-target="mob-balcony-ii" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/mob-villa-i" data-target="mob-villa-i" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
