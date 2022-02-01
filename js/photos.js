@@ -7,6 +7,87 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="abandoned-greek-village" style="background-image: url('/photos/tint/Abandoned%20Greek%20Village-65ba1d.jpg')" title="Abandoned Greek Village">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Abandoned%20Greek%20Village-ccf4df.jpg" src="/photos/tint/Abandoned%20Greek%20Village-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Abandoned%20Greek%20Village-686656.jpg" src="/photos/tint/Abandoned%20Greek%20Village-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Abandoned%20Greek%20Village-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/abandoned-greek-village" data-target="abandoned-greek-village">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/abandoned-greek-village-ii" data-target="abandoned-greek-village-ii" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/500</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>4.0</li> -->
+  </ul>
+</li>
+<li class="item " id="abandoned-greek-village-ii" style="background-image: url('/photos/tint/Abandoned%20Greek%20Village%20II-65ba1d.jpg')" title="Abandoned Greek Village II">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Abandoned%20Greek%20Village%20II-ccf4df.jpg" src="/photos/tint/Abandoned%20Greek%20Village%20II-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Abandoned%20Greek%20Village%20II-686656.jpg" src="/photos/tint/Abandoned%20Greek%20Village%20II-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Abandoned%20Greek%20Village%20II-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/abandoned-greek-village-ii" data-target="abandoned-greek-village-ii">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/abandoned-greek-village" data-target="abandoned-greek-village" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/rallycross-madness" data-target="rallycross-madness" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/500</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>4.0</li> -->
+  </ul>
+</li>
+<li class="item " id="rallycross-madness" style="background-image: url('/photos/tint/Rallycross%20Madness-65ba1d.jpg')" title="Rallycross Madness">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Rallycross%20Madness-ccf4df.jpg" src="/photos/tint/Rallycross%20Madness-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Rallycross%20Madness-686656.jpg" src="/photos/tint/Rallycross%20Madness-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Rallycross%20Madness-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/rallycross-madness" data-target="rallycross-madness">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/abandoned-greek-village-ii" data-target="abandoned-greek-village-ii" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/fog-incoming" data-target="fog-incoming" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/500</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>5.6</li> -->
+  </ul>
+</li>
+<li class="item " id="fog-incoming" style="background-image: url('/photos/tint/Fog%20incoming-65ba1d.jpg')" title="Fog incoming">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Fog%20incoming-ccf4df.jpg" src="/photos/tint/Fog%20incoming-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Fog%20incoming-686656.jpg" src="/photos/tint/Fog%20incoming-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Fog%20incoming-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/fog-incoming" data-target="fog-incoming">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/rallycross-madness" data-target="rallycross-madness" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/sea-passage-views" data-target="sea-passage-views" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/4000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>4.0</li> -->
+  </ul>
+</li>
 <li class="item " id="sea-passage-views" style="background-image: url('/photos/tint/Sea%20Passage%20Views-65ba1d.jpg')" title="Sea Passage Views">
   <img class="lazyload thumb" data-src="/photos/thumbnail/Sea%20Passage%20Views-ccf4df.jpg" src="/photos/tint/Sea%20Passage%20Views-65ba1d.jpg" height="1365" width="2048" />
   <img class="lazyload fullres" data-src="/photos/large/Sea%20Passage%20Views-686656.jpg" src="/photos/tint/Sea%20Passage%20Views-65ba1d.jpg" height="1365" width="2048" />
@@ -15,6 +96,9 @@ lazyload();
   </span>
   <a class="open" href="/sea-passage-views" data-target="sea-passage-views">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/fog-incoming" data-target="fog-incoming" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/very-royal-garden-shed" data-target="very-royal-garden-shed" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
