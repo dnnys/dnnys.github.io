@@ -7,14 +7,77 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
-<li class="item " id="backcountry-views" style="background-image: url('/photos/tint/Backcountry%20Views-65ba1d.jpg')" title="Backcountry Views">
-  <img class="lazyload thumb" data-src="/photos/thumbnail/Backcountry%20Views-ccf4df.jpg" src="/photos/tint/Backcountry%20Views-65ba1d.jpg" height="1365" width="2048" />
-  <img class="lazyload fullres" data-src="/photos/large/Backcountry%20Views-686656.jpg" src="/photos/tint/Backcountry%20Views-65ba1d.jpg" height="1365" width="2048" />
+<li class="item " id="green-land-hills" style="background-image: url('/photos/tint/Green%20Land%20Hills-65ba1d.jpg')" title="Green Land Hills">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Green%20Land%20Hills-ccf4df.jpg" src="/photos/tint/Green%20Land%20Hills-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Green%20Land%20Hills-686656.jpg" src="/photos/tint/Green%20Land%20Hills-65ba1d.jpg" height="2048" width="1365" />
   <span class="full">
-    <span style="background-image: url('/photos/large/Backcountry%20Views-686656.jpg')"></span>
+    <span style="background-image: url('/photos/large/Green%20Land%20Hills-686656.jpg')"></span>
   </span>
-  <a class="open" href="/backcountry-views" data-target="backcountry-views">Open</a>
+  <a class="open" href="/green-land-hills" data-target="green-land-hills">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/green-land-lake" data-target="green-land-lake" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/450</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>4.0</li> -->
+  </ul>
+</li>
+<li class="item " id="green-land-lake" style="background-image: url('/photos/tint/Green%20Land%20Lake-65ba1d.jpg')" title="Green Land Lake">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Green%20Land%20Lake-ccf4df.jpg" src="/photos/tint/Green%20Land%20Lake-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Green%20Land%20Lake-686656.jpg" src="/photos/tint/Green%20Land%20Lake-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Green%20Land%20Lake-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/green-land-lake" data-target="green-land-lake">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/green-land-hills" data-target="green-land-hills" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/see-through" data-target="see-through" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/550</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>4.0</li> -->
+  </ul>
+</li>
+<li class="item " id="see-through" style="background-image: url('/photos/tint/See%20Through-65ba1d.jpg')" title="See Through">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/See%20Through-ccf4df.jpg" src="/photos/tint/See%20Through-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/See%20Through-686656.jpg" src="/photos/tint/See%20Through-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/See%20Through-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/see-through" data-target="see-through">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/green-land-lake" data-target="green-land-lake" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/falling-water" data-target="falling-water" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/80</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>8.0</li> -->
+  </ul>
+</li>
+<li class="item " id="falling-water" style="background-image: url('/photos/tint/Falling%20Water-65ba1d.jpg')" title="Falling Water">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Falling%20Water-ccf4df.jpg" src="/photos/tint/Falling%20Water-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Falling%20Water-686656.jpg" src="/photos/tint/Falling%20Water-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Falling%20Water-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/falling-water" data-target="falling-water">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/see-through" data-target="see-through" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/abandoned-greek-village" data-target="abandoned-greek-village" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
@@ -33,7 +96,7 @@ lazyload();
   </span>
   <a class="open" href="/abandoned-greek-village" data-target="abandoned-greek-village">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/backcountry-views" data-target="backcountry-views" class="previous" title="Go to previous photo">
+  <a href="/falling-water" data-target="falling-water" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/abandoned-greek-village-ii" data-target="abandoned-greek-village-ii" class="next" title="Go to next photo">
