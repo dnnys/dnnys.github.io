@@ -36,7 +36,7 @@ lazyload();
   <a href="/green-land-hills" data-target="green-land-hills" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
-  <a href="/see-through" data-target="see-through" class="next" title="Go to next photo">
+  <a href="/see-through-it-and-leave" data-target="see-through-it-and-leave" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
   <ul class="meta">
@@ -46,13 +46,13 @@ lazyload();
     <!-- <li><span class="aperture"><em>f</em>/</span>4.0</li> -->
   </ul>
 </li>
-<li class="item " id="see-through" style="background-image: url('/photos/tint/See%20Through-65ba1d.jpg')" title="See Through">
-  <img class="lazyload thumb" data-src="/photos/thumbnail/See%20Through-ccf4df.jpg" src="/photos/tint/See%20Through-65ba1d.jpg" height="1365" width="2048" />
-  <img class="lazyload fullres" data-src="/photos/large/See%20Through-686656.jpg" src="/photos/tint/See%20Through-65ba1d.jpg" height="1365" width="2048" />
+<li class="item " id="see-through-it-and-leave" style="background-image: url('/photos/tint/See%20through%20it%20and%20leave-65ba1d.jpg')" title="See through it and leave">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/See%20through%20it%20and%20leave-ccf4df.jpg" src="/photos/tint/See%20through%20it%20and%20leave-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/See%20through%20it%20and%20leave-686656.jpg" src="/photos/tint/See%20through%20it%20and%20leave-65ba1d.jpg" height="1365" width="2048" />
   <span class="full">
-    <span style="background-image: url('/photos/large/See%20Through-686656.jpg')"></span>
+    <span style="background-image: url('/photos/large/See%20through%20it%20and%20leave-686656.jpg')"></span>
   </span>
-  <a class="open" href="/see-through" data-target="see-through">Open</a>
+  <a class="open" href="/see-through-it-and-leave" data-target="see-through-it-and-leave">Open</a>
   <a class="close" href="/">Close</a>
   <a href="/green-land-lake" data-target="green-land-lake" class="previous" title="Go to previous photo">
     <span>Previous</span>
@@ -75,7 +75,7 @@ lazyload();
   </span>
   <a class="open" href="/falling-water" data-target="falling-water">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/see-through" data-target="see-through" class="previous" title="Go to previous photo">
+  <a href="/see-through-it-and-leave" data-target="see-through-it-and-leave" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/abandoned-greek-village" data-target="abandoned-greek-village" class="next" title="Go to next photo">

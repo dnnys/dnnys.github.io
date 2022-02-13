@@ -3,8 +3,8 @@
     <generator uri="https://github.com/maxvoltar/photo-stream">PhotoStream</generator>
     <link href="http://snaps.dnysgdnt.com/feed.xml" rel="self" type="application/atom+xml" />
     <link href="http://snaps.dnysgdnt.com/" rel="alternate" type="text/html"/>
-    <updated>2022-02-10T20:10:09+00:00</updated>
-    <id>2022-02-10T20:10:09+00:00</id>
+    <updated>2022-02-13T21:20:05+00:00</updated>
+    <id>2022-02-13T21:20:05+00:00</id>
     <title type="html">Dennys' SNAPS</title>
     <subtitle>A Collection of Personal Snaps from 2016–today</subtitle>
     <entry>
@@ -34,17 +34,17 @@
         <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Green%20Land%20Lake-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
         </entry>
         <entry>
-          <title type="html">See Through</title>
-          <link href="http://snaps.dnysgdnt.com/see-through/" rel="alternate" type="text/html" title="See Through" />
+          <title type="html">See through it and leave</title>
+          <link href="http://snaps.dnysgdnt.com/see-through-it-and-leave/" rel="alternate" type="text/html" title="See through it and leave" />
           <published>2022-02-10T20:53:04+00:00</published>
           <updated>2022-02-10T20:53:04+00:00</updated>
-          <id>http://snaps.dnysgdnt.com//see-through/</id>
+          <id>http://snaps.dnysgdnt.com//see-through-it-and-leave/</id>
           <content type="html">
-            <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/see-through/"><img src="http://snaps.dnysgdnt.com//photos/large/See%20Through-686656.jpg" alt="See Through" /></a></figure>
+            <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/see-through-it-and-leave/"><img src="http://snaps.dnysgdnt.com//photos/large/See%20through%20it%20and%20leave-686656.jpg" alt="See through it and leave" /></a></figure>
           ]]>
         </content>
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/See%20Through-686656.jpg" />
-          <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/See%20Through-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/See%20through%20it%20and%20leave-686656.jpg" />
+          <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/See%20through%20it%20and%20leave-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
           </entry>
           <entry>
             <title type="html">Falling Water</title>
