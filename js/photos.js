@@ -7,6 +7,45 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="the-og-home" style="background-image: url('/photos/tint/The%20OG%20Home-65ba1d.jpg')" title="The OG Home">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/The%20OG%20Home-ccf4df.jpg" src="/photos/tint/The%20OG%20Home-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/The%20OG%20Home-686656.jpg" src="/photos/tint/The%20OG%20Home-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/The%20OG%20Home-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/the-og-home" data-target="the-og-home">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/gramin-away" data-target="gramin-away" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/125</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="gramin-away" style="background-image: url('/photos/tint/Gramin%20away-65ba1d.jpg')" title="Gramin away">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Gramin%20away-ccf4df.jpg" src="/photos/tint/Gramin%20away-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Gramin%20away-686656.jpg" src="/photos/tint/Gramin%20away-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Gramin%20away-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/gramin-away" data-target="gramin-away">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/the-og-home" data-target="the-og-home" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/green-land-hills" data-target="green-land-hills" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2018</li>
+    <!-- <li>1/640</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
+  </ul>
+</li>
 <li class="item " id="green-land-hills" style="background-image: url('/photos/tint/Green%20Land%20Hills-65ba1d.jpg')" title="Green Land Hills">
   <img class="lazyload thumb" data-src="/photos/thumbnail/Green%20Land%20Hills-ccf4df.jpg" src="/photos/tint/Green%20Land%20Hills-65ba1d.jpg" height="2048" width="1365" />
   <img class="lazyload fullres" data-src="/photos/large/Green%20Land%20Hills-686656.jpg" src="/photos/tint/Green%20Land%20Hills-65ba1d.jpg" height="2048" width="1365" />
@@ -15,6 +54,9 @@ lazyload();
   </span>
   <a class="open" href="/green-land-hills" data-target="green-land-hills">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/gramin-away" data-target="gramin-away" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/green-land-lake" data-target="green-land-lake" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
