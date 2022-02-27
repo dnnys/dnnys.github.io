@@ -7,6 +7,24 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="mossy-rocks-snappin" style="background-image: url('/photos/tint/Mossy%20rocks%20snappin-65ba1d.jpg')" title="Mossy rocks snappin">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Mossy%20rocks%20snappin-ccf4df.jpg" src="/photos/tint/Mossy%20rocks%20snappin-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Mossy%20rocks%20snappin-686656.jpg" src="/photos/tint/Mossy%20rocks%20snappin-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Mossy%20rocks%20snappin-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/mossy-rocks-snappin" data-target="mossy-rocks-snappin">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/birthday-and-drinks" data-target="birthday-and-drinks" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/400</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
 <li class="item " id="birthday-and-drinks" style="background-image: url('/photos/tint/Birthday%20and%20Drinks-65ba1d.jpg')" title="Birthday and Drinks">
   <img class="lazyload thumb" data-src="/photos/thumbnail/Birthday%20and%20Drinks-ccf4df.jpg" src="/photos/tint/Birthday%20and%20Drinks-65ba1d.jpg" height="1365" width="2048" />
   <img class="lazyload fullres" data-src="/photos/large/Birthday%20and%20Drinks-686656.jpg" src="/photos/tint/Birthday%20and%20Drinks-65ba1d.jpg" height="1365" width="2048" />
@@ -15,6 +33,9 @@ lazyload();
   </span>
   <a class="open" href="/birthday-and-drinks" data-target="birthday-and-drinks">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/mossy-rocks-snappin" data-target="mossy-rocks-snappin" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/sun-and-flares" data-target="sun-and-flares" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
