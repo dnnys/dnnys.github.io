@@ -7,14 +7,140 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
-<li class="item " id="vast-lands" style="background-image: url('/photos/tint/Vast%20Lands-65ba1d.jpg')" title="Vast Lands">
-  <img class="lazyload thumb" data-src="/photos/thumbnail/Vast%20Lands-ccf4df.jpg" src="/photos/tint/Vast%20Lands-65ba1d.jpg" height="1365" width="2048" />
-  <img class="lazyload fullres" data-src="/photos/large/Vast%20Lands-686656.jpg" src="/photos/tint/Vast%20Lands-65ba1d.jpg" height="1365" width="2048" />
+<li class="item " id="glowing-sea" style="background-image: url('/photos/tint/Glowing%20Sea-65ba1d.jpg')" title="Glowing Sea">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Glowing%20Sea-ccf4df.jpg" src="/photos/tint/Glowing%20Sea-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Glowing%20Sea-686656.jpg" src="/photos/tint/Glowing%20Sea-65ba1d.jpg" height="1365" width="2048" />
   <span class="full">
-    <span style="background-image: url('/photos/large/Vast%20Lands-686656.jpg')"></span>
+    <span style="background-image: url('/photos/large/Glowing%20Sea-686656.jpg')"></span>
   </span>
-  <a class="open" href="/vast-lands" data-target="vast-lands">Open</a>
+  <a class="open" href="/glowing-sea" data-target="glowing-sea">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/exploring" data-target="exploring" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/8000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="exploring" style="background-image: url('/photos/tint/Exploring-65ba1d.jpg')" title="Exploring">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Exploring-ccf4df.jpg" src="/photos/tint/Exploring-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Exploring-686656.jpg" src="/photos/tint/Exploring-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Exploring-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/exploring" data-target="exploring">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/glowing-sea" data-target="glowing-sea" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/cute-church" data-target="cute-church" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/2000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="cute-church" style="background-image: url('/photos/tint/Cute%20Church-65ba1d.jpg')" title="Cute Church">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Cute%20Church-ccf4df.jpg" src="/photos/tint/Cute%20Church-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Cute%20Church-686656.jpg" src="/photos/tint/Cute%20Church-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Cute%20Church-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/cute-church" data-target="cute-church">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/exploring" data-target="exploring" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/thors-sculptures" data-target="thors-sculptures" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/8000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="thors-sculptures" style="background-image: url('/photos/tint/Thors%20Sculptures-65ba1d.jpg')" title="Thors Sculptures">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Thors%20Sculptures-ccf4df.jpg" src="/photos/tint/Thors%20Sculptures-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Thors%20Sculptures-686656.jpg" src="/photos/tint/Thors%20Sculptures-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Thors%20Sculptures-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/thors-sculptures" data-target="thors-sculptures">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/cute-church" data-target="cute-church" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/on-the-lookout" data-target="on-the-lookout" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/4000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="on-the-lookout" style="background-image: url('/photos/tint/On%20the%20Lookout-65ba1d.jpg')" title="On the Lookout">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/On%20the%20Lookout-ccf4df.jpg" src="/photos/tint/On%20the%20Lookout-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/On%20the%20Lookout-686656.jpg" src="/photos/tint/On%20the%20Lookout-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/On%20the%20Lookout-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/on-the-lookout" data-target="on-the-lookout">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/thors-sculptures" data-target="thors-sculptures" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/vast-land-and-sea-ii" data-target="vast-land-and-sea-ii" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/4000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="vast-land-and-sea-ii" style="background-image: url('/photos/tint/Vast%20Land%20and%20Sea%20II-65ba1d.jpg')" title="Vast Land and Sea II">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Vast%20Land%20and%20Sea%20II-ccf4df.jpg" src="/photos/tint/Vast%20Land%20and%20Sea%20II-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Vast%20Land%20and%20Sea%20II-686656.jpg" src="/photos/tint/Vast%20Land%20and%20Sea%20II-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Vast%20Land%20and%20Sea%20II-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/vast-land-and-sea-ii" data-target="vast-land-and-sea-ii">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/on-the-lookout" data-target="on-the-lookout" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/vast-land-and-sea" data-target="vast-land-and-sea" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/4000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="vast-land-and-sea" style="background-image: url('/photos/tint/Vast%20Land%20and%20Sea-65ba1d.jpg')" title="Vast Land and Sea">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Vast%20Land%20and%20Sea-ccf4df.jpg" src="/photos/tint/Vast%20Land%20and%20Sea-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Vast%20Land%20and%20Sea-686656.jpg" src="/photos/tint/Vast%20Land%20and%20Sea-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Vast%20Land%20and%20Sea-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/vast-land-and-sea" data-target="vast-land-and-sea">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/vast-land-and-sea-ii" data-target="vast-land-and-sea-ii" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/lookout" data-target="lookout" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
@@ -33,10 +159,10 @@ lazyload();
   </span>
   <a class="open" href="/lookout" data-target="lookout">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/vast-lands" data-target="vast-lands" class="previous" title="Go to previous photo">
+  <a href="/vast-land-and-sea" data-target="vast-land-and-sea" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
-  <a href="/wecrashed" data-target="wecrashed" class="next" title="Go to next photo">
+  <a href="/rusting-away" data-target="rusting-away" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
   <ul class="meta">
@@ -46,18 +172,18 @@ lazyload();
     <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
   </ul>
 </li>
-<li class="item " id="wecrashed" style="background-image: url('/photos/tint/WeCrashed-65ba1d.jpg')" title="WeCrashed">
-  <img class="lazyload thumb" data-src="/photos/thumbnail/WeCrashed-ccf4df.jpg" src="/photos/tint/WeCrashed-65ba1d.jpg" height="2048" width="1365" />
-  <img class="lazyload fullres" data-src="/photos/large/WeCrashed-686656.jpg" src="/photos/tint/WeCrashed-65ba1d.jpg" height="2048" width="1365" />
+<li class="item " id="rusting-away" style="background-image: url('/photos/tint/Rusting%20away-65ba1d.jpg')" title="Rusting away">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Rusting%20away-ccf4df.jpg" src="/photos/tint/Rusting%20away-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Rusting%20away-686656.jpg" src="/photos/tint/Rusting%20away-65ba1d.jpg" height="2048" width="1365" />
   <span class="full">
-    <span style="background-image: url('/photos/large/WeCrashed-686656.jpg')"></span>
+    <span style="background-image: url('/photos/large/Rusting%20away-686656.jpg')"></span>
   </span>
-  <a class="open" href="/wecrashed" data-target="wecrashed">Open</a>
+  <a class="open" href="/rusting-away" data-target="rusting-away">Open</a>
   <a class="close" href="/">Close</a>
   <a href="/lookout" data-target="lookout" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
-  <a href="/foregin-planet-light-beam" data-target="foregin-planet-light-beam" class="next" title="Go to next photo">
+  <a href="/foreign-planet-light-beam" data-target="foreign-planet-light-beam" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
   <ul class="meta">
@@ -67,15 +193,15 @@ lazyload();
     <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
   </ul>
 </li>
-<li class="item " id="foregin-planet-light-beam" style="background-image: url('/photos/tint/Foregin%20Planet%20Light%20Beam-65ba1d.jpg')" title="Foregin Planet Light Beam">
-  <img class="lazyload thumb" data-src="/photos/thumbnail/Foregin%20Planet%20Light%20Beam-ccf4df.jpg" src="/photos/tint/Foregin%20Planet%20Light%20Beam-65ba1d.jpg" height="2048" width="1365" />
-  <img class="lazyload fullres" data-src="/photos/large/Foregin%20Planet%20Light%20Beam-686656.jpg" src="/photos/tint/Foregin%20Planet%20Light%20Beam-65ba1d.jpg" height="2048" width="1365" />
+<li class="item " id="foreign-planet-light-beam" style="background-image: url('/photos/tint/Foreign%20Planet%20Light%20Beam-65ba1d.jpg')" title="Foreign Planet Light Beam">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Foreign%20Planet%20Light%20Beam-ccf4df.jpg" src="/photos/tint/Foreign%20Planet%20Light%20Beam-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Foreign%20Planet%20Light%20Beam-686656.jpg" src="/photos/tint/Foreign%20Planet%20Light%20Beam-65ba1d.jpg" height="2048" width="1365" />
   <span class="full">
-    <span style="background-image: url('/photos/large/Foregin%20Planet%20Light%20Beam-686656.jpg')"></span>
+    <span style="background-image: url('/photos/large/Foreign%20Planet%20Light%20Beam-686656.jpg')"></span>
   </span>
-  <a class="open" href="/foregin-planet-light-beam" data-target="foregin-planet-light-beam">Open</a>
+  <a class="open" href="/foreign-planet-light-beam" data-target="foreign-planet-light-beam">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/wecrashed" data-target="wecrashed" class="previous" title="Go to previous photo">
+  <a href="/rusting-away" data-target="rusting-away" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/snapping-through-the-rain" data-target="snapping-through-the-rain" class="next" title="Go to next photo">
@@ -96,7 +222,7 @@ lazyload();
   </span>
   <a class="open" href="/snapping-through-the-rain" data-target="snapping-through-the-rain">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/foregin-planet-light-beam" data-target="foregin-planet-light-beam" class="previous" title="Go to previous photo">
+  <a href="/foreign-planet-light-beam" data-target="foreign-planet-light-beam" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/rock-formations" data-target="rock-formations" class="next" title="Go to next photo">
