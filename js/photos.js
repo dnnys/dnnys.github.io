@@ -7,6 +7,87 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="where-the-mossy-lava-rocks-tm-are" style="background-image: url('/photos/tint/Where%20the%20Mossy%20Lava%20Rocks%20TM%20are-65ba1d.jpg')" title="Where the Mossy Lava Rocks TM are">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Where%20the%20Mossy%20Lava%20Rocks%20TM%20are-ccf4df.jpg" src="/photos/tint/Where%20the%20Mossy%20Lava%20Rocks%20TM%20are-65ba1d.jpg" height="2048" width="1366" />
+  <img class="lazyload fullres" data-src="/photos/large/Where%20the%20Mossy%20Lava%20Rocks%20TM%20are-686656.jpg" src="/photos/tint/Where%20the%20Mossy%20Lava%20Rocks%20TM%20are-65ba1d.jpg" height="2048" width="1366" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Where%20the%20Mossy%20Lava%20Rocks%20TM%20are-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/where-the-mossy-lava-rocks-tm-are" data-target="where-the-mossy-lava-rocks-tm-are">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/snapped-while-snapping" data-target="snapped-while-snapping" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/4000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="snapped-while-snapping" style="background-image: url('/photos/tint/Snapped%20while%20Snapping-65ba1d.jpg')" title="Snapped while Snapping">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Snapped%20while%20Snapping-ccf4df.jpg" src="/photos/tint/Snapped%20while%20Snapping-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Snapped%20while%20Snapping-686656.jpg" src="/photos/tint/Snapped%20while%20Snapping-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Snapped%20while%20Snapping-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/snapped-while-snapping" data-target="snapped-while-snapping">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/where-the-mossy-lava-rocks-tm-are" data-target="where-the-mossy-lava-rocks-tm-are" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/look-at-that" data-target="look-at-that" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/8000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="look-at-that" style="background-image: url('/photos/tint/Look%20at%20that-65ba1d.jpg')" title="Look at that">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Look%20at%20that-ccf4df.jpg" src="/photos/tint/Look%20at%20that-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Look%20at%20that-686656.jpg" src="/photos/tint/Look%20at%20that-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Look%20at%20that-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/look-at-that" data-target="look-at-that">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/snapped-while-snapping" data-target="snapped-while-snapping" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/a-tank-wagon-in-the-wild" data-target="a-tank-wagon-in-the-wild" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/8000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="a-tank-wagon-in-the-wild" style="background-image: url('/photos/tint/A%20tank%20wagon%20in%20the%20wild-65ba1d.jpg')" title="A tank wagon in the wild">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/A%20tank%20wagon%20in%20the%20wild-ccf4df.jpg" src="/photos/tint/A%20tank%20wagon%20in%20the%20wild-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/A%20tank%20wagon%20in%20the%20wild-686656.jpg" src="/photos/tint/A%20tank%20wagon%20in%20the%20wild-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/A%20tank%20wagon%20in%20the%20wild-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/a-tank-wagon-in-the-wild" data-target="a-tank-wagon-in-the-wild">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/look-at-that" data-target="look-at-that" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/glowing-sea" data-target="glowing-sea" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/1000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
 <li class="item " id="glowing-sea" style="background-image: url('/photos/tint/Glowing%20Sea-65ba1d.jpg')" title="Glowing Sea">
   <img class="lazyload thumb" data-src="/photos/thumbnail/Glowing%20Sea-ccf4df.jpg" src="/photos/tint/Glowing%20Sea-65ba1d.jpg" height="1365" width="2048" />
   <img class="lazyload fullres" data-src="/photos/large/Glowing%20Sea-686656.jpg" src="/photos/tint/Glowing%20Sea-65ba1d.jpg" height="1365" width="2048" />
@@ -15,6 +96,9 @@ lazyload();
   </span>
   <a class="open" href="/glowing-sea" data-target="glowing-sea">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/a-tank-wagon-in-the-wild" data-target="a-tank-wagon-in-the-wild" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/exploring" data-target="exploring" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
