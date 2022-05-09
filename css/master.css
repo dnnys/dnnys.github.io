@@ -10,8 +10,7 @@ body { flex-grow: 1; font: 16px/24px -apple-system, BlinkMacSystemFont, "Segoe U
 .grid .item img { max-height: 100%; min-width: 100%; min-height: 100%; width: auto; object-fit: cover; display: block; }
 .grid .item img.fullres { display: none; }
 .grid .item .open, .grid .item .close { position: absolute; top: 0; right: 0; bottom: 0; left: 0; text-indent: 150%; overflow: hidden; white-space: nowrap; }
-.grid .item .open { cursor: zoom-in; background-color: rgba(0, 0, 0, 0); transition: background-color .15s ease-out; }
-.grid .item .open:hover, .grid .item .open:focus { background-color: rgba(0, 0, 0, 0.25); }
+.grid .item .open { cursor: zoom-in; background-color: rgba(0, 0, 0, 0); transition: background-color .15s ease-out; /* no change for hover &:hover, &:focus { background-color: rgba(0, 0, 0, .25); } */ }
 .grid .item .open:active { background-color: rgba(0, 0, 0, 0.5); }
 .grid .item .close { display: none; cursor: zoom-out; }
 .grid .item .full { display: none; }
