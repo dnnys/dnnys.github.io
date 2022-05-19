@@ -120,55 +120,13 @@ lazyload();
   <a href="/an-absolute-unit" data-target="an-absolute-unit" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
-  <a href="/so-special-much-individual" data-target="so-special-much-individual" class="next" title="Go to next photo">
-    <span>Next</span>
-  </a>
-  <ul class="meta">
-    <li>SONY</li>
-    <li>2018</li>
-    <!-- <li>1/4000</li> -->
-    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
-  </ul>
-</li>
-<li class="item " id="so-special-much-individual" style="background-image: url('/photos/tint/So%20Special%20Much%20Individual-65ba1d.jpg')" title="So Special Much Individual">
-  <img class="lazyload thumb" data-src="/photos/thumbnail/So%20Special%20Much%20Individual-ccf4df.jpg" src="/photos/tint/So%20Special%20Much%20Individual-65ba1d.jpg" height="1365" width="2048" />
-  <img class="lazyload fullres" data-src="/photos/large/So%20Special%20Much%20Individual-686656.jpg" src="/photos/tint/So%20Special%20Much%20Individual-65ba1d.jpg" height="1365" width="2048" />
-  <span class="full">
-    <span style="background-image: url('/photos/large/So%20Special%20Much%20Individual-686656.jpg')"></span>
-  </span>
-  <a class="open" href="/so-special-much-individual" data-target="so-special-much-individual">Open</a>
-  <a class="close" href="/">Close</a>
-  <a href="/jeep-for-scale" data-target="jeep-for-scale" class="previous" title="Go to previous photo">
-    <span>Previous</span>
-  </a>
-  <a href="/a-lonely-and-deserted-spot" data-target="a-lonely-and-deserted-spot" class="next" title="Go to next photo">
-    <span>Next</span>
-  </a>
-  <ul class="meta">
-    <li>SONY</li>
-    <li>2018</li>
-    <!-- <li>1/2000</li> -->
-    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
-  </ul>
-</li>
-<li class="item " id="a-lonely-and-deserted-spot" style="background-image: url('/photos/tint/A%20lonely%20and%20deserted%20spot-65ba1d.jpg')" title="A lonely and deserted spot">
-  <img class="lazyload thumb" data-src="/photos/thumbnail/A%20lonely%20and%20deserted%20spot-ccf4df.jpg" src="/photos/tint/A%20lonely%20and%20deserted%20spot-65ba1d.jpg" height="1365" width="2048" />
-  <img class="lazyload fullres" data-src="/photos/large/A%20lonely%20and%20deserted%20spot-686656.jpg" src="/photos/tint/A%20lonely%20and%20deserted%20spot-65ba1d.jpg" height="1365" width="2048" />
-  <span class="full">
-    <span style="background-image: url('/photos/large/A%20lonely%20and%20deserted%20spot-686656.jpg')"></span>
-  </span>
-  <a class="open" href="/a-lonely-and-deserted-spot" data-target="a-lonely-and-deserted-spot">Open</a>
-  <a class="close" href="/">Close</a>
-  <a href="/so-special-much-individual" data-target="so-special-much-individual" class="previous" title="Go to previous photo">
-    <span>Previous</span>
-  </a>
   <a href="/mossy-lava-rocks" data-target="mossy-lava-rocks" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
   <ul class="meta">
     <li>SONY</li>
     <li>2018</li>
-    <!-- <li>1/2000</li> -->
+    <!-- <li>1/4000</li> -->
     <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
   </ul>
 </li>
@@ -180,7 +138,7 @@ lazyload();
   </span>
   <a class="open" href="/mossy-lava-rocks" data-target="mossy-lava-rocks">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/a-lonely-and-deserted-spot" data-target="a-lonely-and-deserted-spot" class="previous" title="Go to previous photo">
+  <a href="/jeep-for-scale" data-target="jeep-for-scale" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/wallpaper-landscape" data-target="wallpaper-landscape" class="next" title="Go to next photo">
