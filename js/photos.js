@@ -7,15 +7,15 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
-<li class="item " id="lookout-for-seals" style="background-image: url('/photos/tint/Lookout%20for%20Seals-65ba1d.jpg')" title="Lookout for Seals">
-  <img class="lazyload thumb" data-src="/photos/thumbnail/Lookout%20for%20Seals-ccf4df.jpg" src="/photos/tint/Lookout%20for%20Seals-65ba1d.jpg" height="2048" width="1365" />
-  <img class="lazyload fullres" data-src="/photos/large/Lookout%20for%20Seals-686656.jpg" src="/photos/tint/Lookout%20for%20Seals-65ba1d.jpg" height="2048" width="1365" />
+<li class="item " id="a-döster-in-the-wild" style="background-image: url('/photos/tint/A%20D%C3%B6ster%20in%20the%20Wild-65ba1d.jpg')" title="A Döster in the Wild">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/A%20D%C3%B6ster%20in%20the%20Wild-ccf4df.jpg" src="/photos/tint/A%20D%C3%B6ster%20in%20the%20Wild-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/A%20D%C3%B6ster%20in%20the%20Wild-686656.jpg" src="/photos/tint/A%20D%C3%B6ster%20in%20the%20Wild-65ba1d.jpg" height="2048" width="1365" />
   <span class="full">
-    <span style="background-image: url('/photos/large/Lookout%20for%20Seals-686656.jpg')"></span>
+    <span style="background-image: url('/photos/large/A%20D%C3%B6ster%20in%20the%20Wild-686656.jpg')"></span>
   </span>
-  <a class="open" href="/lookout-for-seals" data-target="lookout-for-seals">Open</a>
+  <a class="open" href="/a-d%C3%B6ster-in-the-wild" data-target="a-döster-in-the-wild">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/floating-away" data-target="floating-away" class="next" title="Go to next photo">
+  <a href="/storm-incoming" data-target="storm-incoming" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
   <ul class="meta">
@@ -25,15 +25,162 @@ lazyload();
     <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
   </ul>
 </li>
-<li class="item " id="floating-away" style="background-image: url('/photos/tint/Floating%20away-65ba1d.jpg')" title="Floating away">
-  <img class="lazyload thumb" data-src="/photos/thumbnail/Floating%20away-ccf4df.jpg" src="/photos/tint/Floating%20away-65ba1d.jpg" height="2048" width="1365" />
-  <img class="lazyload fullres" data-src="/photos/large/Floating%20away-686656.jpg" src="/photos/tint/Floating%20away-65ba1d.jpg" height="2048" width="1365" />
+<li class="item " id="storm-incoming" style="background-image: url('/photos/tint/Storm%20Incoming-65ba1d.jpg')" title="Storm Incoming">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Storm%20Incoming-ccf4df.jpg" src="/photos/tint/Storm%20Incoming-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Storm%20Incoming-686656.jpg" src="/photos/tint/Storm%20Incoming-65ba1d.jpg" height="1365" width="2048" />
   <span class="full">
-    <span style="background-image: url('/photos/large/Floating%20away-686656.jpg')"></span>
+    <span style="background-image: url('/photos/large/Storm%20Incoming-686656.jpg')"></span>
   </span>
-  <a class="open" href="/floating-away" data-target="floating-away">Open</a>
+  <a class="open" href="/storm-incoming" data-target="storm-incoming">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/lookout-for-seals" data-target="lookout-for-seals" class="previous" title="Go to previous photo">
+  <a href="/a-d%C3%B6ster-in-the-wild" data-target="a-döster-in-the-wild" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/the-scenery" data-target="the-scenery" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/2000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="the-scenery" style="background-image: url('/photos/tint/The%20Scenery-65ba1d.jpg')" title="The Scenery">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/The%20Scenery-ccf4df.jpg" src="/photos/tint/The%20Scenery-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/The%20Scenery-686656.jpg" src="/photos/tint/The%20Scenery-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/The%20Scenery-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/the-scenery" data-target="the-scenery">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/storm-incoming" data-target="storm-incoming" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/taking-in-the-scenery-at-folaldafoss" data-target="taking-in-the-scenery-at-folaldafoss" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/2000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="taking-in-the-scenery-at-folaldafoss" style="background-image: url('/photos/tint/Taking%20in%20the%20Scenery%20at%20Folaldafoss-65ba1d.jpg')" title="Taking in the Scenery at Folaldafoss">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Taking%20in%20the%20Scenery%20at%20Folaldafoss-ccf4df.jpg" src="/photos/tint/Taking%20in%20the%20Scenery%20at%20Folaldafoss-65ba1d.jpg" height="2048" width="1366" />
+  <img class="lazyload fullres" data-src="/photos/large/Taking%20in%20the%20Scenery%20at%20Folaldafoss-686656.jpg" src="/photos/tint/Taking%20in%20the%20Scenery%20at%20Folaldafoss-65ba1d.jpg" height="2048" width="1366" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Taking%20in%20the%20Scenery%20at%20Folaldafoss-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/taking-in-the-scenery-at-folaldafoss" data-target="taking-in-the-scenery-at-folaldafoss">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/the-scenery" data-target="the-scenery" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/on-a-mission-to-an-foss" data-target="on-a-mission-to-an-foss" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/2000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="on-a-mission-to-an-foss" style="background-image: url('/photos/tint/On%20a%20Mission%20to%20an%20Foss-65ba1d.jpg')" title="On a Mission to an Foss">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/On%20a%20Mission%20to%20an%20Foss-ccf4df.jpg" src="/photos/tint/On%20a%20Mission%20to%20an%20Foss-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/On%20a%20Mission%20to%20an%20Foss-686656.jpg" src="/photos/tint/On%20a%20Mission%20to%20an%20Foss-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/On%20a%20Mission%20to%20an%20Foss-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/on-a-mission-to-an-foss" data-target="on-a-mission-to-an-foss">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/taking-in-the-scenery-at-folaldafoss" data-target="taking-in-the-scenery-at-folaldafoss" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/out-of-titles-for-landscapes-from-iceland" data-target="out-of-titles-for-landscapes-from-iceland" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/2000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="out-of-titles-for-landscapes-from-iceland" style="background-image: url('/photos/tint/Out%20of%20Titles%20for%20Landscapes%20From%20Iceland-65ba1d.jpg')" title="Out of Titles for Landscapes From Iceland">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Out%20of%20Titles%20for%20Landscapes%20From%20Iceland-ccf4df.jpg" src="/photos/tint/Out%20of%20Titles%20for%20Landscapes%20From%20Iceland-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Out%20of%20Titles%20for%20Landscapes%20From%20Iceland-686656.jpg" src="/photos/tint/Out%20of%20Titles%20for%20Landscapes%20From%20Iceland-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Out%20of%20Titles%20for%20Landscapes%20From%20Iceland-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/out-of-titles-for-landscapes-from-iceland" data-target="out-of-titles-for-landscapes-from-iceland">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/on-a-mission-to-an-foss" data-target="on-a-mission-to-an-foss" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/gramin-away-no-8937" data-target="gramin-away-no-8937" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/2000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="gramin-away-no-8937" style="background-image: url('/photos/tint/Gramin%20Away%20No%208937-65ba1d.jpg')" title="Gramin Away No 8937">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Gramin%20Away%20No%208937-ccf4df.jpg" src="/photos/tint/Gramin%20Away%20No%208937-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Gramin%20Away%20No%208937-686656.jpg" src="/photos/tint/Gramin%20Away%20No%208937-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Gramin%20Away%20No%208937-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/gramin-away-no-8937" data-target="gramin-away-no-8937">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/out-of-titles-for-landscapes-from-iceland" data-target="out-of-titles-for-landscapes-from-iceland" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/melting-away" data-target="melting-away" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/2000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="melting-away" style="background-image: url('/photos/tint/Melting%20Away-65ba1d.jpg')" title="Melting Away">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Melting%20Away-ccf4df.jpg" src="/photos/tint/Melting%20Away-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Melting%20Away-686656.jpg" src="/photos/tint/Melting%20Away-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Melting%20Away-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/melting-away" data-target="melting-away">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/gramin-away-no-8937" data-target="gramin-away-no-8937" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/lookout-for-seals" data-target="lookout-for-seals" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/2000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="lookout-for-seals" style="background-image: url('/photos/tint/Lookout%20for%20Seals-65ba1d.jpg')" title="Lookout for Seals">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Lookout%20for%20Seals-ccf4df.jpg" src="/photos/tint/Lookout%20for%20Seals-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Lookout%20for%20Seals-686656.jpg" src="/photos/tint/Lookout%20for%20Seals-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Lookout%20for%20Seals-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/lookout-for-seals" data-target="lookout-for-seals">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/melting-away" data-target="melting-away" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/ice-sculpture" data-target="ice-sculpture" class="next" title="Go to next photo">
@@ -54,7 +201,7 @@ lazyload();
   </span>
   <a class="open" href="/ice-sculpture" data-target="ice-sculpture">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/floating-away" data-target="floating-away" class="previous" title="Go to previous photo">
+  <a href="/lookout-for-seals" data-target="lookout-for-seals" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/light-and-ice" data-target="light-and-ice" class="next" title="Go to next photo">
