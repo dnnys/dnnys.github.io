@@ -7,6 +7,87 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="yes-this-was-absolutely-necessary" style="background-image: url('/photos/tint/Yes%20this%20was%20absolutely%20necessary-65ba1d.jpg')" title="Yes this was absolutely necessary">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Yes%20this%20was%20absolutely%20necessary-ccf4df.jpg" src="/photos/tint/Yes%20this%20was%20absolutely%20necessary-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Yes%20this%20was%20absolutely%20necessary-686656.jpg" src="/photos/tint/Yes%20this%20was%20absolutely%20necessary-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Yes%20this%20was%20absolutely%20necessary-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/yes-this-was-absolutely-necessary" data-target="yes-this-was-absolutely-necessary">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/i-cant-possibly-see-the-views-from-the-ground" data-target="i-cant-possibly-see-the-views-from-the-ground" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/4000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="i-cant-possibly-see-the-views-from-the-ground" style="background-image: url('/photos/tint/I%20cant%20possibly%20see%20the%20views%20from%20the%20ground-65ba1d.jpg')" title="I cant possibly see the views from the ground">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/I%20cant%20possibly%20see%20the%20views%20from%20the%20ground-ccf4df.jpg" src="/photos/tint/I%20cant%20possibly%20see%20the%20views%20from%20the%20ground-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/I%20cant%20possibly%20see%20the%20views%20from%20the%20ground-686656.jpg" src="/photos/tint/I%20cant%20possibly%20see%20the%20views%20from%20the%20ground-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/I%20cant%20possibly%20see%20the%20views%20from%20the%20ground-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/i-cant-possibly-see-the-views-from-the-ground" data-target="i-cant-possibly-see-the-views-from-the-ground">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/yes-this-was-absolutely-necessary" data-target="yes-this-was-absolutely-necessary" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/glaring-vintage-lens-flare" data-target="glaring-vintage-lens-flare" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/4000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="glaring-vintage-lens-flare" style="background-image: url('/photos/tint/Glaring%20Vintage%20Lens%20Flare-65ba1d.jpg')" title="Glaring Vintage Lens Flare">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Glaring%20Vintage%20Lens%20Flare-ccf4df.jpg" src="/photos/tint/Glaring%20Vintage%20Lens%20Flare-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Glaring%20Vintage%20Lens%20Flare-686656.jpg" src="/photos/tint/Glaring%20Vintage%20Lens%20Flare-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Glaring%20Vintage%20Lens%20Flare-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/glaring-vintage-lens-flare" data-target="glaring-vintage-lens-flare">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/i-cant-possibly-see-the-views-from-the-ground" data-target="i-cant-possibly-see-the-views-from-the-ground" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/a-munggs-outlook" data-target="a-munggs-outlook" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/4000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="a-munggs-outlook" style="background-image: url('/photos/tint/A%20Munggs%20Outlook-65ba1d.jpg')" title="A Munggs Outlook">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/A%20Munggs%20Outlook-ccf4df.jpg" src="/photos/tint/A%20Munggs%20Outlook-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/A%20Munggs%20Outlook-686656.jpg" src="/photos/tint/A%20Munggs%20Outlook-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/A%20Munggs%20Outlook-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/a-munggs-outlook" data-target="a-munggs-outlook">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/glaring-vintage-lens-flare" data-target="glaring-vintage-lens-flare" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/a-d%C3%B6ster-in-the-wild" data-target="a-döster-in-the-wild" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/2000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
 <li class="item " id="a-döster-in-the-wild" style="background-image: url('/photos/tint/A%20D%C3%B6ster%20in%20the%20Wild-65ba1d.jpg')" title="A Döster in the Wild">
   <img class="lazyload thumb" data-src="/photos/thumbnail/A%20D%C3%B6ster%20in%20the%20Wild-ccf4df.jpg" src="/photos/tint/A%20D%C3%B6ster%20in%20the%20Wild-65ba1d.jpg" height="2048" width="1365" />
   <img class="lazyload fullres" data-src="/photos/large/A%20D%C3%B6ster%20in%20the%20Wild-686656.jpg" src="/photos/tint/A%20D%C3%B6ster%20in%20the%20Wild-65ba1d.jpg" height="2048" width="1365" />
@@ -15,6 +96,9 @@ lazyload();
   </span>
   <a class="open" href="/a-d%C3%B6ster-in-the-wild" data-target="a-döster-in-the-wild">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/a-munggs-outlook" data-target="a-munggs-outlook" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/storm-incoming" data-target="storm-incoming" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
