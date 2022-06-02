@@ -7,6 +7,87 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="a-house-at-a-street-and-nothing-else" style="background-image: url('/photos/tint/A%20House%20at%20a%20Street%20and%20Nothing%20Else-65ba1d.jpg')" title="A House at a Street and Nothing Else">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/A%20House%20at%20a%20Street%20and%20Nothing%20Else-ccf4df.jpg" src="/photos/tint/A%20House%20at%20a%20Street%20and%20Nothing%20Else-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/A%20House%20at%20a%20Street%20and%20Nothing%20Else-686656.jpg" src="/photos/tint/A%20House%20at%20a%20Street%20and%20Nothing%20Else-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/A%20House%20at%20a%20Street%20and%20Nothing%20Else-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/a-house-at-a-street-and-nothing-else" data-target="a-house-at-a-street-and-nothing-else">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/windy" data-target="windy" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/8000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="windy" style="background-image: url('/photos/tint/Windy-65ba1d.jpg')" title="Windy">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Windy-ccf4df.jpg" src="/photos/tint/Windy-65ba1d.jpg" height="1366" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Windy-686656.jpg" src="/photos/tint/Windy-65ba1d.jpg" height="1366" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Windy-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/windy" data-target="windy">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/a-house-at-a-street-and-nothing-else" data-target="a-house-at-a-street-and-nothing-else" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/smokey-soil" data-target="smokey-soil" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/8000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="smokey-soil" style="background-image: url('/photos/tint/Smokey%20Soil-65ba1d.jpg')" title="Smokey Soil">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Smokey%20Soil-ccf4df.jpg" src="/photos/tint/Smokey%20Soil-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Smokey%20Soil-686656.jpg" src="/photos/tint/Smokey%20Soil-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Smokey%20Soil-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/smokey-soil" data-target="smokey-soil">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/windy" data-target="windy" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/ghostclouds" data-target="ghostclouds" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/8000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="ghostclouds" style="background-image: url('/photos/tint/Ghostclouds-65ba1d.jpg')" title="Ghostclouds">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Ghostclouds-ccf4df.jpg" src="/photos/tint/Ghostclouds-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Ghostclouds-686656.jpg" src="/photos/tint/Ghostclouds-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Ghostclouds-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/ghostclouds" data-target="ghostclouds">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/smokey-soil" data-target="smokey-soil" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/yes-this-was-absolutely-necessary" data-target="yes-this-was-absolutely-necessary" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/8000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
 <li class="item " id="yes-this-was-absolutely-necessary" style="background-image: url('/photos/tint/Yes%20this%20was%20absolutely%20necessary-65ba1d.jpg')" title="Yes this was absolutely necessary">
   <img class="lazyload thumb" data-src="/photos/thumbnail/Yes%20this%20was%20absolutely%20necessary-ccf4df.jpg" src="/photos/tint/Yes%20this%20was%20absolutely%20necessary-65ba1d.jpg" height="2048" width="1365" />
   <img class="lazyload fullres" data-src="/photos/large/Yes%20this%20was%20absolutely%20necessary-686656.jpg" src="/photos/tint/Yes%20this%20was%20absolutely%20necessary-65ba1d.jpg" height="2048" width="1365" />
@@ -15,6 +96,9 @@ lazyload();
   </span>
   <a class="open" href="/yes-this-was-absolutely-necessary" data-target="yes-this-was-absolutely-necessary">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/ghostclouds" data-target="ghostclouds" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/i-cant-possibly-see-the-views-from-the-ground" data-target="i-cant-possibly-see-the-views-from-the-ground" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
