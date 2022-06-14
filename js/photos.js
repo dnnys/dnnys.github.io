@@ -7,6 +7,66 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="where-earth-breaks-apart" style="background-image: url('/photos/tint/Where%20Earth%20Breaks%20Apart-65ba1d.jpg')" title="Where Earth Breaks Apart">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Where%20Earth%20Breaks%20Apart-ccf4df.jpg" src="/photos/tint/Where%20Earth%20Breaks%20Apart-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Where%20Earth%20Breaks%20Apart-686656.jpg" src="/photos/tint/Where%20Earth%20Breaks%20Apart-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Where%20Earth%20Breaks%20Apart-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/where-earth-breaks-apart" data-target="where-earth-breaks-apart">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/landscape-no-92782" data-target="landscape-no-92782" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/1250</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="landscape-no-92782" style="background-image: url('/photos/tint/Landscape%20No%2092782-65ba1d.jpg')" title="Landscape No 92782">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Landscape%20No%2092782-ccf4df.jpg" src="/photos/tint/Landscape%20No%2092782-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Landscape%20No%2092782-686656.jpg" src="/photos/tint/Landscape%20No%2092782-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Landscape%20No%2092782-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/landscape-no-92782" data-target="landscape-no-92782">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/where-earth-breaks-apart" data-target="where-earth-breaks-apart" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/crash-site" data-target="crash-site" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/1250</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="crash-site" style="background-image: url('/photos/tint/Crash%20Site-65ba1d.jpg')" title="Crash Site">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Crash%20Site-ccf4df.jpg" src="/photos/tint/Crash%20Site-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Crash%20Site-686656.jpg" src="/photos/tint/Crash%20Site-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Crash%20Site-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/crash-site" data-target="crash-site">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/landscape-no-92782" data-target="landscape-no-92782" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/a-moment" data-target="a-moment" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/1250</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
 <li class="item " id="a-moment" style="background-image: url('/photos/tint/A%20Moment-65ba1d.jpg')" title="A Moment">
   <img class="lazyload thumb" data-src="/photos/thumbnail/A%20Moment-ccf4df.jpg" src="/photos/tint/A%20Moment-65ba1d.jpg" height="1365" width="2048" />
   <img class="lazyload fullres" data-src="/photos/large/A%20Moment-686656.jpg" src="/photos/tint/A%20Moment-65ba1d.jpg" height="1365" width="2048" />
@@ -15,6 +75,9 @@ lazyload();
   </span>
   <a class="open" href="/a-moment" data-target="a-moment">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/crash-site" data-target="crash-site" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/oh-hi-there-aurora" data-target="oh-hi-there-aurora" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
