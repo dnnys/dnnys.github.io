@@ -7,6 +7,66 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="iced-hills" style="background-image: url('/photos/tint/Iced%20Hills-65ba1d.jpg')" title="Iced Hills">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Iced%20Hills-ccf4df.jpg" src="/photos/tint/Iced%20Hills-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Iced%20Hills-686656.jpg" src="/photos/tint/Iced%20Hills-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Iced%20Hills-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/iced-hills" data-target="iced-hills">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/the-all-blacks-have-arrived" data-target="the-all-blacks-have-arrived" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/1250</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="the-all-blacks-have-arrived" style="background-image: url('/photos/tint/The%20all%20blacks%20have%20arrived-65ba1d.jpg')" title="The all blacks have arrived">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/The%20all%20blacks%20have%20arrived-ccf4df.jpg" src="/photos/tint/The%20all%20blacks%20have%20arrived-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/The%20all%20blacks%20have%20arrived-686656.jpg" src="/photos/tint/The%20all%20blacks%20have%20arrived-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/The%20all%20blacks%20have%20arrived-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/the-all-blacks-have-arrived" data-target="the-all-blacks-have-arrived">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/iced-hills" data-target="iced-hills" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/come-to-your-river" data-target="come-to-your-river" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/1250</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="come-to-your-river" style="background-image: url('/photos/tint/Come%20to%20Your%20River-65ba1d.jpg')" title="Come to Your River">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Come%20to%20Your%20River-ccf4df.jpg" src="/photos/tint/Come%20to%20Your%20River-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Come%20to%20Your%20River-686656.jpg" src="/photos/tint/Come%20to%20Your%20River-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Come%20to%20Your%20River-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/come-to-your-river" data-target="come-to-your-river">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/the-all-blacks-have-arrived" data-target="the-all-blacks-have-arrived" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/where-earth-breaks-apart" data-target="where-earth-breaks-apart" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/1250</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
 <li class="item " id="where-earth-breaks-apart" style="background-image: url('/photos/tint/Where%20Earth%20Breaks%20Apart-65ba1d.jpg')" title="Where Earth Breaks Apart">
   <img class="lazyload thumb" data-src="/photos/thumbnail/Where%20Earth%20Breaks%20Apart-ccf4df.jpg" src="/photos/tint/Where%20Earth%20Breaks%20Apart-65ba1d.jpg" height="2048" width="1365" />
   <img class="lazyload fullres" data-src="/photos/large/Where%20Earth%20Breaks%20Apart-686656.jpg" src="/photos/tint/Where%20Earth%20Breaks%20Apart-65ba1d.jpg" height="2048" width="1365" />
@@ -15,6 +75,9 @@ lazyload();
   </span>
   <a class="open" href="/where-earth-breaks-apart" data-target="where-earth-breaks-apart">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/come-to-your-river" data-target="come-to-your-river" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/landscape-no-92782" data-target="landscape-no-92782" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
