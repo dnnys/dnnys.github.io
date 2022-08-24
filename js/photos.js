@@ -7,13 +7,13 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
-<li class="item " id="pure-elegance" style="background-image: url('/photos/tint/Pure%20Elegance-65ba1d.jpg')" title="Pure Elegance">
-  <img class="lazyload thumb" data-src="/photos/thumbnail/Pure%20Elegance-ccf4df.jpg" src="/photos/tint/Pure%20Elegance-65ba1d.jpg" height="1365" width="2048" />
-  <img class="lazyload fullres" data-src="/photos/large/Pure%20Elegance-686656.jpg" src="/photos/tint/Pure%20Elegance-65ba1d.jpg" height="1365" width="2048" />
+<li class="item " id="peak-elegance" style="background-image: url('/photos/tint/Peak%20Elegance-65ba1d.jpg')" title="Peak Elegance">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Peak%20Elegance-ccf4df.jpg" src="/photos/tint/Peak%20Elegance-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Peak%20Elegance-686656.jpg" src="/photos/tint/Peak%20Elegance-65ba1d.jpg" height="1365" width="2048" />
   <span class="full">
-    <span style="background-image: url('/photos/large/Pure%20Elegance-686656.jpg')"></span>
+    <span style="background-image: url('/photos/large/Peak%20Elegance-686656.jpg')"></span>
   </span>
-  <a class="open" href="/pure-elegance" data-target="pure-elegance">Open</a>
+  <a class="open" href="/peak-elegance" data-target="peak-elegance">Open</a>
   <a class="close" href="/">Close</a>
   <a href="/lightplay" data-target="lightplay" class="next" title="Go to next photo">
     <span>Next</span>
@@ -33,7 +33,7 @@ lazyload();
   </span>
   <a class="open" href="/lightplay" data-target="lightplay">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/pure-elegance" data-target="pure-elegance" class="previous" title="Go to previous photo">
+  <a href="/peak-elegance" data-target="peak-elegance" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/an-river-next-to-an-waterfall" data-target="an-river-next-to-an-waterfall" class="next" title="Go to next photo">
