@@ -7,6 +7,108 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="and-with-that-we-conclude-this-reporting-from-the-epic-landscapes-factory-tm-for-now" style="background-image: url('/photos/tint/And%20with%20that%20we%20conclude%20this%20reporting%20from%20The%20Epic%20Landscapes%20Factory%20TM%20(for%20now)-65ba1d.jpg')" title="And with that we conclude this reporting from The Epic Landscapes Factory TM (for now)">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/And%20with%20that%20we%20conclude%20this%20reporting%20from%20The%20Epic%20Landscapes%20Factory%20TM%20(for%20now)-ccf4df.jpg" src="/photos/tint/And%20with%20that%20we%20conclude%20this%20reporting%20from%20The%20Epic%20Landscapes%20Factory%20TM%20(for%20now)-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/And%20with%20that%20we%20conclude%20this%20reporting%20from%20The%20Epic%20Landscapes%20Factory%20TM%20(for%20now)-686656.jpg" src="/photos/tint/And%20with%20that%20we%20conclude%20this%20reporting%20from%20The%20Epic%20Landscapes%20Factory%20TM%20(for%20now)-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/And%20with%20that%20we%20conclude%20this%20reporting%20from%20The%20Epic%20Landscapes%20Factory%20TM%20(for%20now)-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/and-with-that-we-conclude-this-reporting-from-the-epic-landscapes-factory-tm-for-now" data-target="and-with-that-we-conclude-this-reporting-from-the-epic-landscapes-factory-tm-for-now">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/the-obligatory-black-church-tm-shot" data-target="the-obligatory-black-church-tm-shot" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/4000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="the-obligatory-black-church-tm-shot" style="background-image: url('/photos/tint/The%20obligatory%20Black%20Church%20TM%20shot-65ba1d.jpg')" title="The obligatory Black Church TM shot">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/The%20obligatory%20Black%20Church%20TM%20shot-ccf4df.jpg" src="/photos/tint/The%20obligatory%20Black%20Church%20TM%20shot-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/The%20obligatory%20Black%20Church%20TM%20shot-686656.jpg" src="/photos/tint/The%20obligatory%20Black%20Church%20TM%20shot-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/The%20obligatory%20Black%20Church%20TM%20shot-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/the-obligatory-black-church-tm-shot" data-target="the-obligatory-black-church-tm-shot">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/and-with-that-we-conclude-this-reporting-from-the-epic-landscapes-factory-tm-for-now" data-target="and-with-that-we-conclude-this-reporting-from-the-epic-landscapes-factory-tm-for-now" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/driver-s-heaven" data-target="driver-s-heaven" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/4000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="driver-s-heaven" style="background-image: url('/photos/tint/Driver%E2%80%98s%20heaven-65ba1d.jpg')" title="Driver‘s heaven">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Driver%E2%80%98s%20heaven-ccf4df.jpg" src="/photos/tint/Driver%E2%80%98s%20heaven-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Driver%E2%80%98s%20heaven-686656.jpg" src="/photos/tint/Driver%E2%80%98s%20heaven-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Driver%E2%80%98s%20heaven-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/driver-s-heaven" data-target="driver-s-heaven">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/the-obligatory-black-church-tm-shot" data-target="the-obligatory-black-church-tm-shot" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/across-the-fjord" data-target="across-the-fjord" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/4000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="across-the-fjord" style="background-image: url('/photos/tint/Across%20the%20Fjord-65ba1d.jpg')" title="Across the Fjord">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Across%20the%20Fjord-ccf4df.jpg" src="/photos/tint/Across%20the%20Fjord-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Across%20the%20Fjord-686656.jpg" src="/photos/tint/Across%20the%20Fjord-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Across%20the%20Fjord-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/across-the-fjord" data-target="across-the-fjord">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/driver-s-heaven" data-target="driver-s-heaven" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/a-crab-s-view" data-target="a-crab-s-view" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/4000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
+<li class="item " id="a-crab-s-view" style="background-image: url('/photos/tint/A%20crab%E2%80%98s%20view-65ba1d.jpg')" title="A crab‘s view">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/A%20crab%E2%80%98s%20view-ccf4df.jpg" src="/photos/tint/A%20crab%E2%80%98s%20view-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/A%20crab%E2%80%98s%20view-686656.jpg" src="/photos/tint/A%20crab%E2%80%98s%20view-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/A%20crab%E2%80%98s%20view-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/a-crab-s-view" data-target="a-crab-s-view">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/across-the-fjord" data-target="across-the-fjord" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/peak-elegance" data-target="peak-elegance" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/2500</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+  </ul>
+</li>
 <li class="item " id="peak-elegance" style="background-image: url('/photos/tint/Peak%20Elegance-65ba1d.jpg')" title="Peak Elegance">
   <img class="lazyload thumb" data-src="/photos/thumbnail/Peak%20Elegance-ccf4df.jpg" src="/photos/tint/Peak%20Elegance-65ba1d.jpg" height="1365" width="2048" />
   <img class="lazyload fullres" data-src="/photos/large/Peak%20Elegance-686656.jpg" src="/photos/tint/Peak%20Elegance-65ba1d.jpg" height="1365" width="2048" />
@@ -15,6 +117,9 @@ lazyload();
   </span>
   <a class="open" href="/peak-elegance" data-target="peak-elegance">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/a-crab-s-view" data-target="a-crab-s-view" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/lightplay" data-target="lightplay" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
