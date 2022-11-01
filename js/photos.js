@@ -7,6 +7,129 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="gelato-and-palms" style="background-image: url('/photos/tint/Gelato%20and%20Palms-65ba1d.jpg')" title="Gelato and Palms">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Gelato%20and%20Palms-ccf4df.jpg" src="/photos/tint/Gelato%20and%20Palms-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Gelato%20and%20Palms-686656.jpg" src="/photos/tint/Gelato%20and%20Palms-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Gelato%20and%20Palms-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/gelato-and-palms" data-target="gelato-and-palms">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/scenic-views" data-target="scenic-views" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2019</li>
+    <!-- <li>1/1000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>5.6</li> -->
+  </ul>
+</li>
+<li class="item " id="scenic-views" style="background-image: url('/photos/tint/Scenic%20Views-65ba1d.jpg')" title="Scenic Views">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Scenic%20Views-ccf4df.jpg" src="/photos/tint/Scenic%20Views-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Scenic%20Views-686656.jpg" src="/photos/tint/Scenic%20Views-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Scenic%20Views-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/scenic-views" data-target="scenic-views">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/gelato-and-palms" data-target="gelato-and-palms" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/foggy-winter-day" data-target="foggy-winter-day" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2019</li>
+    <!-- <li>1/4000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
+  </ul>
+</li>
+<li class="item " id="foggy-winter-day" style="background-image: url('/photos/tint/Foggy%20Winter%20Day-65ba1d.jpg')" title="Foggy Winter Day">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Foggy%20Winter%20Day-ccf4df.jpg" src="/photos/tint/Foggy%20Winter%20Day-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Foggy%20Winter%20Day-686656.jpg" src="/photos/tint/Foggy%20Winter%20Day-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Foggy%20Winter%20Day-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/foggy-winter-day" data-target="foggy-winter-day">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/scenic-views" data-target="scenic-views" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/calle-di-brunetti" data-target="calle-di-brunetti" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2019</li>
+    <!-- <li>1/4000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
+  </ul>
+</li>
+<li class="item " id="calle-di-brunetti" style="background-image: url('/photos/tint/Calle%20di%20Brunetti-65ba1d.jpg')" title="Calle di Brunetti">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Calle%20di%20Brunetti-ccf4df.jpg" src="/photos/tint/Calle%20di%20Brunetti-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Calle%20di%20Brunetti-686656.jpg" src="/photos/tint/Calle%20di%20Brunetti-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Calle%20di%20Brunetti-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/calle-di-brunetti" data-target="calle-di-brunetti">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/foggy-winter-day" data-target="foggy-winter-day" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/when-in-venice" data-target="when-in-venice" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2019</li>
+    <!-- <li>1/4000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>2.0</li> -->
+  </ul>
+</li>
+<li class="item " id="when-in-venice" style="background-image: url('/photos/tint/When%20in%20Venice-65ba1d.jpg')" title="When in Venice">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/When%20in%20Venice-ccf4df.jpg" src="/photos/tint/When%20in%20Venice-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/When%20in%20Venice-686656.jpg" src="/photos/tint/When%20in%20Venice-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/When%20in%20Venice-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/when-in-venice" data-target="when-in-venice">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/calle-di-brunetti" data-target="calle-di-brunetti" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/arriving-in-style" data-target="arriving-in-style" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2019</li>
+    <!-- <li>1/1000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>5.6</li> -->
+  </ul>
+</li>
+<li class="item " id="arriving-in-style" style="background-image: url('/photos/tint/Arriving%20in%20style-65ba1d.jpg')" title="Arriving in style">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Arriving%20in%20style-ccf4df.jpg" src="/photos/tint/Arriving%20in%20style-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Arriving%20in%20style-686656.jpg" src="/photos/tint/Arriving%20in%20style-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Arriving%20in%20style-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/arriving-in-style" data-target="arriving-in-style">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/when-in-venice" data-target="when-in-venice" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/the-man-with-the-hat" data-target="the-man-with-the-hat" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2019</li>
+    <!-- <li>1/4000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>8.0</li> -->
+  </ul>
+</li>
 <li class="item " id="the-man-with-the-hat" style="background-image: url('/photos/tint/The%20man%20with%20the%20hat-65ba1d.jpg')" title="The man with the hat">
   <img class="lazyload thumb" data-src="/photos/thumbnail/The%20man%20with%20the%20hat-ccf4df.jpg" src="/photos/tint/The%20man%20with%20the%20hat-65ba1d.jpg" height="2048" width="1365" />
   <img class="lazyload fullres" data-src="/photos/large/The%20man%20with%20the%20hat-686656.jpg" src="/photos/tint/The%20man%20with%20the%20hat-65ba1d.jpg" height="2048" width="1365" />
@@ -15,6 +138,9 @@ lazyload();
   </span>
   <a class="open" href="/the-man-with-the-hat" data-target="the-man-with-the-hat">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/arriving-in-style" data-target="arriving-in-style" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/victorian-building-angle" data-target="victorian-building-angle" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
