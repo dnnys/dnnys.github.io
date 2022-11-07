@@ -3,8 +3,8 @@
     <generator uri="https://github.com/maxvoltar/photo-stream">PhotoStream</generator>
     <link href="http://snaps.dnysgdnt.com/feed.xml" rel="self" type="application/atom+xml" />
     <link href="http://snaps.dnysgdnt.com/" rel="alternate" type="text/html"/>
-    <updated>2022-11-06T21:10:55+00:00</updated>
-    <id>2022-11-06T21:10:55+00:00</id>
+    <updated>2022-11-07T12:57:48+00:00</updated>
+    <id>2022-11-07T12:57:48+00:00</id>
     <title type="html">Dennys' SNAPS</title>
     <subtitle>A Collection of Personal Snaps from 2016–today</subtitle>
     <entry>
@@ -112,17 +112,17 @@
                     <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Like%20100%20years%20ago%20(minus%20the%20tourists)-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                     </entry>
                     <entry>
-                      <title type="html">Doing Tourisming</title>
-                      <link href="http://snaps.dnysgdnt.com/doing-tourisming/" rel="alternate" type="text/html" title="Doing Tourisming" />
+                      <title type="html">Most expensive Cappuccino ever but fkin worth it lol</title>
+                      <link href="http://snaps.dnysgdnt.com/most-expensive-cappuccino-ever-but-fkin-worth-it-lol/" rel="alternate" type="text/html" title="Most expensive Cappuccino ever but fkin worth it lol" />
                       <published>2022-11-01T21:46:51+00:00</published>
                       <updated>2022-11-01T21:46:51+00:00</updated>
-                      <id>http://snaps.dnysgdnt.com//doing-tourisming/</id>
+                      <id>http://snaps.dnysgdnt.com//most-expensive-cappuccino-ever-but-fkin-worth-it-lol/</id>
                       <content type="html">
-                        <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/doing-tourisming/"><img src="http://snaps.dnysgdnt.com//photos/large/Doing%20Tourisming-686656.jpg" alt="Doing Tourisming" /></a></figure>
+                        <![CDATA[<figure><a href="http://snaps.dnysgdnt.com/most-expensive-cappuccino-ever-but-fkin-worth-it-lol/"><img src="http://snaps.dnysgdnt.com//photos/large/Most%20expensive%20Cappuccino%20ever%20but%20fkin%20worth%20it%20lol-686656.jpg" alt="Most expensive Cappuccino ever but fkin worth it lol" /></a></figure>
                       ]]>
                     </content>
-                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Doing%20Tourisming-686656.jpg" />
-                      <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Doing%20Tourisming-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Most%20expensive%20Cappuccino%20ever%20but%20fkin%20worth%20it%20lol-686656.jpg" />
+                      <media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Most%20expensive%20Cappuccino%20ever%20but%20fkin%20worth%20it%20lol-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                       </entry>
                       <entry>
                         <title type="html">Night Views</title>
