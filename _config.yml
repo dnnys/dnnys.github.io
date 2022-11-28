@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Dennys' SNAPS
+title: SNAPS by Dennys
 email: dnnys@user.noreply.github.com
 author:
   name: Dennys
