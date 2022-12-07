@@ -7,6 +7,87 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="taking-in-the-views" style="background-image: url('/photos/tint/Taking%20in%20the%20views-65ba1d.jpg')" title="Taking in the views">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Taking%20in%20the%20views-ccf4df.jpg" src="/photos/tint/Taking%20in%20the%20views-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Taking%20in%20the%20views-686656.jpg" src="/photos/tint/Taking%20in%20the%20views-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Taking%20in%20the%20views-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/taking-in-the-views" data-target="taking-in-the-views">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/watch-the-planes-cut-through-the-blue-sky" data-target="watch-the-planes-cut-through-the-blue-sky" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2019</li>
+    <!-- <li>1/550</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>5.6</li> -->
+  </ul>
+</li>
+<li class="item " id="watch-the-planes-cut-through-the-blue-sky" style="background-image: url('/photos/tint/Watch%20the%20planes%20cut%20through%20the%20blue%20sky-65ba1d.jpg')" title="Watch the planes cut through the blue sky">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Watch%20the%20planes%20cut%20through%20the%20blue%20sky-ccf4df.jpg" src="/photos/tint/Watch%20the%20planes%20cut%20through%20the%20blue%20sky-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Watch%20the%20planes%20cut%20through%20the%20blue%20sky-686656.jpg" src="/photos/tint/Watch%20the%20planes%20cut%20through%20the%20blue%20sky-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Watch%20the%20planes%20cut%20through%20the%20blue%20sky-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/watch-the-planes-cut-through-the-blue-sky" data-target="watch-the-planes-cut-through-the-blue-sky">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/taking-in-the-views" data-target="taking-in-the-views" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/on-the-lookout-for-the-next-apero-pl%C3%A4ttli" data-target="on-the-lookout-for-the-next-apero-plättli" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2019</li>
+    <!-- <li>1/1000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>16.0</li> -->
+  </ul>
+</li>
+<li class="item " id="on-the-lookout-for-the-next-apero-plättli" style="background-image: url('/photos/tint/On%20the%20lookout%20for%20the%20next%20Apero%20Pl%C3%A4ttli-65ba1d.jpg')" title="On the lookout for the next Apero Plättli">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/On%20the%20lookout%20for%20the%20next%20Apero%20Pl%C3%A4ttli-ccf4df.jpg" src="/photos/tint/On%20the%20lookout%20for%20the%20next%20Apero%20Pl%C3%A4ttli-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/On%20the%20lookout%20for%20the%20next%20Apero%20Pl%C3%A4ttli-686656.jpg" src="/photos/tint/On%20the%20lookout%20for%20the%20next%20Apero%20Pl%C3%A4ttli-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/On%20the%20lookout%20for%20the%20next%20Apero%20Pl%C3%A4ttli-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/on-the-lookout-for-the-next-apero-pl%C3%A4ttli" data-target="on-the-lookout-for-the-next-apero-plättli">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/watch-the-planes-cut-through-the-blue-sky" data-target="watch-the-planes-cut-through-the-blue-sky" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/hazy-lago-di-garda-views" data-target="hazy-lago-di-garda-views" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2019</li>
+    <!-- <li>1/680</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>5.6</li> -->
+  </ul>
+</li>
+<li class="item " id="hazy-lago-di-garda-views" style="background-image: url('/photos/tint/Hazy%20Lago%20di%20Garda%20views-65ba1d.jpg')" title="Hazy Lago di Garda views">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Hazy%20Lago%20di%20Garda%20views-ccf4df.jpg" src="/photos/tint/Hazy%20Lago%20di%20Garda%20views-65ba1d.jpg" height="1365" width="2048" />
+  <img class="lazyload fullres" data-src="/photos/large/Hazy%20Lago%20di%20Garda%20views-686656.jpg" src="/photos/tint/Hazy%20Lago%20di%20Garda%20views-65ba1d.jpg" height="1365" width="2048" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Hazy%20Lago%20di%20Garda%20views-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/hazy-lago-di-garda-views" data-target="hazy-lago-di-garda-views">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/on-the-lookout-for-the-next-apero-pl%C3%A4ttli" data-target="on-the-lookout-for-the-next-apero-plättli" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/panda" data-target="panda" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2019</li>
+    <!-- <li>1/1500</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>5.6</li> -->
+  </ul>
+</li>
 <li class="item " id="panda" style="background-image: url('/photos/tint/Panda-65ba1d.jpg')" title="Panda">
   <img class="lazyload thumb" data-src="/photos/thumbnail/Panda-ccf4df.jpg" src="/photos/tint/Panda-65ba1d.jpg" height="2048" width="1365" />
   <img class="lazyload fullres" data-src="/photos/large/Panda-686656.jpg" src="/photos/tint/Panda-65ba1d.jpg" height="2048" width="1365" />
@@ -15,6 +96,9 @@ lazyload();
   </span>
   <a class="open" href="/panda" data-target="panda">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/hazy-lago-di-garda-views" data-target="hazy-lago-di-garda-views" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/court-ii" data-target="court-ii" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
