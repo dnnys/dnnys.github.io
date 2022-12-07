@@ -14,8 +14,11 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.0'
-          bundler-cache: true
 
+      - name: Install Bundler
+        run:
+          gem install bundler
+           
       - name: Cache dependencies
         uses: actions/cache@v2
         with:
