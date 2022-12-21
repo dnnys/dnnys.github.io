@@ -7,6 +7,87 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="lake-garda-village-postcard" style="background-image: url('/photos/tint/Lake%20Garda%20Village%20Postcard-65ba1d.jpg')" title="Lake Garda Village Postcard">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Lake%20Garda%20Village%20Postcard-ccf4df.jpg" src="/photos/tint/Lake%20Garda%20Village%20Postcard-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Lake%20Garda%20Village%20Postcard-686656.jpg" src="/photos/tint/Lake%20Garda%20Village%20Postcard-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Lake%20Garda%20Village%20Postcard-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/lake-garda-village-postcard" data-target="lake-garda-village-postcard">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/the-space-station" data-target="the-space-station" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2019</li>
+    <!-- <li>1/340</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>5.6</li> -->
+  </ul>
+</li>
+<li class="item " id="the-space-station" style="background-image: url('/photos/tint/The%20Space%20Station-65ba1d.jpg')" title="The Space Station">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/The%20Space%20Station-ccf4df.jpg" src="/photos/tint/The%20Space%20Station-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/The%20Space%20Station-686656.jpg" src="/photos/tint/The%20Space%20Station-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/The%20Space%20Station-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/the-space-station" data-target="the-space-station">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/lake-garda-village-postcard" data-target="lake-garda-village-postcard" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/inside-the-space-station-ii" data-target="inside-the-space-station-ii" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2019</li>
+    <!-- <li>1/1000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>5.6</li> -->
+  </ul>
+</li>
+<li class="item " id="inside-the-space-station-ii" style="background-image: url('/photos/tint/Inside%20the%20Space%20Station%20II-65ba1d.jpg')" title="Inside the Space Station II">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Inside%20the%20Space%20Station%20II-ccf4df.jpg" src="/photos/tint/Inside%20the%20Space%20Station%20II-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Inside%20the%20Space%20Station%20II-686656.jpg" src="/photos/tint/Inside%20the%20Space%20Station%20II-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Inside%20the%20Space%20Station%20II-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/inside-the-space-station-ii" data-target="inside-the-space-station-ii">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/the-space-station" data-target="the-space-station" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/inside-the-space-station-i" data-target="inside-the-space-station-i" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2019</li>
+    <!-- <li>1/100</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>16.0</li> -->
+  </ul>
+</li>
+<li class="item " id="inside-the-space-station-i" style="background-image: url('/photos/tint/Inside%20the%20Space%20Station%20I-65ba1d.jpg')" title="Inside the Space Station I">
+  <img class="lazyload thumb" data-src="/photos/thumbnail/Inside%20the%20Space%20Station%20I-ccf4df.jpg" src="/photos/tint/Inside%20the%20Space%20Station%20I-65ba1d.jpg" height="2048" width="1365" />
+  <img class="lazyload fullres" data-src="/photos/large/Inside%20the%20Space%20Station%20I-686656.jpg" src="/photos/tint/Inside%20the%20Space%20Station%20I-65ba1d.jpg" height="2048" width="1365" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Inside%20the%20Space%20Station%20I-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/inside-the-space-station-i" data-target="inside-the-space-station-i">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/inside-the-space-station-ii" data-target="inside-the-space-station-ii" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/garda-angle-two" data-target="garda-angle-two" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2019</li>
+    <!-- <li>1/100</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>16.0</li> -->
+  </ul>
+</li>
 <li class="item " id="garda-angle-two" style="background-image: url('/photos/tint/Garda%20angle%20two-65ba1d.jpg')" title="Garda angle two">
   <img class="lazyload thumb" data-src="/photos/thumbnail/Garda%20angle%20two-ccf4df.jpg" src="/photos/tint/Garda%20angle%20two-65ba1d.jpg" height="2048" width="1365" />
   <img class="lazyload fullres" data-src="/photos/large/Garda%20angle%20two-686656.jpg" src="/photos/tint/Garda%20angle%20two-65ba1d.jpg" height="2048" width="1365" />
@@ -15,6 +96,9 @@ lazyload();
   </span>
   <a class="open" href="/garda-angle-two" data-target="garda-angle-two">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/inside-the-space-station-i" data-target="inside-the-space-station-i" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/garda-angle-three" data-target="garda-angle-three" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
