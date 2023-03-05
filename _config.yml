@@ -20,20 +20,14 @@
 
 title: SNAPS by Dennys
 email: dnnys@user.noreply.github.com
-author:
-  name: Dennys
-  email: dnnys@user.noreply.github.com #optional
-  website: https://snaps.dnysgdnt.com
 description: >- # this means to ignore newlines until "baseurl:"
   A Collection of Personal Snaps from 2016–today
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://snaps.dnysgdnt.com/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: none
-github_username: none
-instagram_username: none
 
 # Build settings
 plugins:
+  - jekyll-feed
   - jekyll-exif-data
 
 image_processing:

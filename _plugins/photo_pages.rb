@@ -25,7 +25,7 @@ module Jekyll
       self.process(@name)
       self.read_yaml(File.join(base), "index.html")
 
-      self.data["title"] = name
+      self.data["title"] = name.gsub! '_', ' '
       self.data["images"] = [file]
       self.data["image_slug"] = slug
     end
