@@ -3,12 +3,72 @@
 	<generator uri="https://github.com/maxvoltar/photo-stream">PhotoStream</generator>
 	<link href="http://snaps.dnysgdnt.com/feed.xml" rel="self" type="application/atom+xml" />
 	<link href="http://snaps.dnysgdnt.com/" rel="alternate" type="text/html"/>
-	<updated>2023-03-05T14:51:54+00:00</updated>
-	<id>2023-03-05T14:51:54+00:00</id>
+	<updated>2023-03-05T15:08:48+00:00</updated>
+	<id>2023-03-05T15:08:48+00:00</id>
 	<title type="html">SNAPS by Dennys</title>
 	<subtitle>A Collection of Personal Snaps from 2016–today</subtitle>
 
 	
+	
+		
+		<entry>
+			<title type="html">Wes_Anderson's_Breakfast_Spot</title>
+			<link href="http://snaps.dnysgdnt.com/wes-anderson-s-breakfast-spot/" rel="alternate" type="text/html" title="Wes_Anderson's_Breakfast_Spot" />
+			<published>2023-01-31T21:26:18+00:00</published>
+			<updated>2023-01-31T21:26:18+00:00</updated>
+			<id>http://snaps.dnysgdnt.com//wes-anderson-s-breakfast-spot/</id>
+			<content type="html">
+				<![CDATA[<figure><a href="http://snaps.dnysgdnt.com/wes-anderson-s-breakfast-spot/"><img src="http://snaps.dnysgdnt.com//photos/large/Wes_Anderson's_Breakfast_Spot-686656.jpg" alt="Wes_Anderson's_Breakfast_Spot" /></a></figure>]]>
+			</content>
+
+			<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Wes_Anderson's_Breakfast_Spot-686656.jpg" />
+			<media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Wes_Anderson's_Breakfast_Spot-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+		</entry>
+	
+		
+		<entry>
+			<title type="html">Winter_Station</title>
+			<link href="http://snaps.dnysgdnt.com/winter-station/" rel="alternate" type="text/html" title="Winter_Station" />
+			<published>2023-01-31T21:25:32+00:00</published>
+			<updated>2023-01-31T21:25:32+00:00</updated>
+			<id>http://snaps.dnysgdnt.com//winter-station/</id>
+			<content type="html">
+				<![CDATA[<figure><a href="http://snaps.dnysgdnt.com/winter-station/"><img src="http://snaps.dnysgdnt.com//photos/large/Winter_Station-686656.jpg" alt="Winter_Station" /></a></figure>]]>
+			</content>
+
+			<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Winter_Station-686656.jpg" />
+			<media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Winter_Station-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+		</entry>
+	
+		
+		<entry>
+			<title type="html">Promenade_Views</title>
+			<link href="http://snaps.dnysgdnt.com/promenade-views/" rel="alternate" type="text/html" title="Promenade_Views" />
+			<published>2023-01-31T21:25:13+00:00</published>
+			<updated>2023-01-31T21:25:13+00:00</updated>
+			<id>http://snaps.dnysgdnt.com//promenade-views/</id>
+			<content type="html">
+				<![CDATA[<figure><a href="http://snaps.dnysgdnt.com/promenade-views/"><img src="http://snaps.dnysgdnt.com//photos/large/Promenade_Views-686656.jpg" alt="Promenade_Views" /></a></figure>]]>
+			</content>
+
+			<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Promenade_Views-686656.jpg" />
+			<media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Promenade_Views-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+		</entry>
+	
+		
+		<entry>
+			<title type="html">Concordia</title>
+			<link href="http://snaps.dnysgdnt.com/concordia/" rel="alternate" type="text/html" title="Concordia" />
+			<published>2023-01-31T21:24:57+00:00</published>
+			<updated>2023-01-31T21:24:57+00:00</updated>
+			<id>http://snaps.dnysgdnt.com//concordia/</id>
+			<content type="html">
+				<![CDATA[<figure><a href="http://snaps.dnysgdnt.com/concordia/"><img src="http://snaps.dnysgdnt.com//photos/large/Concordia-686656.jpg" alt="Concordia" /></a></figure>]]>
+			</content>
+
+			<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Concordia-686656.jpg" />
+			<media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Concordia-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+		</entry>
 	
 		
 		<entry>
@@ -248,66 +308,6 @@
 
 			<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/On_the_lookout_for_the_next_Apero_Pl%C3%A4ttli-686656.jpg" />
 			<media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/On_the_lookout_for_the_next_Apero_Pl%C3%A4ttli-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
-		</entry>
-	
-		
-		<entry>
-			<title type="html">Hazy_Lago_di_Garda_views</title>
-			<link href="http://snaps.dnysgdnt.com/hazy-lago-di-garda-views/" rel="alternate" type="text/html" title="Hazy_Lago_di_Garda_views" />
-			<published>2022-12-07T15:06:50+00:00</published>
-			<updated>2022-12-07T15:06:50+00:00</updated>
-			<id>http://snaps.dnysgdnt.com//hazy-lago-di-garda-views/</id>
-			<content type="html">
-				<![CDATA[<figure><a href="http://snaps.dnysgdnt.com/hazy-lago-di-garda-views/"><img src="http://snaps.dnysgdnt.com//photos/large/Hazy_Lago_di_Garda_views-686656.jpg" alt="Hazy_Lago_di_Garda_views" /></a></figure>]]>
-			</content>
-
-			<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Hazy_Lago_di_Garda_views-686656.jpg" />
-			<media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Hazy_Lago_di_Garda_views-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
-		</entry>
-	
-		
-		<entry>
-			<title type="html">Panda</title>
-			<link href="http://snaps.dnysgdnt.com/panda/" rel="alternate" type="text/html" title="Panda" />
-			<published>2022-11-28T15:07:25+00:00</published>
-			<updated>2022-11-28T15:07:25+00:00</updated>
-			<id>http://snaps.dnysgdnt.com//panda/</id>
-			<content type="html">
-				<![CDATA[<figure><a href="http://snaps.dnysgdnt.com/panda/"><img src="http://snaps.dnysgdnt.com//photos/large/Panda-686656.jpg" alt="Panda" /></a></figure>]]>
-			</content>
-
-			<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Panda-686656.jpg" />
-			<media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Panda-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
-		</entry>
-	
-		
-		<entry>
-			<title type="html">Court_II</title>
-			<link href="http://snaps.dnysgdnt.com/court-ii/" rel="alternate" type="text/html" title="Court_II" />
-			<published>2022-11-28T15:07:25+00:00</published>
-			<updated>2022-11-28T15:07:25+00:00</updated>
-			<id>http://snaps.dnysgdnt.com//court-ii/</id>
-			<content type="html">
-				<![CDATA[<figure><a href="http://snaps.dnysgdnt.com/court-ii/"><img src="http://snaps.dnysgdnt.com//photos/large/Court_II-686656.jpg" alt="Court_II" /></a></figure>]]>
-			</content>
-
-			<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Court_II-686656.jpg" />
-			<media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Court_II-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
-		</entry>
-	
-		
-		<entry>
-			<title type="html">Court_III</title>
-			<link href="http://snaps.dnysgdnt.com/court-iii/" rel="alternate" type="text/html" title="Court_III" />
-			<published>2022-11-28T15:07:24+00:00</published>
-			<updated>2022-11-28T15:07:24+00:00</updated>
-			<id>http://snaps.dnysgdnt.com//court-iii/</id>
-			<content type="html">
-				<![CDATA[<figure><a href="http://snaps.dnysgdnt.com/court-iii/"><img src="http://snaps.dnysgdnt.com//photos/large/Court_III-686656.jpg" alt="Court_III" /></a></figure>]]>
-			</content>
-
-			<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Court_III-686656.jpg" />
-			<media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Court_III-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
 		</entry>
 	
 </feed>

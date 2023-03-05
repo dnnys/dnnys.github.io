@@ -17,6 +17,177 @@
 
 
 
+<li class="item " id="wes-anderson-s-breakfast-spot" style="background-image: url('/photos/tint/Wes_Anderson's_Breakfast_Spot-65ba1d.jpg')" title="Wes_Anderson's_Breakfast_Spot">
+
+	<img class="lazyload thumb" data-src="/photos/thumbnail/Wes_Anderson's_Breakfast_Spot-ccf4df.jpg" src="/photos/tint/Wes_Anderson's_Breakfast_Spot-65ba1d.jpg" height="2048" width="1365" />
+	
+	<img class="lazyload fullres" data-src="/photos/large/Wes_Anderson's_Breakfast_Spot-686656.jpg" src="/photos/tint/Wes_Anderson's_Breakfast_Spot-65ba1d.jpg" height="2048" width="1365" />
+	
+	
+	<span class="full">
+		<span style="background-image: url('/photos/large/Wes_Anderson's_Breakfast_Spot-686656.jpg')"></span>
+	</span>
+	<a class="open" href="/wes-anderson-s-breakfast-spot" data-target="wes-anderson-s-breakfast-spot">Open</a>
+	<a class="close" href="/">Close</a>
+
+    
+
+    
+    	
+        <a href="/winter-station" data-target="winter-station" class="next" title="Go to next photo">
+            <span>Next</span>
+        </a>
+    
+
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2019</li>
+    <!-- <li>1/4000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>5.6</li> -->
+	</ul>
+</li>
+
+	
+
+
+
+
+
+
+
+
+<li class="item " id="winter-station" style="background-image: url('/photos/tint/Winter_Station-65ba1d.jpg')" title="Winter_Station">
+
+	<img class="lazyload thumb" data-src="/photos/thumbnail/Winter_Station-ccf4df.jpg" src="/photos/tint/Winter_Station-65ba1d.jpg" height="2048" width="1365" />
+	
+	<img class="lazyload fullres" data-src="/photos/large/Winter_Station-686656.jpg" src="/photos/tint/Winter_Station-65ba1d.jpg" height="2048" width="1365" />
+	
+	
+	<span class="full">
+		<span style="background-image: url('/photos/large/Winter_Station-686656.jpg')"></span>
+	</span>
+	<a class="open" href="/winter-station" data-target="winter-station">Open</a>
+	<a class="close" href="/">Close</a>
+
+    
+    	
+    	<a href="/wes-anderson-s-breakfast-spot" data-target="wes-anderson-s-breakfast-spot" class="previous" title="Go to previous photo">
+            <span>Previous</span>
+        </a>
+    
+
+    
+    	
+        <a href="/promenade-views" data-target="promenade-views" class="next" title="Go to next photo">
+            <span>Next</span>
+        </a>
+    
+
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2019</li>
+    <!-- <li>1/1000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>5.6</li> -->
+	</ul>
+</li>
+
+	
+
+
+
+
+
+
+
+
+<li class="item " id="promenade-views" style="background-image: url('/photos/tint/Promenade_Views-65ba1d.jpg')" title="Promenade_Views">
+
+	<img class="lazyload thumb" data-src="/photos/thumbnail/Promenade_Views-ccf4df.jpg" src="/photos/tint/Promenade_Views-65ba1d.jpg" height="2048" width="1365" />
+	
+	<img class="lazyload fullres" data-src="/photos/large/Promenade_Views-686656.jpg" src="/photos/tint/Promenade_Views-65ba1d.jpg" height="2048" width="1365" />
+	
+	
+	<span class="full">
+		<span style="background-image: url('/photos/large/Promenade_Views-686656.jpg')"></span>
+	</span>
+	<a class="open" href="/promenade-views" data-target="promenade-views">Open</a>
+	<a class="close" href="/">Close</a>
+
+    
+    	
+    	<a href="/winter-station" data-target="winter-station" class="previous" title="Go to previous photo">
+            <span>Previous</span>
+        </a>
+    
+
+    
+    	
+        <a href="/concordia" data-target="concordia" class="next" title="Go to next photo">
+            <span>Next</span>
+        </a>
+    
+
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2019</li>
+    <!-- <li>1/1000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>5.6</li> -->
+	</ul>
+</li>
+
+	
+
+
+
+
+
+
+
+
+<li class="item " id="concordia" style="background-image: url('/photos/tint/Concordia-65ba1d.jpg')" title="Concordia">
+
+	<img class="lazyload thumb" data-src="/photos/thumbnail/Concordia-ccf4df.jpg" src="/photos/tint/Concordia-65ba1d.jpg" height="2048" width="1365" />
+	
+	<img class="lazyload fullres" data-src="/photos/large/Concordia-686656.jpg" src="/photos/tint/Concordia-65ba1d.jpg" height="2048" width="1365" />
+	
+	
+	<span class="full">
+		<span style="background-image: url('/photos/large/Concordia-686656.jpg')"></span>
+	</span>
+	<a class="open" href="/concordia" data-target="concordia">Open</a>
+	<a class="close" href="/">Close</a>
+
+    
+    	
+    	<a href="/promenade-views" data-target="promenade-views" class="previous" title="Go to previous photo">
+            <span>Previous</span>
+        </a>
+    
+
+    
+    	
+        <a href="/watching-the-views" data-target="watching-the-views" class="next" title="Go to next photo">
+            <span>Next</span>
+        </a>
+    
+
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2019</li>
+    <!-- <li>1/2000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>5.6</li> -->
+	</ul>
+</li>
+
+	
+
+
+
+
+
+
+
+
 <li class="item " id="watching-the-views" style="background-image: url('/photos/tint/Watching_the_views-65ba1d.jpg')" title="Watching_the_views">
 
 	<img class="lazyload thumb" data-src="/photos/thumbnail/Watching_the_views-ccf4df.jpg" src="/photos/tint/Watching_the_views-65ba1d.jpg" height="1365" width="2048" />
@@ -30,6 +201,11 @@
 	<a class="open" href="/watching-the-views" data-target="watching-the-views">Open</a>
 	<a class="close" href="/">Close</a>
 
+    
+    	
+    	<a href="/concordia" data-target="concordia" class="previous" title="Go to previous photo">
+            <span>Previous</span>
+        </a>
     
 
     
