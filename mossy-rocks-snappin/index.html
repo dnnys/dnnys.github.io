@@ -1,146 +1,168 @@
 <!doctype html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-    <title data-title="SNAPS by Dennys">Mossy rocks snappin</title>
-    <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://snaps.dnysgdnt.com/feed.xml">
-    <meta property="og:title" content="Mossy rocks snappin">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="http://snaps.dnysgdnt.com//mossy-rocks-snappin/">
-    <meta property="og:image" content="http://snaps.dnysgdnt.com//photos/large/Mossy%20rocks%20snappin-686656.jpg">
-    <meta property="og:site_name" content="SNAPS by Dennys">
-    <meta property="og:description" content="A Collection of Personal Snaps from 2016–today">
-    <meta name="thumbnail" content="http://snaps.dnysgdnt.com//photos/large/Mossy%20rocks%20snappin-686656.jpg">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="none">
-    <meta name="twitter:title" content="Mossy rocks snappin">
-    <meta name="twitter:description" content="A Collection of Personal Snaps from 2016–today">
-    <meta name="twitter:image:src" content="http://snaps.dnysgdnt.com//photos/large/Mossy%20rocks%20snappin-686656.jpg">
-    <meta name="description" content="A Collection of Personal Snaps from 2016–today">
-    <script type="text/javascript" src="/js/lazy-loading.js"></script>
-    <link rel="stylesheet" type="text/css" media="screen" href="/css/master.css" />
-    <link rel="shortcut icon" type="image/svg+xml" href="/favicon.svg" />
-    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
-    <link rel="apple-touch-icon" href="touch-icon-iphone.png" />
-    <link rel="mask-icon" href="favicon.svg" />
-  </head>
-  <body>
-    <ul class="grid" id="target">
-      <li class="item target" id="mossy-rocks-snappin" style="background-image: url('/photos/tint/Mossy%20rocks%20snappin-65ba1d.jpg')" title="Mossy rocks snappin">
-        <img class="lazyload thumb" data-src="/photos/thumbnail/Mossy%20rocks%20snappin-ccf4df.jpg" src="/photos/tint/Mossy%20rocks%20snappin-65ba1d.jpg" height="1365" width="2048" />
-        <img class="lazyload fullres" data-src="/photos/large/Mossy%20rocks%20snappin-686656.jpg" src="/photos/tint/Mossy%20rocks%20snappin-65ba1d.jpg" height="1365" width="2048" />
-        <span class="full">
-          <span style="background-image: url('/photos/large/Mossy%20rocks%20snappin-686656.jpg')"></span>
-        </span>
-        <a class="open" href="/mossy-rocks-snappin" data-target="mossy-rocks-snappin">Open</a>
-        <a class="close" href="/">Close</a>
-        <ul class="meta">
-          <li>SONY</li>
-          <li>2018</li>
-          <!-- <li>1/400</li> -->
-          <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
-        </ul>
-      </li>
-    </ul>
-    <ul class="links">
-      <li class="link"><a type="url" href="http://eepurl.com/h1COQv" title="Subscribe to weekly e-mail newsletter">Newsletter</a></li>
-      <li class="rss"><a rel="alternate" type="application/rss+xml" href="http://snaps.dnysgdnt.com/feed.xml" title="RSS Feed">RSS Feed</a></li>
-    </ul>
-    <script>
-      const ESCAPE = 27;
-      const RIGHT = 39;
-      const LEFT = 37;
-      const TARGET_CLASS = 'target';
-      
-      const clickNavigationButton = (buttonClass) => {
-        const id = window.history.state && window.history.state.id;
-        if (id) {
-          const selector = `#${id} ${buttonClass}`;
-          const button = document.querySelector(selector);
-          button && button.click();
-        }
-      }
-      
-      const openPhoto = (id, href) => {
-        const photo = document.getElementById(id);
-        const title = photo.getAttribute('title');
-        removeTargetClass();
-        photo.classList.add(TARGET_CLASS);
-        document.title = title;
-        if (href) {
-          window.history.pushState({id: id}, '', href);
-        }
-      }
-      
-      const closePhoto = (href) => {
-        const title = document.querySelector('head title').getAttribute('data-title');
-        removeTargetClass();
-        document.title = title;
-        if (href) {
-          window.history.pushState({}, '', href);
-        }
-      }
-      
-      const removeTargetClass = () => {
-        let targets = document.querySelectorAll(`.${TARGET_CLASS}`);
-        targets.forEach((target) => {
-          target.classList.remove(TARGET_CLASS);
-        });
-      }
-      
-      const handleClick = (selector, event, callback) => {
-        if (event.target.matches(selector)) {
-          callback();
-          event.preventDefault();
-        }
-      }
-      
-      const handleKey = (keyCode, event, callback) => {
-        if (event.keyCode === keyCode) {
-          callback();
-          event.preventDefault();
-        }
-      }
-      
-      window.onpopstate = function(event) {
-        if (event.state && event.state.id) {
-          const id = event.state.id;
-          openPhoto(id, null);
-        } else {
-          closePhoto(null);
-        }
-      }
-      
-      document.addEventListener('keydown', (event) => {
-        handleKey(ESCAPE, event, () => {
-          clickNavigationButton('.close');
-        });
-      
-        handleKey(RIGHT, event, () => {
-          clickNavigationButton('.next');
-        });
-      
-        handleKey(LEFT, event, () => {
-          clickNavigationButton('.previous');
-        });
-      });
-      
-      document.addEventListener('click', (event) => {
-        handleClick('[data-target][href]', event, () => {
-          const id = event.target.getAttribute('data-target');
-          const href = event.target.getAttribute('href');
-          openPhoto(id, href);
-        });
-      
-        handleClick('[href].close', event, () => {
-          const href = event.target.getAttribute('href');
-          closePhoto(href);
-        });
-      });
-      
-      lazyload();
-    </script>
-    <script src="/js/photos.js" data-photo-id="mossy-rocks-snappin" data-photo-url="/mossy-rocks-snappin" data-target-id="target"></script>
-  </body>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+	<title data-title="SNAPS by Dennys">Mossy rocks snappin</title>
+	<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://snaps.dnysgdnt.com/feed.xml">
+	<meta property="og:title" content="Mossy rocks snappin">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="http://snaps.dnysgdnt.com//mossy-rocks-snappin/">
+	<meta property="og:image" content="http://snaps.dnysgdnt.com//photos/large/Mossy_rocks_snappin-686656.jpg">
+	<meta property="og:site_name" content="SNAPS by Dennys">
+	<meta property="og:description" content="A Collection of Personal Snaps from 2016–today">
+	<meta name="thumbnail" content="http://snaps.dnysgdnt.com//photos/large/Mossy_rocks_snappin-686656.jpg">
+	<meta name="description" content="A Collection of Personal Snaps from 2016–today">
+	<script type="text/javascript" src="/js/lazy-loading.js"></script>
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/master.css" />
+	<link rel="shortcut icon" type="image/svg+xml" href="/favicon.svg" />
+	<link rel="shortcut icon" type="image/png" href="/favicon.png" />
+	<link rel="apple-touch-icon" href="touch-icon-iphone.png" />
+	<link rel="mask-icon" href="favicon.svg" />
+</head>
+
+<body>
+	
+	<ul class="grid" id="target">
+		
+		
+	
+
+
+
+
+
+
+
+
+<li class="item target" id="mossy-rocks-snappin" style="background-image: url('/photos/tint/Mossy_rocks_snappin-65ba1d.jpg')" title="Mossy_rocks_snappin">
+
+	<img class="lazyload thumb" data-src="/photos/thumbnail/Mossy_rocks_snappin-ccf4df.jpg" src="/photos/tint/Mossy_rocks_snappin-65ba1d.jpg" height="1365" width="2048" />
+	
+	<img class="lazyload fullres" data-src="/photos/large/Mossy_rocks_snappin-686656.jpg" src="/photos/tint/Mossy_rocks_snappin-65ba1d.jpg" height="1365" width="2048" />
+	
+	
+	<span class="full">
+		<span style="background-image: url('/photos/large/Mossy_rocks_snappin-686656.jpg')"></span>
+	</span>
+	<a class="open" href="/mossy-rocks-snappin" data-target="mossy-rocks-snappin">Open</a>
+	<a class="close" href="/">Close</a>
+
+    
+
+    
+
+  <ul class="meta">
+    <li>SONY</li>
+    <li>2018</li>
+    <!-- <li>1/400</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>0.0</li> -->
+	</ul>
+</li>
+
+
+		</ul>
+		<ul class="links">
+			<li class="link"><a type="url" href="http://eepurl.com/h1COQv" title="Subscribe to weekly e-mail newsletter">Newsletter</a></li>
+			<li class="rss"><a rel="alternate" type="application/rss+xml" href="http://snaps.dnysgdnt.com/feed.xml" title="RSS Feed">RSS Feed</a></li>
+		</ul>
+		<script>
+  const ESCAPE = 27;
+  const RIGHT = 39;
+  const LEFT = 37;
+  const TARGET_CLASS = 'target';
+
+  const clickNavigationButton = (buttonClass) => {
+    const id = window.history.state && window.history.state.id;
+    if (id) {
+      const selector = `#${id} ${buttonClass}`;
+      const button = document.querySelector(selector);
+      button && button.click();
+    }
+  }
+
+  const openPhoto = (id, href) => {
+    const photo = document.getElementById(id);
+    const title = photo.getAttribute('title');
+    removeTargetClass();
+    photo.classList.add(TARGET_CLASS);
+    document.title = title;
+    if (href) {
+      window.history.pushState({id: id}, '', href);
+    }
+  }
+
+  const closePhoto = (href) => {
+    const title = document.querySelector('head title').getAttribute('data-title');
+    removeTargetClass();
+    document.title = title;
+    if (href) {
+      window.history.pushState({}, '', href);
+    }
+  }
+
+  const removeTargetClass = () => {
+    let targets = document.querySelectorAll(`.${TARGET_CLASS}`);
+    targets.forEach((target) => {
+      target.classList.remove(TARGET_CLASS);
+    });
+  }
+
+  const handleClick = (selector, event, callback) => {
+    if (event.target.matches(selector)) {
+      callback();
+      event.preventDefault();
+    }
+  }
+
+  const handleKey = (keyCode, event, callback) => {
+    if (event.keyCode === keyCode) {
+      callback();
+      event.preventDefault();
+    }
+  }
+
+  window.onpopstate = function(event) {
+    if (event.state && event.state.id) {
+      const id = event.state.id;
+      openPhoto(id, null);
+    } else {
+      closePhoto(null);
+    }
+  }
+
+  document.addEventListener('keydown', (event) => {
+    handleKey(ESCAPE, event, () => {
+      clickNavigationButton('.close');
+    });
+
+    handleKey(RIGHT, event, () => {
+      clickNavigationButton('.next');
+    });
+
+    handleKey(LEFT, event, () => {
+      clickNavigationButton('.previous');
+    });
+  });
+
+  document.addEventListener('click', (event) => {
+    handleClick('[data-target][href]', event, () => {
+      const id = event.target.getAttribute('data-target');
+      const href = event.target.getAttribute('href');
+      openPhoto(id, href);
+    });
+
+    handleClick('[href].close', event, () => {
+      const href = event.target.getAttribute('href');
+      closePhoto(href);
+    });
+  });
+
+  lazyload();
+</script>
+
+		
+			<script src="/js/photos.js" data-photo-id="mossy-rocks-snappin" data-photo-url="/mossy-rocks-snappin" data-target-id="target"></script>
+		
+</body>
 </html>
