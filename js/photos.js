@@ -17,6 +17,177 @@
 
 
 
+<li class="item " id="oh-look" style="background-image: url('/photos/tint/Oh_look!-65ba1d.jpg')" title="Oh_look!">
+
+	<img class="lazyload thumb" data-src="/photos/thumbnail/Oh_look!-ccf4df.jpg" src="/photos/tint/Oh_look!-65ba1d.jpg" height="2048" width="1365" />
+	
+	<img class="lazyload fullres" data-src="/photos/large/Oh_look!-686656.jpg" src="/photos/tint/Oh_look!-65ba1d.jpg" height="2048" width="1365" />
+	
+	
+	<span class="full">
+		<span style="background-image: url('/photos/large/Oh_look!-686656.jpg')"></span>
+	</span>
+	<a class="open" href="/oh-look" data-target="oh-look">Open</a>
+	<a class="close" href="/">Close</a>
+
+    
+
+    
+    	
+        <a href="/c-and-a-kraut" data-target="c-and-a-kraut" class="next" title="Go to next photo">
+            <span>Next</span>
+        </a>
+    
+
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2019</li>
+    <!-- <li>1/320</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>5.6</li> -->
+	</ul>
+</li>
+
+	
+
+
+
+
+
+
+
+
+<li class="item " id="c-and-a-kraut" style="background-image: url('/photos/tint/C_and_a_Kraut-65ba1d.jpg')" title="C_and_a_Kraut">
+
+	<img class="lazyload thumb" data-src="/photos/thumbnail/C_and_a_Kraut-ccf4df.jpg" src="/photos/tint/C_and_a_Kraut-65ba1d.jpg" height="1365" width="2048" />
+	
+	<img class="lazyload fullres" data-src="/photos/large/C_and_a_Kraut-686656.jpg" src="/photos/tint/C_and_a_Kraut-65ba1d.jpg" height="1365" width="2048" />
+	
+	
+	<span class="full">
+		<span style="background-image: url('/photos/large/C_and_a_Kraut-686656.jpg')"></span>
+	</span>
+	<a class="open" href="/c-and-a-kraut" data-target="c-and-a-kraut">Open</a>
+	<a class="close" href="/">Close</a>
+
+    
+    	
+    	<a href="/oh-look" data-target="oh-look" class="previous" title="Go to previous photo">
+            <span>Previous</span>
+        </a>
+    
+
+    
+    	
+        <a href="/malcinese-centro" data-target="malcinese-centro" class="next" title="Go to next photo">
+            <span>Next</span>
+        </a>
+    
+
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2019</li>
+    <!-- <li>1/4000</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>5.6</li> -->
+	</ul>
+</li>
+
+	
+
+
+
+
+
+
+
+
+<li class="item " id="malcinese-centro" style="background-image: url('/photos/tint/Malcinese_Centro-65ba1d.jpg')" title="Malcinese_Centro">
+
+	<img class="lazyload thumb" data-src="/photos/thumbnail/Malcinese_Centro-ccf4df.jpg" src="/photos/tint/Malcinese_Centro-65ba1d.jpg" height="2048" width="1365" />
+	
+	<img class="lazyload fullres" data-src="/photos/large/Malcinese_Centro-686656.jpg" src="/photos/tint/Malcinese_Centro-65ba1d.jpg" height="2048" width="1365" />
+	
+	
+	<span class="full">
+		<span style="background-image: url('/photos/large/Malcinese_Centro-686656.jpg')"></span>
+	</span>
+	<a class="open" href="/malcinese-centro" data-target="malcinese-centro">Open</a>
+	<a class="close" href="/">Close</a>
+
+    
+    	
+    	<a href="/c-and-a-kraut" data-target="c-and-a-kraut" class="previous" title="Go to previous photo">
+            <span>Previous</span>
+        </a>
+    
+
+    
+    	
+        <a href="/light-in-villages-hitting-like" data-target="light-in-villages-hitting-like" class="next" title="Go to next photo">
+            <span>Next</span>
+        </a>
+    
+
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2019</li>
+    <!-- <li>1/750</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>5.6</li> -->
+	</ul>
+</li>
+
+	
+
+
+
+
+
+
+
+
+<li class="item " id="light-in-villages-hitting-like" style="background-image: url('/photos/tint/Light_in_villages,_hitting_like-65ba1d.jpg')" title="Light_in_villages,_hitting_like">
+
+	<img class="lazyload thumb" data-src="/photos/thumbnail/Light_in_villages,_hitting_like-ccf4df.jpg" src="/photos/tint/Light_in_villages,_hitting_like-65ba1d.jpg" height="2048" width="1365" />
+	
+	<img class="lazyload fullres" data-src="/photos/large/Light_in_villages,_hitting_like-686656.jpg" src="/photos/tint/Light_in_villages,_hitting_like-65ba1d.jpg" height="2048" width="1365" />
+	
+	
+	<span class="full">
+		<span style="background-image: url('/photos/large/Light_in_villages,_hitting_like-686656.jpg')"></span>
+	</span>
+	<a class="open" href="/light-in-villages-hitting-like" data-target="light-in-villages-hitting-like">Open</a>
+	<a class="close" href="/">Close</a>
+
+    
+    	
+    	<a href="/malcinese-centro" data-target="malcinese-centro" class="previous" title="Go to previous photo">
+            <span>Previous</span>
+        </a>
+    
+
+    
+    	
+        <a href="/wes-anderson-s-breakfast-spot" data-target="wes-anderson-s-breakfast-spot" class="next" title="Go to next photo">
+            <span>Next</span>
+        </a>
+    
+
+  <ul class="meta">
+    <li>FUJIFILM</li>
+    <li>2019</li>
+    <!-- <li>1/1800</li> -->
+    <!-- <li><span class="aperture"><em>f</em>/</span>5.6</li> -->
+	</ul>
+</li>
+
+	
+
+
+
+
+
+
+
+
 <li class="item " id="wes-anderson-s-breakfast-spot" style="background-image: url('/photos/tint/Wes_Anderson's_Breakfast_Spot-65ba1d.jpg')" title="Wes_Anderson's_Breakfast_Spot">
 
 	<img class="lazyload thumb" data-src="/photos/thumbnail/Wes_Anderson's_Breakfast_Spot-ccf4df.jpg" src="/photos/tint/Wes_Anderson's_Breakfast_Spot-65ba1d.jpg" height="2048" width="1365" />
@@ -30,6 +201,11 @@
 	<a class="open" href="/wes-anderson-s-breakfast-spot" data-target="wes-anderson-s-breakfast-spot">Open</a>
 	<a class="close" href="/">Close</a>
 
+    
+    	
+    	<a href="/light-in-villages-hitting-like" data-target="light-in-villages-hitting-like" class="previous" title="Go to previous photo">
+            <span>Previous</span>
+        </a>
     
 
     

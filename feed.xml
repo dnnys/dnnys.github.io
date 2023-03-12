@@ -3,12 +3,72 @@
 	<generator uri="https://github.com/maxvoltar/photo-stream">PhotoStream</generator>
 	<link href="http://snaps.dnysgdnt.com/feed.xml" rel="self" type="application/atom+xml" />
 	<link href="http://snaps.dnysgdnt.com/" rel="alternate" type="text/html"/>
-	<updated>2023-03-05T15:08:48+00:00</updated>
-	<id>2023-03-05T15:08:48+00:00</id>
+	<updated>2023-03-12T08:40:04+00:00</updated>
+	<id>2023-03-12T08:40:04+00:00</id>
 	<title type="html">SNAPS by Dennys</title>
 	<subtitle>A Collection of Personal Snaps from 2016–today</subtitle>
 
 	
+	
+		
+		<entry>
+			<title type="html">Oh_look!</title>
+			<link href="http://snaps.dnysgdnt.com/oh-look/" rel="alternate" type="text/html" title="Oh_look!" />
+			<published>2023-03-11T12:38:26+00:00</published>
+			<updated>2023-03-11T12:38:26+00:00</updated>
+			<id>http://snaps.dnysgdnt.com//oh-look/</id>
+			<content type="html">
+				<![CDATA[<figure><a href="http://snaps.dnysgdnt.com/oh-look/"><img src="http://snaps.dnysgdnt.com//photos/large/Oh_look!-686656.jpg" alt="Oh_look!" /></a></figure>]]>
+			</content>
+
+			<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Oh_look!-686656.jpg" />
+			<media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Oh_look!-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+		</entry>
+	
+		
+		<entry>
+			<title type="html">C_and_a_Kraut</title>
+			<link href="http://snaps.dnysgdnt.com/c-and-a-kraut/" rel="alternate" type="text/html" title="C_and_a_Kraut" />
+			<published>2023-03-11T12:37:32+00:00</published>
+			<updated>2023-03-11T12:37:32+00:00</updated>
+			<id>http://snaps.dnysgdnt.com//c-and-a-kraut/</id>
+			<content type="html">
+				<![CDATA[<figure><a href="http://snaps.dnysgdnt.com/c-and-a-kraut/"><img src="http://snaps.dnysgdnt.com//photos/large/C_and_a_Kraut-686656.jpg" alt="C_and_a_Kraut" /></a></figure>]]>
+			</content>
+
+			<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/C_and_a_Kraut-686656.jpg" />
+			<media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/C_and_a_Kraut-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+		</entry>
+	
+		
+		<entry>
+			<title type="html">Malcinese_Centro</title>
+			<link href="http://snaps.dnysgdnt.com/malcinese-centro/" rel="alternate" type="text/html" title="Malcinese_Centro" />
+			<published>2023-03-11T12:37:04+00:00</published>
+			<updated>2023-03-11T12:37:04+00:00</updated>
+			<id>http://snaps.dnysgdnt.com//malcinese-centro/</id>
+			<content type="html">
+				<![CDATA[<figure><a href="http://snaps.dnysgdnt.com/malcinese-centro/"><img src="http://snaps.dnysgdnt.com//photos/large/Malcinese_Centro-686656.jpg" alt="Malcinese_Centro" /></a></figure>]]>
+			</content>
+
+			<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Malcinese_Centro-686656.jpg" />
+			<media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Malcinese_Centro-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+		</entry>
+	
+		
+		<entry>
+			<title type="html">Light_in_villages,_hitting_like</title>
+			<link href="http://snaps.dnysgdnt.com/light-in-villages-hitting-like/" rel="alternate" type="text/html" title="Light_in_villages,_hitting_like" />
+			<published>2023-03-11T12:36:14+00:00</published>
+			<updated>2023-03-11T12:36:14+00:00</updated>
+			<id>http://snaps.dnysgdnt.com//light-in-villages-hitting-like/</id>
+			<content type="html">
+				<![CDATA[<figure><a href="http://snaps.dnysgdnt.com/light-in-villages-hitting-like/"><img src="http://snaps.dnysgdnt.com//photos/large/Light_in_villages,_hitting_like-686656.jpg" alt="Light_in_villages,_hitting_like" /></a></figure>]]>
+			</content>
+
+			<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Light_in_villages,_hitting_like-686656.jpg" />
+			<media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Light_in_villages,_hitting_like-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+		</entry>
 	
 		
 		<entry>
@@ -248,66 +308,6 @@
 
 			<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Off_season_vibes_748-686656.jpg" />
 			<media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Off_season_vibes_748-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
-		</entry>
-	
-		
-		<entry>
-			<title type="html">Off_season_vibes_625</title>
-			<link href="http://snaps.dnysgdnt.com/off-season-vibes-625/" rel="alternate" type="text/html" title="Off_season_vibes_625" />
-			<published>2022-12-16T13:30:31+00:00</published>
-			<updated>2022-12-16T13:30:31+00:00</updated>
-			<id>http://snaps.dnysgdnt.com//off-season-vibes-625/</id>
-			<content type="html">
-				<![CDATA[<figure><a href="http://snaps.dnysgdnt.com/off-season-vibes-625/"><img src="http://snaps.dnysgdnt.com//photos/large/Off_season_vibes_625-686656.jpg" alt="Off_season_vibes_625" /></a></figure>]]>
-			</content>
-
-			<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Off_season_vibes_625-686656.jpg" />
-			<media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Off_season_vibes_625-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
-		</entry>
-	
-		
-		<entry>
-			<title type="html">Taking_in_the_views</title>
-			<link href="http://snaps.dnysgdnt.com/taking-in-the-views/" rel="alternate" type="text/html" title="Taking_in_the_views" />
-			<published>2022-12-07T15:06:52+00:00</published>
-			<updated>2022-12-07T15:06:52+00:00</updated>
-			<id>http://snaps.dnysgdnt.com//taking-in-the-views/</id>
-			<content type="html">
-				<![CDATA[<figure><a href="http://snaps.dnysgdnt.com/taking-in-the-views/"><img src="http://snaps.dnysgdnt.com//photos/large/Taking_in_the_views-686656.jpg" alt="Taking_in_the_views" /></a></figure>]]>
-			</content>
-
-			<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Taking_in_the_views-686656.jpg" />
-			<media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Taking_in_the_views-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
-		</entry>
-	
-		
-		<entry>
-			<title type="html">Watch_the_planes_cut_through_the_blue_sky</title>
-			<link href="http://snaps.dnysgdnt.com/watch-the-planes-cut-through-the-blue-sky/" rel="alternate" type="text/html" title="Watch_the_planes_cut_through_the_blue_sky" />
-			<published>2022-12-07T15:06:51+00:00</published>
-			<updated>2022-12-07T15:06:51+00:00</updated>
-			<id>http://snaps.dnysgdnt.com//watch-the-planes-cut-through-the-blue-sky/</id>
-			<content type="html">
-				<![CDATA[<figure><a href="http://snaps.dnysgdnt.com/watch-the-planes-cut-through-the-blue-sky/"><img src="http://snaps.dnysgdnt.com//photos/large/Watch_the_planes_cut_through_the_blue_sky-686656.jpg" alt="Watch_the_planes_cut_through_the_blue_sky" /></a></figure>]]>
-			</content>
-
-			<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/Watch_the_planes_cut_through_the_blue_sky-686656.jpg" />
-			<media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/Watch_the_planes_cut_through_the_blue_sky-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
-		</entry>
-	
-		
-		<entry>
-			<title type="html">On_the_lookout_for_the_next_Apero_Plättli</title>
-			<link href="http://snaps.dnysgdnt.com/on-the-lookout-for-the-next-apero-plättli/" rel="alternate" type="text/html" title="On_the_lookout_for_the_next_Apero_Plättli" />
-			<published>2022-12-07T15:06:51+00:00</published>
-			<updated>2022-12-07T15:06:51+00:00</updated>
-			<id>http://snaps.dnysgdnt.com//on-the-lookout-for-the-next-apero-plättli/</id>
-			<content type="html">
-				<![CDATA[<figure><a href="http://snaps.dnysgdnt.com/on-the-lookout-for-the-next-apero-plättli/"><img src="http://snaps.dnysgdnt.com//photos/large/On_the_lookout_for_the_next_Apero_Pl%C3%A4ttli-686656.jpg" alt="On_the_lookout_for_the_next_Apero_Plättli" /></a></figure>]]>
-			</content>
-
-			<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://snaps.dnysgdnt.com//photos/large/On_the_lookout_for_the_next_Apero_Pl%C3%A4ttli-686656.jpg" />
-			<media:content medium="image" url="http://snaps.dnysgdnt.com//photos/large/On_the_lookout_for_the_next_Apero_Pl%C3%A4ttli-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
 		</entry>
 	
 </feed>
