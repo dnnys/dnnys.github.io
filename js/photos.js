@@ -17,45 +17,6 @@
 
 
 
-<li class="item " id="uphill" style="background-image: url('/photos/tint/Uphill-65ba1d.jpg')" title="Uphill">
-
-	<img class="lazyload thumb" data-src="/photos/thumbnail/Uphill-ccf4df.jpg" src="/photos/tint/Uphill-65ba1d.jpg" height="1365" width="2048" />
-	
-	<img class="lazyload fullres" data-src="/photos/large/Uphill-686656.jpg" src="/photos/tint/Uphill-65ba1d.jpg" height="1365" width="2048" />
-	
-	
-	<span class="full">
-		<span style="background-image: url('/photos/large/Uphill-686656.jpg')"></span>
-	</span>
-	<a class="open" href="/uphill" data-target="uphill">Open</a>
-	<a class="close" href="/">Close</a>
-
-    
-
-    
-    	
-        <a href="/oh-look" data-target="oh-look" class="next" title="Go to next photo">
-            <span>Next</span>
-        </a>
-    
-
-  <ul class="meta">
-    <li>FUJIFILM</li>
-    <li>2019</li>
-    <!-- <li>1/500</li> -->
-    <!-- <li><span class="aperture"><em>f</em>/</span>5.6</li> -->
-	</ul>
-</li>
-
-	
-
-
-
-
-
-
-
-
 <li class="item " id="oh-look" style="background-image: url('/photos/tint/Oh_look!-65ba1d.jpg')" title="Oh_look!">
 
 	<img class="lazyload thumb" data-src="/photos/thumbnail/Oh_look!-ccf4df.jpg" src="/photos/tint/Oh_look!-65ba1d.jpg" height="2048" width="1365" />
@@ -69,11 +30,6 @@
 	<a class="open" href="/oh-look" data-target="oh-look">Open</a>
 	<a class="close" href="/">Close</a>
 
-    
-    	
-    	<a href="/uphill" data-target="uphill" class="previous" title="Go to previous photo">
-            <span>Previous</span>
-        </a>
     
 
     
