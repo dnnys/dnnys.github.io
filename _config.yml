@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: SNAPS by Dennys
+title: SNAPS – Everyday snapshots by Dennys
 email: dnnys@user.noreply.github.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A Collection of Personal Snaps from 2016–today
+  A collection of personal snapshots from 2016 to today
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://snaps.dnysgdnt.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -34,7 +34,7 @@ image_processing:
   large:
     source: photos/original
     destination: photos/large
-    resize_to_limit: [2048, 2048]
+    resize_to_limit: [4048, 4048]
     saver:
       strip: true
   thumbnail:
