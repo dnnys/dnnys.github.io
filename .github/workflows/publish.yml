@@ -13,14 +13,14 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '2.6'
+          ruby-version: '3.3'
 
       - name: Install Bundler
         run:
           gem install bundler
            
       - name: Cache dependencies
-        uses: actions/cache@v2
+        uses: actions/cache@
         with:
           path: vendor/bundle
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
