@@ -12,5 +12,5 @@ jobs:
       - uses: helaili/jekyll-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          # Optional if your Jekyll site needs libvips
-          pre_build_commands: sudo apt-get update && sudo apt-get install -y libvips libvips-dev
+          # Modified pre-build without sudo
+          pre_build_commands: apt-get update && apt-get install -y libvips libvips-dev
