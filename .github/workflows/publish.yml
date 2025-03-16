@@ -1,58 +1,16 @@
-name: Build and deploy Jekyll site to GitHub Pages
+name: Build and deploy Jekyll site
 
 on:
   push:
-    branches: [ dev ]  # or master, depending on your default branch name
-  pull_request:
     branches: [ dev ]
-  # Allow manual triggering
-  workflow_dispatch:
 
-# Add this permissions block
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-# Configure pages
 jobs:
-  build-and-deploy:
+  github-pages:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Install libvips and other dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y libvips libvips-dev libvips-tools
-
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
+      - uses: actions/checkout@v2
+      - uses: helaili/jekyll-action@v2
         with:
-          ruby-version: '3.1'
-          bundler-cache: true
-
-      - name: Install dependencies
-        run: |
-          gem install bundler
-          bundle install
-
-      - name: Build site
-        run: bundle exec jekyll build
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v3
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
-        with:
-          path: '_site'
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        if: github.event_name != 'pull_request'
-        uses: actions/deploy-pages@v1
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # Optional if your Jekyll site needs libvips
+          pre_build_commands: sudo apt-get update && sudo apt-get install -y libvips libvips-dev
