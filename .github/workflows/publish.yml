@@ -1,49 +1,37 @@
-name: GitHub Pages
+name: Build and deploy Jekyll site to GitHub Pages
 
 on:
   push:
-    branches:
-      - dev
+    branches: [ dev ]  # or master, depending on your default branch name
+  pull_request:
+    branches: [ dev ]
+  # Allow manual triggering
+  workflow_dispatch:
 
 jobs:
-  deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3'
+          ruby-version: '3.1'
+          bundler-cache: true
 
-      - name: Install Bundler
-        run:
+      - name: Install dependencies
+        run: |
           gem install bundler
-           
-      - name: Cache dependencies
-        uses: actions/cache@v3
-        with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
+          bundle install
 
-      - name: Install dependencies  # GHA runs 18.04 which has old libvips
-        run: >
-          curl -L 'https://github.com/libvips/libvips/releases/download/v8.13.3/vips-8.13.3.tar.gz' | tar xzf - &&
-          cd vips-* &&
-          ./configure --prefix=/usr &&
-          make &&
-          sudo make install
-
-      - name: Install Ruby dependencies
-        run: bundle install
-
-      - name: Run Jekyll
+      - name: Build site
         run: bundle exec jekyll build
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Deploy to GitHub Pages
+        if: github.event_name != 'pull_request'
+        uses: actions/deploy-pages@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site/
-          cname: snaps.dnysgdnt.com
+          token: ${{ secrets.GITHUB_TOKEN }}
+          folder: _site  # The folder the Jekyll site is built to
