@@ -5,7 +5,6 @@ on:
     branches: [ dev ]  # or master, depending on your default branch name
   pull_request:
     branches: [ dev ]
-    
   # Allow manual triggering
   workflow_dispatch:
 
@@ -49,11 +48,11 @@ jobs:
         uses: actions/configure-pages@v3
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v1
         with:
           path: '_site'
 
       - name: Deploy to GitHub Pages
         id: deployment
         if: github.event_name != 'pull_request'
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v1
